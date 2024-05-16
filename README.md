@@ -4,3 +4,4 @@ A collection of resources built to analyze Billboard Top 50 Airplay lists
     - The ipynb file ranks artists by #1 songs using this playlist, including batched extraction of data from the Spotify API
 
 - The Excel file is an analysis of accuracy of Billboard's [stated rules](https://www.billboard.com/billboard-charts-legend/) for removing songs after certain duration, and visualization of trends by song and artist
+- The Excel file also has a bunch of things like sparkline song rank over time and % female by week
