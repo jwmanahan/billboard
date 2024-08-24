@@ -1,8 +1,8 @@
 import duckdb
 import os
 
-# Define the path to your raw table configurations
-config_dir = '/Users/ehodo/PycharmProjects/pit_stop_aug_23rd/table_configs/billboard/'
+# TODO: Define the path to your raw table configurations. Use \\ on Windows
+config_dir = 'C:\\Users\\Admin\\billboard\\table_configs\\billboard'
 
 # Specify the DuckDB database file for raw data
 db_file = 'raw_db.duckdb'
