@@ -10,6 +10,16 @@ db_file = 'raw_db.duckdb'
 # Connect to your DuckDB database
 con = duckdb.connect(db_file)
 
+# Clear existing table definitions
+## TOFIX
+drop_all_tables_sql = """
+SELECT
+  'DROP TABLE IF EXISTS "' || tablename || '" CASCADE;'
+FROM pg_tables
+WHERE schemaname = 'billboard';
+"""
+con.execute(drop_all_tables_sql)
+
 # Recursively loop through each SQL file in the directory and subdirectories and execute it
 for root, dirs, files in os.walk(config_dir):
     for sql_file in files:
