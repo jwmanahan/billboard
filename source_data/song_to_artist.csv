@@ -62,7 +62,7 @@ song_to_artist_pk,song_id,artist_id,relationship_type,relationship_conjunction,r
 61-Lead artist-,61,1,Lead artist,,,2024-08-25
 62-Lead artist-,62,4,Lead artist,,,2024-08-25
 63-Lead artist-,63,11,Lead artist,,,2024-08-25
-63-Lead artist-,63,15,Lead artist,,,2024-08-25
+64-Lead artist-,64,15,Lead artist,,,2024-08-25
 64-Featured artist-1,64,6,Featured artist,,1,2024-08-25
 65-Lead artist-,65,29,Lead artist,,,2024-08-25
 65-Other main artist-1,65,5,Other main artist,&,1,2024-08-25

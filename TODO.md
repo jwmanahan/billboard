@@ -1,4 +1,4 @@
-- Add song_to_artist table fragment
+- Write and save a script to nuke and rebuild the whole database
 - Add billboard_ranking table fragment
 - Test and add script saved to desktop to rank artists
 - Fill out table fragments with all remaining data in Excel
