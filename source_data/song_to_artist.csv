@@ -71,3 +71,9 @@ song_to_artist_pk,song_id,artist_id,relationship_type,relationship_conjunction,r
 68-Lead artist-,68,52,Lead artist,,,2024-08-25
 69-Lead artist-,69,53,Lead artist,,,2024-08-25
 70-Lead artist-,70,53,Lead artist,,,2024-08-25
+71-Lead artist-,71,1,Lead artist,,,2024-08-27
+71-Featured artist-1,71,54,Featured artist,,1,2024-08-27
+72-Lead artist-,72,4,Lead artist,,,2024-08-27
+73-Lead artist-,73,1,Lead artist,,,2024-08-27
+74-Lead artist-,74,4,Lead artist,,,2024-08-27
+75-Lead artist-,75,8,Lead artist,,,2024-08-27
