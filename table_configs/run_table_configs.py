@@ -1,14 +1,24 @@
 import duckdb
 import os
 
-# Define the path to your raw table configurations
-config_dir = '/Users/ehodo/PycharmProjects/pit_stop_aug_23rd/table_configs/billboard/'
+# TODO: Define the path to your raw table configurations. Use \\ on Windows
+config_dir = 'C:\\Users\\Admin\\billboard\\table_configs\\billboard'
 
 # Specify the DuckDB database file for raw data
 db_file = 'raw_db.duckdb'
 
 # Connect to your DuckDB database
 con = duckdb.connect(db_file)
+
+# Clear existing table definitions
+## TOFIX
+drop_all_tables_sql = """
+SELECT
+  'DROP TABLE IF EXISTS "' || tablename || '" CASCADE;'
+FROM pg_tables
+WHERE schemaname = 'billboard';
+"""
+con.execute(drop_all_tables_sql)
 
 # Recursively loop through each SQL file in the directory and subdirectories and execute it
 for root, dirs, files in os.walk(config_dir):

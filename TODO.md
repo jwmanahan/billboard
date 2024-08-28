@@ -1,0 +1,9 @@
+- Write and save a script to nuke and rebuild the whole database
+- Write a jupyter script to upload with names, but converted to IDs when uploaded
+- Test and add script saved to desktop to rank artists
+- Fill out table fragments with all remaining data in Excel
+- Write, test, save ipynb for female/male distribution over time
+- dbt and snapshots or manually write out changelog for each table
+- Ipynb sparklines by song, especially for most recent billboard observation date and songs from most recent minus one that were removed
+- Sparklines overlain on each other by artist, colored by artist relationship type with the song
+- L26W artist popularity over time

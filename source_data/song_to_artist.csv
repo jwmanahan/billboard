@@ -1,0 +1,79 @@
+song_to_artist_pk,song_id,artist_id,relationship_type,relationship_conjunction,relationship_index,last_update
+1-Lead artist-,1,1,Lead artist,,,2024-08-25
+1-Featured artist-1,1,30,Featured artist,,1,2024-08-25
+9-Lead artist-,9,6,Lead artist,,,2024-08-25
+9-Other main artist-1,9,11,Other main artist,With,1,2024-08-25
+17-Lead artist-,17,3,Lead artist,,,2024-08-25
+17-Other main artist-1,17,31,Other main artist,&,1,2024-08-25
+17-Other main artist-2,17,32,Other main artist,&,2,2024-08-25
+17-Other main artist-3,17,33,Other main artist,&,3,2024-08-25
+17-Other main artist-4,17,34,Other main artist,&,4,2024-08-25
+21-Lead artist-,21,10,Lead artist,,,2024-08-25
+22-Lead artist-,22,12,Lead artist,,,2024-08-25
+23-Lead artist-,23,18,Lead artist,,,2024-08-25
+24-Lead artist-,24,14,Lead artist,,,2024-08-25
+25-Lead artist-,25,35,Lead artist,,,2024-08-25
+25-Featured artist-1,25,5,Featured artist,,1,2024-08-25
+26-Lead artist-,26,8,Lead artist,,,2024-08-25
+27-Lead artist-,27,26,Lead artist,,,2024-08-25
+28-Lead artist-,28,1,Lead artist,,,2024-08-25
+29-Lead artist-,29,36,Lead artist,,,2024-08-25
+30-Lead artist-,30,9,Lead artist,,,2024-08-25
+31-Lead artist-,31,7,Lead artist,,,2024-08-25
+32-Lead artist-,32,2,Lead artist,,,2024-08-25
+32-Featured artist-1,32,37,Featured artist,,1,2024-08-25
+33-Lead artist-,33,38,Lead artist,,,2024-08-25
+34-Lead artist-,34,25,Lead artist,,,2024-08-25
+35-Lead artist-,35,39,Lead artist,,,2024-08-25
+36-Lead artist-,36,40,Lead artist,,,2024-08-25
+37-Lead artist-,37,41,Lead artist,,,2024-08-25
+37-Other main artist-1,37,20,Other main artist,&,1,2024-08-25
+38-Lead artist-,38,15,Lead artist,,,2024-08-25
+38-Other main artist-1,38,2,Other main artist,&,1,2024-08-25
+39-Lead artist-,39,22,Lead artist,,,2024-08-25
+40-Lead artist-,40,6,Lead artist,,,2024-08-25
+41-Lead artist-,41,16,Lead artist,,,2024-08-25
+42-Lead artist-,42,11,Lead artist,,,2024-08-25
+43-Lead artist-,43,1,Lead artist,,,2024-08-25
+44-Lead artist-,44,42,Lead artist,,,2024-08-25
+45-Lead artist-,45,17,Lead artist,,,2024-08-25
+46-Lead artist-,46,43,Lead artist,,,2024-08-25
+47-Lead artist-,47,16,Lead artist,,,2024-08-25
+47-Other main artist-1,47,13,Other main artist,&,1,2024-08-25
+48-Lead artist-,48,5,Lead artist,,,2024-08-25
+49-Lead artist-,49,24,Lead artist,,,2024-08-25
+50-Lead artist-,50,44,Lead artist,,,2024-08-25
+50-Featured artist-1,50,2,Featured artist,,1,2024-08-25
+51-Lead artist-,51,6,Lead artist,,,2024-08-25
+52-Lead artist-,52,15,Lead artist,,,2024-08-25
+52-Featured artist-1,52,45,Featured artist,,1,2024-08-25
+53-Lead artist-,53,46,Lead artist,,,2024-08-25
+53-Featured artist-1,53,39,Featured artist,,1,2024-08-25
+54-Lead artist-,54,25,Lead artist,,,2024-08-25
+54-Featured artist-1,54,47,Featured artist,,1,2024-08-25
+55-Lead artist-,55,48,Lead artist,,,2024-08-25
+55-Other main artist-1,55,49,Other main artist,&,1,2024-08-25
+56-Lead artist-,56,1,Lead artist,,,2024-08-25
+57-Lead artist-,57,1,Lead artist,,,2024-08-25
+58-Lead artist-,58,2,Lead artist,,,2024-08-25
+59-Lead artist-,59,1,Lead artist,,,2024-08-25
+59-Featured artist-1,59,50,Featured artist,,1,2024-08-25
+60-Lead artist-,60,1,Lead artist,,,2024-08-25
+61-Lead artist-,61,1,Lead artist,,,2024-08-25
+62-Lead artist-,62,4,Lead artist,,,2024-08-25
+63-Lead artist-,63,11,Lead artist,,,2024-08-25
+64-Lead artist-,64,15,Lead artist,,,2024-08-25
+64-Featured artist-1,64,6,Featured artist,,1,2024-08-25
+65-Lead artist-,65,29,Lead artist,,,2024-08-25
+65-Other main artist-1,65,5,Other main artist,&,1,2024-08-25
+66-Lead artist-,66,51,Lead artist,,,2024-08-25
+67-Lead artist-,67,5,Lead artist,,,2024-08-25
+68-Lead artist-,68,52,Lead artist,,,2024-08-25
+69-Lead artist-,69,53,Lead artist,,,2024-08-25
+70-Lead artist-,70,53,Lead artist,,,2024-08-25
+71-Lead artist-,71,1,Lead artist,,,2024-08-27
+71-Featured artist-1,71,54,Featured artist,,1,2024-08-27
+72-Lead artist-,72,4,Lead artist,,,2024-08-27
+73-Lead artist-,73,1,Lead artist,,,2024-08-27
+74-Lead artist-,74,4,Lead artist,,,2024-08-27
+75-Lead artist-,75,8,Lead artist,,,2024-08-27
