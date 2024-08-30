@@ -127,3 +127,5 @@ song_to_artist_pk,song_id,artist_id,relationship_type,relationship_conjunction,r
 88-Lead artist-,88,15,Lead artist,,,2024-08-29
 88-Featured artist-1,88,60,Featured artist,,1,2024-08-29
 89-Lead artist-,89,15,Lead artist,,,2024-08-29
+90-Lead artist-,90,15,Lead artist,,,2024-08-30
+90-Featured artist-1,90,61,Featured artist,,1,2024-08-30
