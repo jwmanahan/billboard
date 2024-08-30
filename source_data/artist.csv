@@ -1,55 +1,61 @@
 artist_id,artist_name,pct_female,last_update
-1,Zach Bryan,0,2024-08-23
-2,Morgan Wallen,0,2024-08-23
-3,Beyonce,1,2024-08-23
-4,Megan Moroney,1,2024-08-23
-5,Jelly Roll,0,2024-08-23
-6,Luke Combs,0,2024-08-23
-7,Dylan Scott,0,2024-08-23
-8,Bailey Zimmerman,0,2024-08-23
-9,Tucker Wetmore,0,2024-08-23
-10,Cody Johnson,0,2024-08-23
-11,Lainey Wilson,1,2024-08-23
-12,Chris Stapleton,0,2024-08-23
-13,Jessie Murph,1,2024-08-23
-14,Nate Smith,0,2024-08-23
-15,Post Malone,0,2024-08-23
-16,Koe Wetzel,0,2024-08-23
-17,The Red Clay Strays,0,2024-08-23
-18,Chase Matthew,0,2024-08-23
-19,Bryan Martin,0,2024-08-23
-20,Kane Brown,0,2024-08-23
-21,Jason Aldean,0,2024-08-23
-22,Thomas Rhett,0,2024-08-23
-23,Carly Pearce,1,2024-08-23
-24,Warren Zeiders,0,2024-08-23
-25,Shaboozey,0,2024-08-23
-26,Dasha,1,2024-08-23
-27,Ashley Cooke,1,2024-08-23
+1,Zach Bryan,0.0,2024-08-23
+2,Morgan Wallen,0.0,2024-08-23
+3,Beyonce,1.0,2024-08-23
+4,Megan Moroney,1.0,2024-08-23
+5,Jelly Roll,0.0,2024-08-23
+6,Luke Combs,0.0,2024-08-23
+7,Dylan Scott,0.0,2024-08-23
+8,Bailey Zimmerman,0.0,2024-08-23
+9,Tucker Wetmore,0.0,2024-08-23
+10,Cody Johnson,0.0,2024-08-23
+11,Lainey Wilson,1.0,2024-08-23
+12,Chris Stapleton,0.0,2024-08-23
+13,Jessie Murph,1.0,2024-08-23
+14,Nate Smith,0.0,2024-08-23
+15,Post Malone,0.0,2024-08-23
+16,Koe Wetzel,0.0,2024-08-23
+17,The Red Clay Strays,0.0,2024-08-23
+18,Chase Matthew,0.0,2024-08-23
+19,Bryan Martin,0.0,2024-08-23
+20,Kane Brown,0.0,2024-08-23
+21,Jason Aldean,0.0,2024-08-23
+22,Thomas Rhett,0.0,2024-08-23
+23,Carly Pearce,1.0,2024-08-23
+24,Warren Zeiders,0.0,2024-08-23
+25,Shaboozey,0.0,2024-08-23
+26,Dasha,1.0,2024-08-23
+27,Ashley Cooke,1.0,2024-08-23
 28,Zac Brown Band,0.111111111111111,2024-08-23
-29,mgk,0,2024-08-23
-30,Kacey Musgraves,1,2024-08-23
-31,Tanner Adell,1,2024-08-23
-32,Brittney Spencer,1,2024-08-23
-33,Tiera Kennedy,1,2024-08-23
-34,Reyna Roberts,1,2024-08-23
-35,Dustin Lynch,0,2024-08-23
-36,Chris Young,0,2024-08-23
-37,ERNEST,0,2024-08-23
-38,Luke Bryan,0,2024-08-23
-39,Riley Green,0,2024-08-23
-40,Tyler Braden,0,2024-08-23
-41,Marshmello,0,2024-08-23
-42,Drew Baldridge,0,2024-08-23
-43,Bayker Blankenship,0,2024-08-23
-44,Moneybagg Yo,0,2024-08-23
-45,Blake Shelton,0,2024-08-23
-46,Ella Langley,1,2024-08-23
-47,BigXthaPlug,0,2024-08-23
-48,Kelsea Ballerini,1,2024-08-23
-49,Noah Kahan,0,2024-08-23
-50,John Mayer,0,2024-08-23
-51,Justin Moore,0,2024-08-23
-52,Redferrin,0,2024-08-23
-53,Zach Top,0,2024-08-23
-54,Bruce Springsteen,0,2024-08-27
+29,mgk,0.0,2024-08-23
+30,Kacey Musgraves,1.0,2024-08-23
+31,Tanner Adell,1.0,2024-08-23
+32,Brittney Spencer,1.0,2024-08-23
+33,Tiera Kennedy,1.0,2024-08-23
+34,Reyna Roberts,1.0,2024-08-23
+35,Dustin Lynch,0.0,2024-08-23
+36,Chris Young,0.0,2024-08-23
+37,ERNEST,0.0,2024-08-23
+38,Luke Bryan,0.0,2024-08-23
+39,Riley Green,0.0,2024-08-23
+40,Tyler Braden,0.0,2024-08-23
+41,Marshmello,0.0,2024-08-23
+42,Drew Baldridge,0.0,2024-08-23
+43,Bayker Blankenship,0.0,2024-08-23
+44,Moneybagg Yo,0.0,2024-08-23
+45,Blake Shelton,0.0,2024-08-23
+46,Ella Langley,1.0,2024-08-23
+47,BigXthaPlug,0.0,2024-08-23
+48,Kelsea Ballerini,1.0,2024-08-23
+49,Noah Kahan,0.0,2024-08-23
+50,John Mayer,0.0,2024-08-23
+51,Justin Moore,0.0,2024-08-23
+52,Redferrin,0.0,2024-08-23
+53,Zach Top,0.0,2024-08-23
+54,Bruce Springsteen,0.0,2024-08-27
+55,Tim McGraw,0,2024-08-29
+56,Hank Williams,0,2024-08-29
+57,Brad Paisley,0,2024-08-29
+58,HARDY,0,2024-08-29
+59,Sierra Ferrell,0,2024-08-29
+60,Billy Strings,0,2024-08-29
