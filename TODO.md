@@ -1,5 +1,4 @@
 - Write and save a script to nuke and rebuild the whole database
-- Write a jupyter script to upload with names, but converted to IDs when uploaded
 - Test and add script saved to desktop to rank artists
 - Fill out table fragments with all remaining data in Excel
 - Write, test, save ipynb for female/male distribution over time
