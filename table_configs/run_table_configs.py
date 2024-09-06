@@ -18,7 +18,7 @@ SELECT
 FROM pg_tables
 WHERE schemaname = 'billboard';
 """
-con.execute(drop_all_tables_sql)
+# con.execute(drop_all_tables_sql)
 
 # Recursively loop through each SQL file in the directory and subdirectories and execute it
 for root, dirs, files in os.walk(config_dir):

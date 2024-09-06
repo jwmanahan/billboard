@@ -11,7 +11,7 @@ A collection of resources built to analyze Billboard Top 50 Airplay lists
 ## Instructions to use the SQL
 1. Clone this repository, open a terminal, and navigate to the folder this repository is cloned to
 2. Run `bash install.sh` (Mac) or `install.sh` (Windows) to install necessary packages
-3. Making sure you're in the repo directory, run `python table_configs/run_schema_configs.py`
+3. Making sure you're in the repo directory, run `python table_configs/run_schema_configs.py billboard_schema.sql`
 4. Update line 5 of `table_configs/run_table_configs.py` to your full current working directly. If you're using Windows, switch `\` to `\\`
 5. Run `python table_configs/run_table_configs.py`
 6. Run `python main.py` to create a file named `raw_db.duckdb` in the repository
