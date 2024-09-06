@@ -9,7 +9,6 @@ def find_schema_file(file_name, search_dir):
             return os.path.join(root, file_name)
     return None
 
-# Why is argv > 1 being triggerred??
 if len(sys.argv) < 2:
     print("Usage: python run_schema_configs.py <schema_config.sql>")
     print("Schema NOT written to DuckDB")
