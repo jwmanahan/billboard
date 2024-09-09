@@ -107,6 +107,9 @@ song_to_artist_pk,song_id,artist_id,relationship_type,relationship_conjunction,r
 91-Lead artist-,91,5,Lead artist,,,2024-09-08
 92-Lead artist-,92,1,Lead artist,,,2024-09-08
 93-Lead artist-,93,62,Lead artist,,,2024-09-08
-93-Other main artist-1,93,7,Other main artist,&,1,2024-09-08
+93-Other main artist-1,93,7,Other main artist,&,1.0,2024-09-08
 94-Lead artist-,94,1,Lead artist,,,2024-09-08
-94-Other main artist-1,94,63,Other main artist,&,1,2024-09-08
+94-Other main artist-1,94,63,Other main artist,&,1.0,2024-09-08
+95-Lead artist-,95,1,Lead artist,,,2024-09-08
+96-Lead artist-,96,1,Lead artist,,,2024-09-08
+97-Lead artist-,97,1,Lead artist,,,2024-09-08
