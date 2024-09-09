@@ -5,4 +5,4 @@
 - dbt and snapshots or manually write out changelog for each table
 - Ipynb sparklines by song, especially for most recent billboard observation date and songs from most recent minus one that were removed
 - Sparklines overlain on each other by artist, colored by artist relationship type with the song
-- L26W artist popularity over time
+- Add new songs to spotify playlist [All Billboard Hot Country Singles](https://open.spotify.com/playlist/6rQU8CIFaii5u44XAQecpO?si=f363bcd0dc26483a)
