@@ -1,52 +1,52 @@
 rankings = [
-    'A Bar Song (Tipsy)'
-    , 'I Had Some Help'
-    , 'Cowgirls'
-    , 'Pink Skies'
+    'I Had Some Help'
+    , 'A Bar Song (Tipsy)'
     , 'Pour Me A Drink'
-    , 'I Remember Everything'
-    , 'Miles On It'
+    , 'Pink Skies'
+    , 'Cowgirls'
     , 'Austin'
+    , 'I Remember Everything'
     , 'Whiskey Whiskey'
+    , 'Miles On It'
     , 'High Road'
     , 'I Am Not Okay'
     , "Ain't No Love In Oklahoma"
-    , 'You Look Like You Love Me'
-    , 'Dirt Cheap'
     , 'Bulletproof'
-    , 'Cowboys Cry Too'
+    , 'Dirt Cheap'
+    , 'You Look Like You Love Me'
     , 'We Ride'
-    , 'Wine Into Whiskey'
-    , "Wind Up Missin' You"
-    , "Think I'm In Love With You"
     , 'Sweet Dreams'
-    , 'Let Your Boys Be Country'
-    , 'Chevrolet'
-    , 'Beautiful As You'
+    , "Wind Up Missin' You"
     , 'Remember Him That Way'
+    , 'Wine Into Whiskey'
+    , "Think I'm In Love With You"
+    , 'Beautiful As You'
+    , 'Let Your Boys Be Country'
+    , 'Halfway To Hell'
     , 'Hang Tight Honey'
-    , 'New To Country'
-    , 'Holy Smokes'
-    , 'Purple Gas'
-    , 'Relapse'
-    , 'Devil You Know'
-    , 'Worst Way'
-    , 'Nine Ball'
+    , "Texas Hold 'Em"
+    , "We Don't Fight Anymore"
+    , 'Chevrolet'
     , 'The Man He Sees In Me'
-    , "What He'll Never Have"
+    , 'Holy Smokes'
+    , 'Relapse'
+    , 'Worst Way'
+    , 'Devil You Know'
     , 'Young Love & Saturday Nights'
     , "I'm Not Pretty"
+    , "What He'll Never Have"
+    , 'Nine Ball'
     , 'Love You Again'
+    , 'Take Her Home'
+    , 'Smoke & A Light'
     , 'Love You, Miss You, Mean It'
     , "She's Somebody's Daughter (Reimagined)"
-    , 'Smoke & A Light'
-    , 'Indifferent'
     , 'Boys Back Home'
-    , 'Sun To Me'
-    , 'American Nights'
-    , 'Coming Home'
-    , '28'
-    , "Song While You're Away"
-    , 'Maxed Out'
+    , 'Indifferent'
+    , 'My Fault'
+    , 'Purple Gas'
+    , "Huntin' By Yourself"
+    , 'Front Door Famous'
     , 'Wanna Be Loved'
+    , "Drink Don't Need No Mix"
 ]
