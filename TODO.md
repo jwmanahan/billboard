@@ -1,7 +1,7 @@
 - Fill out table fragments with all remaining data in Excel
 - Write, test, save ipynb for female/male distribution over time
 - dbt and snapshots or manually write out changelog for each table
-- Artist ranking readout highlights ranking changes in addition to current state
+- Move main.py to upload/ folder
 - Ipynb sparklines by song, especially for most recent billboard observation date and songs from most recent minus one that were removed
 - Sparklines overlain on each other by artist, colored by artist relationship type with the song
 - Add album information

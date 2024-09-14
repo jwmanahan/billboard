@@ -78,11 +78,13 @@ WITH cte_billboard_lookback AS (
                  THEN sst.recent_peak_position
                  ELSE NULL END
           ) AS recent_peak_position_as_main_artist
+        , MIN(sst.recent_peak_position) AS recent_peak_position
         , MIN(
             CASE WHEN s2a.relationship_type IN ('Lead artist', 'Other main artist')
                  THEN sst.overall_peak_position
                  ELSE NULL END
           ) AS overall_peak_position_as_main_artist
+        , MIN(sst.overall_peak_position) AS overall_peak_position
 
         , MIN(sst.song_debut_date_in_data) AS artist_debut_date_in_data -- even if not lead artist
 
@@ -113,8 +115,11 @@ WITH cte_billboard_lookback AS (
                 , all_num_songs_lead_artist DESC
                 , all_num_songs_artist DESC
                 , overall_peak_position_as_main_artist ASC
+                  -- I care more about overall stats than recent peak featured position
+                , recent_peak_position ASC
+                , overall_peak_position ASC
                 , artist_debut_date_in_data DESC
-                , artist_id ASC -- arbitrary final term for idempotence
+                , artist_id ASC -- arbitrary final term for consistency between runs
           ) AS artist_rank
      FROM cte_artist_stats
 )

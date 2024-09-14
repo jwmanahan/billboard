@@ -1,52 +1,52 @@
-rankings = [ # 2024-06-25
+rankings = [ # 2024-06-18
     'I Had Some Help'
     , 'A Bar Song (Tipsy)'
     , 'Pink Skies'
     , 'Cowgirls'
     , 'Austin'
-    , 'Whiskey Whiskey'
     , 'I Remember Everything'
     , 'Miles On It'
     , 'High Road'
-    , 'I Am Not Okay'
     , "Ain't No Love In Oklahoma"
-    , 'Remember Him That Way'
-    , 'The Man He Sees In Me'
-    , 'Bulletproof'
     , 'Sweet Dreams'
-    , 'Dirt Cheap'
-    , 'Wild Ones'
-    , 'We Ride'
+    , 'Bulletproof'
     , "Think I'm In Love With You"
-    , "Wind Up Missin' You"
-    , 'Wine Into Whiskey'
     , 'Halfway To Hell'
-    , "Texas Hold 'Em"
-    , 'Your Place'
-    , 'Beautiful As You'
-    , 'Take Her Home'
-    , 'Let Your Boys Be Country'
-    , 'Front Door Famous'
-    , 'Chevrolet'
-    , 'Hang Tight Honey'
-    , "Huntin' By Yourself"
-    , "We Don't Fight Anymore"
-    , "In Case I Ain't Around"
-    , 'Holy Smokes'
-    , 'Devil You Know'
-    , 'Love You Again'
+    , 'Wild Ones'
+    , 'Dirt Cheap'
+    , 'The Man He Sees In Me'
+    , 'We Ride'
+    , "Wind Up Missin' You"
     , 'Purple Gas'
-    , 'Young Love & Saturday Nights'
-    , 'Little Country Boys'
-    , 'Worst Way'
-    , "I'm Not Pretty"
-    , "What He'll Never Have"
+    , 'Take Her Home'
+    , "Texas Hold 'Em"
+    , 'Wine Into Whiskey'
+    , 'Wondering Why'
+    , 'Your Place'
+    , 'Spin You Around (1/24)'
+    , 'Beautiful As You'
+    , 'Hang Tight Honey'
+    , 'Let Your Boys Be Country'
+    , "We Don't Fight Anymore"
+    , 'Chevrolet'
+    , 'Holy Smokes'
+    , 'I Am Not Okay'
+    , 'Love You Again'
+    , 'Devil You Know'
     , 'Smoke & A Light'
-    , 'Whoever You Turn Out To Be'
-    , 'Relapse'
+    , 'Worst Way'
+    , "What He'll Never Have"
+    , 'Young Love & Saturday Nights'
+    , "I'm Not Pretty"
+    , 'Indifferent'
+    , 'Wanna Be Loved'
+    , 'II Most Wanted'
     , 'Nine Ball'
     , 'Love You, Miss You, Mean It'
-    , 'Indifferent'
-    , 'My Fault'
     , 'Boys Back Home'
+    , 'Relapse'
+    , 'Hell Or High Water'
+    , 'My Fault'
+    , 'Maxed Out'
+    , 'Damn Near Normal'
 ]
