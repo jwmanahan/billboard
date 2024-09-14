@@ -10,7 +10,6 @@ WITH cte_billboard_lookback AS (
 , cte_song_stats AS (
     SELECT
         ss.song_id
-
         , COUNT_IF(bl.weeks_ago IS NOT NULL) AS recent_weeks_on_chart
         , COUNT(1) + MAX(ss.untracked_weeks_on_chart) AS all_weeks_on_chart
         , MIN(
@@ -18,13 +17,14 @@ WITH cte_billboard_lookback AS (
           ) AS recent_peak_position
         , MIN(br.billboard_rank) AS overall_peak_position
         , MIN(br.billboard_observation_date) AS song_debut_date_in_data
-
     FROM raw_db.billboard.song ss
     LEFT JOIN raw_db.billboard.billboard_ranking br
         ON ss.song_id = br.song_id
     LEFT JOIN cte_billboard_lookback bl
         ON br.billboard_observation_date = bl.billboard_observation_date
-        AND bl.weeks_ago <= 26 -- arbitrary definition of recency
+        AND bl.weeks_ago
+            BETWEEN {weeks_ago}
+            AND {weeks_ago} + 26 -- arbitrary definition of recency
     GROUP BY 1
 )
 
@@ -32,6 +32,7 @@ WITH cte_billboard_lookback AS (
     SELECT
         art.artist_id
         , art.artist_name
+        , -1 * {weeks_ago} AS weeks_ago
 
         , SUM(CASE WHEN s2a.relationship_type = 'Lead artist'
                    THEN sst.recent_weeks_on_chart
@@ -91,6 +92,7 @@ WITH cte_billboard_lookback AS (
     INNER JOIN cte_song_stats sst
         ON s2a.song_id = sst.song_id
     GROUP BY 1,2
+    HAVING all_num_songs_artist > 0
 )
 
 , cte_artist_ranking AS (

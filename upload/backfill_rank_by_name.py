@@ -1,52 +1,52 @@
-rankings = [
+rankings = [ # 2024-06-25
     'I Had Some Help'
     , 'A Bar Song (Tipsy)'
-    , 'Pour Me A Drink'
     , 'Pink Skies'
     , 'Cowgirls'
     , 'Austin'
-    , 'I Remember Everything'
     , 'Whiskey Whiskey'
+    , 'I Remember Everything'
     , 'Miles On It'
     , 'High Road'
     , 'I Am Not Okay'
     , "Ain't No Love In Oklahoma"
-    , 'Bulletproof'
-    , 'Dirt Cheap'
-    , 'You Look Like You Love Me'
-    , 'We Ride'
-    , 'Sweet Dreams'
-    , "Wind Up Missin' You"
     , 'Remember Him That Way'
-    , 'Wine Into Whiskey'
-    , "Think I'm In Love With You"
-    , 'Beautiful As You'
-    , 'Let Your Boys Be Country'
-    , 'Halfway To Hell'
-    , 'Hang Tight Honey'
-    , "Texas Hold 'Em"
-    , "We Don't Fight Anymore"
-    , 'Chevrolet'
     , 'The Man He Sees In Me'
+    , 'Bulletproof'
+    , 'Sweet Dreams'
+    , 'Dirt Cheap'
+    , 'Wild Ones'
+    , 'We Ride'
+    , "Think I'm In Love With You"
+    , "Wind Up Missin' You"
+    , 'Wine Into Whiskey'
+    , 'Halfway To Hell'
+    , "Texas Hold 'Em"
+    , 'Your Place'
+    , 'Beautiful As You'
+    , 'Take Her Home'
+    , 'Let Your Boys Be Country'
+    , 'Front Door Famous'
+    , 'Chevrolet'
+    , 'Hang Tight Honey'
+    , "Huntin' By Yourself"
+    , "We Don't Fight Anymore"
+    , "In Case I Ain't Around"
     , 'Holy Smokes'
-    , 'Relapse'
-    , 'Worst Way'
     , 'Devil You Know'
+    , 'Love You Again'
+    , 'Purple Gas'
     , 'Young Love & Saturday Nights'
+    , 'Little Country Boys'
+    , 'Worst Way'
     , "I'm Not Pretty"
     , "What He'll Never Have"
-    , 'Nine Ball'
-    , 'Love You Again'
-    , 'Take Her Home'
     , 'Smoke & A Light'
+    , 'Whoever You Turn Out To Be'
+    , 'Relapse'
+    , 'Nine Ball'
     , 'Love You, Miss You, Mean It'
-    , "She's Somebody's Daughter (Reimagined)"
-    , 'Boys Back Home'
     , 'Indifferent'
     , 'My Fault'
-    , 'Purple Gas'
-    , "Huntin' By Yourself"
-    , 'Front Door Famous'
-    , 'Wanna Be Loved'
-    , "Drink Don't Need No Mix"
+    , 'Boys Back Home'
 ]
