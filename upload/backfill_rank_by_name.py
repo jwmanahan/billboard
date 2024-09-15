@@ -1,52 +1,52 @@
 rankings = [ # 2024-05-21
-    'I Had Some Help'
-    , 'A Bar Song (Tipsy)'
+    'A Bar Song (Tipsy)'
     , 'I Remember Everything'
-    , 'Miles On It'
     , 'Austin'
-    , 'Cowgirls'
-    , 'Where It Ends'
-    , 'Where The Wild Things Are'
     , "Texas Hold 'Em"
+    , 'Miles On It'
+    , 'Cowgirls'
+    , 'Where The Wild Things Are'
+    , 'Where It Ends'
     , 'Wild Ones'
-    , 'Bulletproof'
-    , 'Halfway To Hell'
-    , 'Back Then Right Now'
     , 'Wildflowers And Wild Horses'
+    , 'Bulletproof'
+    , 'Back Then Right Now'
     , 'Tucson Too Late'
+    , 'Halfway To Hell'
     , "Wind Up Missin' You"
     , 'We Ride'
     , 'Dirt Cheap'
-    , 'Spin You Around (1/24)'
     , 'Wine Into Whiskey'
-    , "Think I'm In Love With You"
-    , 'Beautiful As You'
+    , 'II Most Wanted'
+    , 'Spin You Around (1/24)'
     , 'Take Her Home'
     , 'Wondering Why'
-    , 'II Most Wanted'
+    , "Think I'm In Love With You"
     , 'Your Place'
     , "We Don't Fight Anymore"
+    , 'Indifferent'
     , 'Let Your Boys Be Country'
     , 'Holy Smokes'
-    , 'Young Love & Saturday Nights'
     , 'Love You Again'
     , 'Smoke & A Light'
-    , 'Devil You Know'
-    , 'Chevrolet'
+    , 'Wranglers'
     , "I'm Not Pretty"
+    , 'Where That Came From'
+    , 'Devil You Know'
+    , 'Young Love & Saturday Nights'
+    , 'Chevrolet'
     , 'No Caller ID'
     , 'Nine Ball'
-    , 'Indifferent'
-    , "Ain't No Love In Oklahoma"
-    , "What He'll Never Have"
-    , 'Love You, Miss You, Mean It'
-    , 'Damn Near Normal'
-    , 'Cab In A Solo'
+    , 'In Your Love'
     , 'Boys Back Home'
+    , "Hangin' On"
+    , "What He'll Never Have"
+    , 'Cab In A Solo'
     , "Can't Break Up Now"
-    , "This Town's Been Too Good To Us"
-    , "The Good I'll Do"
-    , 'Worst Way'
     , 'Jolene'
-    , "Should've Been A Cowboy" # T-Pain version
+    , 'I Had Some Help'
+    , 'Worst Way'
+    , "I'm Gonna Miss Her"
+    , 'Life With You'
+    , "Should've Been A Cowboy" # Jelly Roll version
 ]
