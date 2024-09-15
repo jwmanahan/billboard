@@ -149,6 +149,22 @@ song_to_artist_pk,song_id,artist_id,relationship_type,relationship_conjunction,r
 126-Lead artist-,126,17,Lead artist,,,2024-09-14
 127-Lead artist-,127,2,Lead artist,,,2024-09-14
 128-Lead artist-,128,3,Lead artist,,,2024-09-14
-128-Other main artist-1,128,71,Other main artist,&,1,2024-09-14
+128-Other main artist-1,128,71,Other main artist,&,1.0,2024-09-14
 129-Lead artist-,129,8,Lead artist,,,2024-09-14
 130-Lead artist-,130,16,Lead artist,,,2024-09-14
+131-Lead artist-,131,8,Lead artist,,,2024-09-14
+132-Lead artist-,132,72,Lead artist,,,2024-09-14
+133-Lead artist-,133,7,Lead artist,,,2024-09-14
+134-Lead artist-,134,73,Lead artist,,,2024-09-14
+134-Other main artist-1,134,46,Other main artist,&,1.0,2024-09-14
+135-Lead artist-,135,9,Lead artist,,,2024-09-14
+136-Lead artist-,136,24,Lead artist,,,2024-09-14
+137-Lead artist-,137,74,Lead artist,,,2024-09-14
+138-Lead artist-,138,1,Lead artist,,,2024-09-14
+12-Lead artist-,12,6,Lead artist,,,2024-09-15
+139-Lead artist-,139,75,Lead artist,,,2024-09-15
+140-Lead artist-,140,4,Lead artist,,,2024-09-15
+141-Lead artist-,141,67,Lead artist,,,2024-09-15
+141-Other main artist-1,141,4,Other main artist,&,1,2024-09-15
+142-Lead artist-,142,5,Lead artist,,,2024-09-15
+142-Featured artist-1,142,76,Featured artist,,1,2024-09-15

@@ -1,52 +1,52 @@
-rankings = [ # 2024-06-18
+rankings = [ # 2024-05-29
     'I Had Some Help'
     , 'A Bar Song (Tipsy)'
-    , 'Pink Skies'
-    , 'Cowgirls'
-    , 'Austin'
     , 'I Remember Everything'
-    , 'Miles On It'
-    , 'High Road'
     , "Ain't No Love In Oklahoma"
-    , 'Sweet Dreams'
+    , 'Cowgirls'
+    , 'Miles On It'
+    , 'Austin'
+    , 'Where It Ends'
+    , 'Where The Wild Things Are'
     , 'Bulletproof'
-    , "Think I'm In Love With You"
-    , 'Halfway To Hell'
-    , 'Wild Ones'
-    , 'Dirt Cheap'
-    , 'The Man He Sees In Me'
-    , 'We Ride'
-    , "Wind Up Missin' You"
-    , 'Purple Gas'
-    , 'Take Her Home'
+    , 'Sweet Dreams'
     , "Texas Hold 'Em"
+    , 'Wild Ones'
+    , 'Halfway To Hell'
+    , "Think I'm In Love With You"
+    , 'Dirt Cheap'
+    , 'Back Then Right Now'
+    , 'We Ride'
+    , 'Tucson Too Late'
+    , 'Spin You Around (1/24)'
+    , 'Take Her Home'
+    , "Wind Up Missin' You"
     , 'Wine Into Whiskey'
     , 'Wondering Why'
     , 'Your Place'
-    , 'Spin You Around (1/24)'
-    , 'Beautiful As You'
-    , 'Hang Tight Honey'
-    , 'Let Your Boys Be Country'
+    , 'II Most Wanted'
     , "We Don't Fight Anymore"
-    , 'Chevrolet'
+    , 'Let Your Boys Be Country'
+    , 'Young Love & Saturday Nights'
+    , 'Beautiful As You'
     , 'Holy Smokes'
-    , 'I Am Not Okay'
+    , 'Damn Near Normal'
+    , 'Smoke & A Light'
+    , 'Hang Tight Honey'
     , 'Love You Again'
     , 'Devil You Know'
-    , 'Smoke & A Light'
-    , 'Worst Way'
-    , "What He'll Never Have"
-    , 'Young Love & Saturday Nights'
-    , "I'm Not Pretty"
+    , 'Chevrolet'
     , 'Indifferent'
-    , 'Wanna Be Loved'
-    , 'II Most Wanted'
+    , "I'm Not Pretty"
     , 'Nine Ball'
+    , 'Betrayal'
     , 'Love You, Miss You, Mean It'
+    , 'No Caller ID'
+    , 'Worst Way'
     , 'Boys Back Home'
-    , 'Relapse'
-    , 'Hell Or High Water'
-    , 'My Fault'
-    , 'Maxed Out'
-    , 'Damn Near Normal'
+    , "Can't Break Up Now"
+    , "The Good I'll Do"
+    , "Should've Been A Cowboy" # T-Pain version
+    , "What He'll Never Have"
+    , "This Town's Been Too Good To Us"
 ]
