@@ -10,7 +10,7 @@ song_id,song_name,untracked_weeks_on_chart,last_update
 9,Save Me,34.0,2024-8-23
 10,Wild Ones,15.0,2024-8-23
 11,Truck Bed,42.0,2024-8-23
-12,Where The Wild Things Are,13,2024-8-23
+12,Where The Wild Things Are,13.0,2024-8-23
 13,The Painter,23.0,2024-8-23
 14,Burn It Down,30.0,2024-8-23
 15,Different 'Round Here,22.0,2024-8-23
@@ -137,7 +137,9 @@ song_id,song_name,untracked_weeks_on_chart,last_update
 136,Betrayal,0.0,2024-09-14
 137,Wranglers,0.0,2024-09-14
 138,The Good I'll Do,15.0,2024-09-14
-139,Tucson Too Late,8,2024-09-15
-140,No Caller ID,0,2024-09-15
-141,Can't Break Up Now,4,2024-09-15
-142,Should've Been A Cowboy,0,2024-09-15
+139,Tucson Too Late,8.0,2024-09-15
+140,No Caller ID,0.0,2024-09-15
+141,Can't Break Up Now,4.0,2024-09-15
+142,Should've Been A Cowboy,0.0,2024-09-15
+143,Wildflowers And Wild Horses,9,2024-09-15
+144,Cab In A Solo,1,2024-09-15
