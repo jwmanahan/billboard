@@ -174,6 +174,27 @@ song_to_artist_pk,song_id,artist_id,relationship_type,relationship_conjunction,r
 145-Lead artist-,145,78,Lead artist,,,2024-09-15
 146-Lead artist-,146,68,Lead artist,,,2024-09-15
 147-Lead artist-,147,37,Lead artist,,,2024-09-15
-147-Other main artist-1,147,2,Other main artist,&,1,2024-09-15
+147-Other main artist-1,147,2,Other main artist,&,1.0,2024-09-15
 148-Lead artist-,148,15,Lead artist,,,2024-09-15
 149-Lead artist-,149,79,Lead artist,,,2024-09-15
+150-Lead artist-,150,80,Lead artist,,,2024-09-15
+151-Lead artist-,151,3,Lead artist,,,2024-09-15
+151-Other main artist-1,151,15,Other main artist,&,1.0,2024-09-15
+152-Lead artist-,152,3,Lead artist,,,2024-09-15
+152-Other main artist-1,152,61,Other main artist,&,1.0,2024-09-15
+153-Lead artist-,153,24,Lead artist,,,2024-09-15
+154-Lead artist-,154,81,Lead artist,,,2024-09-15
+155-Lead artist-,155,3,Lead artist,,,2024-09-15
+156-Lead artist-,156,30,Lead artist,,,2024-09-15
+157-Lead artist-,157,82,Lead artist,,,2024-09-15
+158-Lead artist-,158,3,Lead artist,,,2024-09-15
+16-Lead artist-,16,2,Lead artist,,,2024-09-15
+16-Featured artist-1,16,83,Featured artist,,1.0,2024-09-15
+159-Lead artist-,159,3,Lead artist,,,2024-09-15
+160-Lead artist-,160,3,Lead artist,,,2024-09-15
+161-Lead artist-,161,3,Lead artist,,,2024-09-15
+161-Other main artist-1,161,84,Other main artist,&,1,2024-09-15
+162-Lead artist-,162,3,Lead artist,,,2024-09-15
+163-Lead artist-,163,3,Lead artist,,,2024-09-15
+163-Other main artist-1,163,85,Other main artist,&,1,2024-09-15
+164-Lead artist-,164,3,Lead artist,,,2024-09-15
