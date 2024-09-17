@@ -203,7 +203,7 @@ song_to_artist_pk,song_id,artist_id,relationship_type,relationship_conjunction,r
 166-Lead artist-,166,3,Lead artist,,,2024-09-16
 167-Lead artist-,167,87,Lead artist,,,2024-09-16
 168-Lead artist-,168,22,Lead artist,,,2024-09-16
-168-Featured artist-1,168,2,Featured artist,,1,2024-09-16
+168-Featured artist-1,168,2,Featured artist,,1.0,2024-09-16
 169-Lead artist-,169,30,Lead artist,,,2024-09-16
 170-Lead artist-,170,28,Lead artist,,,2024-09-16
 171-Lead artist-,171,30,Lead artist,,,2024-09-16
@@ -212,3 +212,7 @@ song_to_artist_pk,song_id,artist_id,relationship_type,relationship_conjunction,r
 2-Lead artist-,2,2,Lead artist,,,2024-09-16
 3-Lead artist-,3,2,Lead artist,,,2024-09-16
 11-Lead artist-,11,58,Lead artist,,,2024-09-16
+173-Lead artist-,173,20,Lead artist,,,2024-09-16
+174-Lead artist-,174,30,Lead artist,,,2024-09-16
+175-Lead artist-,175,88,Lead artist,,,2024-09-16
+8-Lead artist-,8,24,Lead artist,,,2024-09-16
