@@ -2,51 +2,51 @@ rankings = [
     'A Bar Song (Tipsy)'
     , 'I Had Some Help'
     , "Ain't No Love In Oklahoma"
-    , 'Cowgirls'
     , 'Miles On It'
     , 'Lies Lies Lies'
-    , 'Pink Skies'
     , 'Austin'
+    , 'Cowgirls'
+    , 'Pink Skies'
     , 'I Am Not Okay'
-    , 'Pour Me A Drink'
     , '28'
+    , 'Pour Me A Drink'
     , 'Guy For That'
     , 'You Look Like You Love Me'
     , 'High Road'
-    , 'Whiskey Whiskey'
     , 'Chevrolet'
+    , 'Whiskey Whiskey'
     , 'Losers'
-    , 'Beautiful As You'
     , 'Lonely Road'
     , "Think I'm In Love With You"
-    , "Wind Up Missin' You"
     , 'Love You, Miss You, Mean It'
+    , "Wind Up Missin' You"
     , 'Am I Okay?'
-    , 'Love You Again'
-    , 'Wrong Ones'
-    , 'Young Love & Saturday Nights'
-    , 'California Sober'
+    , 'Beautiful As You'
     , 'American Nights'
+    , 'Holy Smokes'
+    , 'I Never Lie'
+    , 'Wrong Ones'
+    , '4x4xU' # Lainey Wilson
+    , 'Worst Way'
+    , 'Devil You Know'
+    , 'This Is My Dirt'
+    , 'Love You Again'
     , 'Nosedive'
     , "What Don't Belong To Me"
-    , 'Holy Smokes'
-    , 'Devil You Know'
-    , 'Worst Way'
-    , "She's Somebody's Daughter (Reimagined)"
-    , 'I Never Lie'
-    , 'Hang Tight Honey'
+    , "Fix What You Didn't Break"
     , 'Sweet Dreams'
-    , 'This Is My Dirt'
-    , "Fix What You Didn't Break" # Nate Smith
-    , 'Relapse'
     , "What He'll Never Have"
-    , 'Cowboys Cry Too'
-    , 'Porch Light' # Josh Meloy
+    , 'Relapse'
     , 'Wanna Be Loved'
-    , 'Just Like Johnny'
-    , 'Maxed Out'
-    , 'Yours'
-    , 'Finer Things'
+    , 'Cowboys Cry Too'
     , 'Sounds Like The Radio'
-    , 'Out Of Oklahoma'
+    , 'Just Like Johnny'
+    , 'Porch Light'
+    , 'Messed Up As Me' # Keith Urban // +1 will be accounted for in backfill
+    , "Darlin'" # Chase Matthew
+    , 'Maxed Out'
+    , 'A Lot More Free' # Max McNown
+    , 'California Sober'
+    , "Boys Back Home"
+    , 'Now Or Never' # Corey Kent feat Lauren Alaina
 ]
