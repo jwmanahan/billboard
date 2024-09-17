@@ -1,52 +1,52 @@
-rankings = [ # 2024-04-09
+rankings = [ # 2024-04-02
     "Texas Hold 'Em"
-    , 'II Most Wanted'
-    , 'Jolene'
     , 'I Remember Everything'
-    , "Levii's Jeans"
-    , 'Blackbiird'
-    , 'Ameriican Requiem'
+    , 'Fast Car'
+    , 'Last Night'
+    , "Thinkin' Bout Me"
     , 'Man Made A Bar'
-    , 'Daughter'
-    , '16 Carriages'
-    , 'Protector'
-    , 'Tyrant'
+    , 'Truck Bed'
+    , '23'
     , 'Where The Wild Things Are'
     , 'Burn It Down'
-    , 'Riiverdance'
-    , 'Alliigator Tears'
-    , 'My Rose'
     , 'Austin'
     , 'Wild Ones'
-    , 'Just For Fun'
     , 'Wildflowers And Wild Horses'
-    , 'Oh Louisiana'
-    , 'Amen'
-    , "Wind Up Missin' You"
+    , "Mamaw's House"
     , 'Spin You Around (1/24)'
+    , 'Tucson Too Late'
     , 'Outskirts'
     , 'Back Then Right Now'
-    , 'Tucson Too Late'
+    , 'Take Her Home'
+    , 'Coal'
     , 'Wine Into Whiskey'
+    , 'Smoke & A Light'
     , 'We Ride'
     , 'Halfway To Hell'
-    , 'Coal'
-    , 'Take Her Home'
-    , 'Dirt Cheap'
-    , 'Cab In A Solo'
-    , 'Bulletproof'
     , 'Wondering Why'
     , "We Don't Fight Anymore"
-    , 'Smoke & A Light'
-    , 'Your Place'
     , 'Holy Smokes'
-    , "What He'll Never Have"
-    , "I'm Not Pretty"
-    , 'No Caller ID'
-    , 'Fearless (The Echo)'
+    , 'Cab In A Solo'
     , 'Deeper Well'
-    , "Think I'm In Love With You"
-    , "This Town's Been Too Good To Us"
-    , 'Let Your Boys Be Country'
+    , 'Dirt Cheap'
+    , 'Your Place'
+    , 'Bulletproof'
+    , 'No Caller ID'
+    , "I'm Not Pretty"
     , 'In Your Love'
+    , 'Fearless (The Echo)'
+    , "Think I'm In Love With You"
+    , 'Young Love & Saturday Nights'
+    , 'Too Good To Be True'
+    , 'Let Your Boys Be Country'
+    , "This Town's Been Too Good To Us"
+    , 'Love You Again'
+    , 'Tie Up'
+    , "Can't Break Up Now"
+    , 'Boys Back Home'
+    , 'The Architect'
+    , 'Nine Ball'
+    , 'Chevrolet'
+    , 'Damn Near Normal'
+    , '28th Of June'
 ]
