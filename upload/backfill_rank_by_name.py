@@ -1,52 +1,52 @@
-rankings = [ # 2024-04-16
+rankings = [ # 2024-04-09
     "Texas Hold 'Em"
-    , 'I Remember Everything'
-    , 'Man Made A Bar'
     , 'II Most Wanted'
-    , 'Austin'
+    , 'Jolene'
+    , 'I Remember Everything'
+    , "Levii's Jeans"
+    , 'Blackbiird'
+    , 'Ameriican Requiem'
+    , 'Man Made A Bar'
+    , 'Daughter'
+    , '16 Carriages'
+    , 'Protector'
+    , 'Tyrant'
     , 'Where The Wild Things Are'
     , 'Burn It Down'
-    , 'Where It Ends'
+    , 'Riiverdance'
+    , 'Alliigator Tears'
+    , 'My Rose'
+    , 'Austin'
     , 'Wild Ones'
-    , 'Jolene'
+    , 'Just For Fun'
     , 'Wildflowers And Wild Horses'
-    , "Levii's Jeans"
-    , 'Cowgirls'
+    , 'Oh Louisiana'
+    , 'Amen'
+    , "Wind Up Missin' You"
+    , 'Spin You Around (1/24)'
     , 'Outskirts'
+    , 'Back Then Right Now'
     , 'Tucson Too Late'
     , 'Wine Into Whiskey'
-    , 'Halfway To Hell'
-    , 'Back Then Right Now'
-    , 'Spin You Around (1/24)'
-    , 'Tyrant'
-    , 'Blackbiird'
-    , "Wind Up Missin' You"
-    , 'Bulletproof'
     , 'We Ride'
-    , '16 Carriages'
-    , 'Dirt Cheap'
+    , 'Halfway To Hell'
     , 'Coal'
-    , 'Cab In A Solo'
-    , 'Daughter'
-    , "We Don't Fight Anymore"
-    , 'Riiverdance'
     , 'Take Her Home'
-    , 'Ameriican Requiem'
-    , "Think I'm In Love With You"
+    , 'Dirt Cheap'
+    , 'Cab In A Solo'
+    , 'Bulletproof'
     , 'Wondering Why'
-    , 'Protector'
+    , "We Don't Fight Anymore"
     , 'Smoke & A Light'
     , 'Your Place'
     , 'Holy Smokes'
-    , 'Love You, Miss You, Mean It'
-    , 'Alliigator Tears'
-    , 'Let Your Boys Be Country'
-    , 'Just For Fun'
+    , "What He'll Never Have"
+    , "I'm Not Pretty"
     , 'No Caller ID'
     , 'Fearless (The Echo)'
-    , 'My Rose'
     , 'Deeper Well'
-    , 'Love You Again'
-    , "I'm Not Pretty"
-    , 'Young Love & Saturday Nights'
+    , "Think I'm In Love With You"
+    , "This Town's Been Too Good To Us"
+    , 'Let Your Boys Be Country'
+    , 'In Your Love'
 ]
