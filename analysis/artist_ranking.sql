@@ -24,7 +24,7 @@ WITH cte_billboard_lookback AS (
         ON br.billboard_observation_date = bl.billboard_observation_date
         AND bl.weeks_ago
             BETWEEN {weeks_ago}
-            AND {weeks_ago} + 26 -- arbitrary definition of recency
+            AND {weeks_ago} + 25 -- arbitrary definition of recency
     GROUP BY 1
 )
 

@@ -221,4 +221,5 @@ song_to_artist_pk,song_id,artist_id,relationship_type,relationship_conjunction,r
 178-Lead artist-,178,18,Lead artist,,,2024-09-17
 179-Lead artist-,179,90,Lead artist,,,2024-09-17
 180-Lead artist-,180,91,Lead artist,,,2024-09-17
-180-Featured artist-1,180,92,Featured artist,,1,2024-09-17
+180-Featured artist-1,180,92,Featured artist,,1.0,2024-09-17
+13-Lead artist-,13,10,Lead artist,,,2024-09-18
