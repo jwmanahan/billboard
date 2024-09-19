@@ -224,5 +224,18 @@ song_to_artist_pk,song_id,artist_id,relationship_type,relationship_conjunction,r
 180-Featured artist-1,180,92,Featured artist,,1.0,2024-09-17
 13-Lead artist-,13,10,Lead artist,,,2024-09-18
 181-Lead artist-,181,93,Lead artist,,,2024-09-18
-181-Other main artist-1,181,20,Other main artist,+,1,2024-09-18
+181-Other main artist-1,181,20,Other main artist,+,1.0,2024-09-18
 182-Lead artist-,182,94,Lead artist,,,2024-09-18
+183-Lead artist-,183,1,Lead artist,,,2024-09-18
+183-Featured artist-1,183,95,Featured artist,,1.0,2024-09-18
+184-Lead artist-,184,96,Lead artist,,,2024-09-18
+185-Lead artist-,185,97,Lead artist,,,2024-09-18
+186-Lead artist-,186,98,Lead artist,,,2024-09-18
+187-Lead artist-,187,99,Lead artist,,,2024-09-18
+188-Lead artist-,188,100,Lead artist,,,2024-09-18
+189-Lead artist-,189,100,Lead artist,,,2024-09-18
+190-Lead artist-,190,101,Lead artist,,,2024-09-18
+190-Other main artist-1,190,45,Other main artist,&,1,2024-09-18
+6-Lead artist-,6,14,Lead artist,,,2024-09-18
+15-Lead artist-,15,39,Lead artist,,,2024-09-18
+15-Featured artist-1,15,6,Featured artist,,1,2024-09-18

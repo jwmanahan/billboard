@@ -1,4 +1,4 @@
-rankings = [ # 2024-03-13
+rankings = [ # 2024-02-21
     "Texas Hold 'Em"
     , 'I Remember Everything'
     , 'Fast Car'
@@ -6,47 +6,47 @@ rankings = [ # 2024-03-13
     , "Thinkin' Bout Me"
     , 'Pretty Little Poison'
     , 'Where The Wild Things Are'
-    , 'Truck Bed'
     , 'The Painter'
+    , '16 Carriages'
     , 'Wild Ones'
+    , 'Truck Bed'
+    , 'World On Fire'
     , 'Burn It Down'
     , 'Man Made A Bar'
-    , 'I Can Feel It'
-    , '23'
-    , "Mamaw's House"
-    , 'Wildflowers And Wild Horses'
+    , "Should've Been A Cowboy" # Toby Keith
     , 'Spin You Around (1/24)'
-    , 'Holy Smokes'
-    , 'Coal'
-    , 'Tucson Too Late'
+    , '23'
+    , 'I Can Feel It'
+    , "Mamaw's House"
+    , 'Hey Driver'
+    , "Different 'Round Here"
     , "We Don't Fight Anymore"
-    , 'Creek Will Rise'
-    , '16 Carriages'
+    , 'Coal'
+    , 'Coutesy Of The Red, White And Blue'
+    , 'Wildflowers And Wild Horses'
+    , 'Deeper Well'
     , 'Wondering Why'
-    , 'Wine Into Whiskey'
-    , 'Back Then Right Now'
-    , 'We Ride'
+    , 'Creek Will Rise'
     , 'No Caller ID'
     , 'Bulletproof'
-    , 'Outskirts'
-    , 'Austin'
-    , 'Deeper Well'
-    , 'Dirt Cheap'
+    , 'Tucson Too Late'
+    , 'Back Then Right Now'
+    , 'We Ride'
     , 'In Your Love'
-    , 'Your Place'
     , 'Halfway To Hell'
-    , 'Cab In A Solo'
+    , 'Mind On You'
     , "I'm Not Pretty"
-    , 'Take Her Home'
-    , 'Messed Up As Me'
-    , 'Too Good To Be True'
-    , "Think I'm In Love With You"
+    , 'Your Place'
+    , 'Dirt Cheap'
+    , 'Purple Irises'
+    , 'Cab In A Solo'
+    , 'Glory Days'
     , 'Fearless (The Echo)'
+    , "Think I'm In Love With You"
+    , "This Town's Been Too Good To Us"
+    , 'Heartbreaker'
+    , 'Outskirts'
     , 'Boys Back Home'
     , 'Love You Again'
-    , "This Town's Been Too Good To Us"
-    , "Can't Break Up Now"
-    , 'The One (Pero No Como Yo)'
     , 'Let Your Boys Be Country'
-    , 'Out Of That Truck'
 ]
