@@ -1,52 +1,52 @@
-rankings = [ # 2024-02-21
-    "Texas Hold 'Em"
-    , 'I Remember Everything'
-    , 'Fast Car'
+rankings = [ # 2024-02-10
+    'I Remember Everything'
     , 'Last Night'
     , "Thinkin' Bout Me"
+    , 'Fast Car'
+    , 'Spin You Around (1/24)'
+    , 'White Horse'
     , 'Pretty Little Poison'
     , 'Where The Wild Things Are'
-    , 'The Painter'
-    , '16 Carriages'
     , 'Wild Ones'
-    , 'Truck Bed'
+    , 'The Painter'
     , 'World On Fire'
+    , 'Truck Bed'
     , 'Burn It Down'
     , 'Man Made A Bar'
-    , "Should've Been A Cowboy" # Toby Keith
-    , 'Spin You Around (1/24)'
-    , '23'
-    , 'I Can Feel It'
-    , "Mamaw's House"
-    , 'Hey Driver'
     , "Different 'Round Here"
+    , 'Hey Driver'
+    , 'I Can Feel It'
+    , '23'
     , "We Don't Fight Anymore"
+    , "Mamaw's House"
     , 'Coal'
-    , 'Coutesy Of The Red, White And Blue'
-    , 'Wildflowers And Wild Horses'
-    , 'Deeper Well'
-    , 'Wondering Why'
-    , 'Creek Will Rise'
     , 'No Caller ID'
-    , 'Bulletproof'
-    , 'Tucson Too Late'
-    , 'Back Then Right Now'
-    , 'We Ride'
+    , 'Creek Will Rise'
+    , 'Wondering Why'
+    , 'Wildflowers And Wild Horses'
+    , 'All I Need Is You'
     , 'In Your Love'
-    , 'Halfway To Hell'
+    , 'We Ride'
     , 'Mind On You'
-    , "I'm Not Pretty"
-    , 'Your Place'
+    , 'Back Then Right Now'
+    , 'Tucson Too Late'
     , 'Dirt Cheap'
-    , 'Purple Irises'
-    , 'Cab In A Solo'
+    , "Sarah's Place"
+    , "I'm Not Pretty"
     , 'Glory Days'
-    , 'Fearless (The Echo)'
-    , "Think I'm In Love With You"
+    , "Please Don't Go"
+    , 'This Heart'
+    , 'Three Little Birds'
+    , 'Your Place'
     , "This Town's Been Too Good To Us"
-    , 'Heartbreaker'
-    , 'Outskirts'
-    , 'Boys Back Home'
-    , 'Love You Again'
+    , 'Halfway To Hell'
+    , 'Fearless (The Echo)'
+    , 'Strangers'
+    , 'Cab In A Solo'
     , 'Let Your Boys Be Country'
+    , 'Boys Back Home'
+    , "Think I'm In Love With You"
+    , 'Love You Again'
+    , 'Outskirts'
+    , "Can't Break Up Now"
 ]
