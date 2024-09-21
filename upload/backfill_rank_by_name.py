@@ -1,52 +1,52 @@
-rankings = [ # 2024-02-10
+rankings = [ # 2024-01-27
     'I Remember Everything'
     , 'Last Night'
     , "Thinkin' Bout Me"
     , 'Fast Car'
-    , 'Spin You Around (1/24)'
     , 'White Horse'
-    , 'Pretty Little Poison'
-    , 'Where The Wild Things Are'
-    , 'Wild Ones'
-    , 'The Painter'
     , 'World On Fire'
+    , 'Need A Favor'
+    , 'Pretty Little Poison'
+    , 'Save Me'
+    , 'Wild Ones'
     , 'Truck Bed'
+    , 'Where The Wild Things Are'
+    , 'The Painter'
     , 'Burn It Down'
-    , 'Man Made A Bar'
     , "Different 'Round Here"
+    , 'Man Made A Bar'
     , 'Hey Driver'
     , 'I Can Feel It'
+    , 'Save Me The Trouble'
     , '23'
     , "We Don't Fight Anymore"
+    , 'Wondering Why'
+    , 'Rich Men North Of Richmond'
     , "Mamaw's House"
     , 'Coal'
-    , 'No Caller ID'
-    , 'Creek Will Rise'
-    , 'Wondering Why'
+    , 'Mind On You'
     , 'Wildflowers And Wild Horses'
     , 'All I Need Is You'
     , 'In Your Love'
     , 'We Ride'
-    , 'Mind On You'
-    , 'Back Then Right Now'
+    , 'Creek Will Rise'
     , 'Tucson Too Late'
-    , 'Dirt Cheap'
-    , "Sarah's Place"
     , "I'm Not Pretty"
+    , 'Fearless (The Echo)'
+    , "Sarah's Place"
     , 'Glory Days'
+    , 'Outskirts'
     , "Please Don't Go"
-    , 'This Heart'
-    , 'Three Little Birds'
+    , 'Boys Back Home'
+    , 'Back Then Right Now'
+    , 'El Dorado'
+    , 'Halfway To Hell'
+    , 'Dirt Cheap'
     , 'Your Place'
     , "This Town's Been Too Good To Us"
-    , 'Halfway To Hell'
-    , 'Fearless (The Echo)'
-    , 'Strangers'
-    , 'Cab In A Solo'
-    , 'Let Your Boys Be Country'
-    , 'Boys Back Home'
-    , "Think I'm In Love With You"
     , 'Love You Again'
-    , 'Outskirts'
-    , "Can't Break Up Now"
+    , "Think I'm In Love With You"
+    , 'Cab In A Solo'
+    , "Something's Gonna Kill Me"
+    , 'Let Your Boys Be Country'
 ]
