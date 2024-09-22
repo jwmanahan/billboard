@@ -1,52 +1,52 @@
-rankings = [ # 2024-01-27
+rankings = [ # 2024-01-06
     'I Remember Everything'
     , 'Last Night'
     , "Thinkin' Bout Me"
     , 'Fast Car'
     , 'White Horse'
-    , 'World On Fire'
     , 'Need A Favor'
-    , 'Pretty Little Poison'
+    , 'World On Fire'
     , 'Save Me'
+    , 'Pretty Little Poison'
     , 'Wild Ones'
     , 'Truck Bed'
+    , 'Save Me The Trouble'
     , 'Where The Wild Things Are'
     , 'The Painter'
     , 'Burn It Down'
-    , "Different 'Round Here"
-    , 'Man Made A Bar'
-    , 'Hey Driver'
-    , 'I Can Feel It'
-    , 'Save Me The Trouble'
-    , '23'
-    , "We Don't Fight Anymore"
-    , 'Wondering Why'
-    , 'Rich Men North Of Richmond'
-    , "Mamaw's House"
-    , 'Coal'
     , 'Mind On You'
-    , 'Wildflowers And Wild Horses'
+    , 'Hey Driver'
+    , 'Wondering Why'
+    , "Different 'Round Here"
+    , '23'
+    , 'I Can Feel It'
+    , 'Try That In A Small Town'
+    , 'Rich Men North Of Richmond'
+    , "We Don't Fight Anymore"
+    , 'Tourniquet'
+    , 'Coal'
     , 'All I Need Is You'
     , 'In Your Love'
+    , "Mamaw's House"
+    , 'Wildflowers And Wild Horses'
+    , "Sarah's Place"
+    , 'Spotless'
     , 'We Ride'
     , 'Creek Will Rise'
-    , 'Tucson Too Late'
     , "I'm Not Pretty"
-    , 'Fearless (The Echo)'
-    , "Sarah's Place"
+    , 'East Side Of Sorrow'
+    , 'Tucson Too Late'
     , 'Glory Days'
-    , 'Outskirts'
     , "Please Don't Go"
-    , 'Boys Back Home'
-    , 'Back Then Right Now'
-    , 'El Dorado'
-    , 'Halfway To Hell'
-    , 'Dirt Cheap'
-    , 'Your Place'
-    , "This Town's Been Too Good To Us"
-    , 'Love You Again'
     , "Think I'm In Love With You"
-    , 'Cab In A Solo'
+    , 'To Be A Man'
+    , 'Dirt Cheap'
+    , 'El Dorado'
+    , "This Town's Been Too Good To Us"
     , "Something's Gonna Kill Me"
-    , 'Let Your Boys Be Country'
+    , 'Love You Again'
+    , 'Fearless (The Echo)'
+    , 'Out Of That Truck'
+    , 'Boys Back Home'
+    , "The Good I'll Do"
 ]
