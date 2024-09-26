@@ -4,49 +4,49 @@ rankings = [
     , "Ain't No Love In Oklahoma"
     , 'Miles On It'
     , 'Lies Lies Lies'
-    , 'Austin'
     , 'Cowgirls'
     , 'Pink Skies'
+    , 'Austin'
     , 'I Am Not Okay'
     , '28'
     , 'Pour Me A Drink'
-    , 'Guy For That'
     , 'You Look Like You Love Me'
+    , 'Guy For That'
     , 'High Road'
-    , 'Chevrolet'
     , 'Whiskey Whiskey'
-    , 'Losers'
     , 'Lonely Road'
-    , "Think I'm In Love With You"
-    , 'Love You, Miss You, Mean It'
     , "Wind Up Missin' You"
+    , 'Love You, Miss You, Mean It'
+    , "Think I'm In Love With You"
     , 'Am I Okay?'
+    , 'Losers'
     , 'Beautiful As You'
-    , 'American Nights'
-    , 'Holy Smokes'
     , 'I Never Lie'
-    , 'Wrong Ones'
-    , '4x4xU' # Lainey Wilson
     , 'Worst Way'
+    , 'Holy Smokes'
     , 'Devil You Know'
     , 'This Is My Dirt'
-    , 'Love You Again'
-    , 'Nosedive'
-    , "What Don't Belong To Me"
+    , 'American Nights'
+    , '4x4xU'
+    , 'Happy Face'
     , "Fix What You Didn't Break"
-    , 'Sweet Dreams'
     , "What He'll Never Have"
-    , 'Relapse'
+    , 'Sweet Dreams'
+    , 'Casamigos'
     , 'Wanna Be Loved'
-    , 'Cowboys Cry Too'
+    , 'Messed Up As Me'
     , 'Sounds Like The Radio'
+    , 'Relapse'
+    , 'Cowboys Cry Too'
+    , 'Wrong Ones'
     , 'Just Like Johnny'
-    , 'Porch Light'
-    , 'Messed Up As Me' # Keith Urban // +1 will be accounted for in backfill
-    , "Darlin'" # Chase Matthew
-    , 'Maxed Out'
-    , 'A Lot More Free' # Max McNown
-    , 'California Sober'
+    , "Darlin'"
+    , "What Don't Belong To Me"
     , "Boys Back Home"
-    , 'Now Or Never' # Corey Kent feat Lauren Alaina
+    , 'Porch Light'
+    , 'Gonna Love You'
+    , 'Maxed Out'
+    , 'Out Of Oklahoma'
+    , 'Nosedive'
+    , 'One Bad Habit'
 ]
