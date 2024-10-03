@@ -1,52 +1,52 @@
-rankings = [
+rankings = [ # 2024-10-02
     'A Bar Song (Tipsy)'
     , 'I Had Some Help'
     , "Ain't No Love In Oklahoma"
-    , 'Miles On It'
     , 'Lies Lies Lies'
+    , 'Miles On It'
     , 'Cowgirls'
-    , 'Pink Skies'
     , 'Austin'
     , 'I Am Not Okay'
-    , '28'
+    , 'Pink Skies'
     , 'Pour Me A Drink'
+    , '28'
     , 'You Look Like You Love Me'
     , 'Guy For That'
     , 'High Road'
     , 'Whiskey Whiskey'
-    , 'Lonely Road'
-    , "Wind Up Missin' You"
     , 'Love You, Miss You, Mean It'
     , "Think I'm In Love With You"
+    , "Wind Up Missin' You"
+    , 'Lonely Road'
     , 'Am I Okay?'
-    , 'Losers'
     , 'Beautiful As You'
+    , 'Losers'
     , 'I Never Lie'
-    , 'Worst Way'
-    , 'Holy Smokes'
+    , 'Messed Up As Me'
     , 'Devil You Know'
     , 'This Is My Dirt'
-    , 'American Nights'
-    , '4x4xU'
-    , 'Happy Face'
-    , "Fix What You Didn't Break"
+    , 'Worst Way'
+    , 'Holy Smokes'
     , "What He'll Never Have"
-    , 'Sweet Dreams'
-    , 'Casamigos'
     , 'Wanna Be Loved'
-    , 'Messed Up As Me'
-    , 'Sounds Like The Radio'
-    , 'Relapse'
+    , 'American Nights'
     , 'Cowboys Cry Too'
-    , 'Wrong Ones'
+    , '4x4xU'
+    , 'Sounds Like The Radio'
+    , 'Happy Face'
+    , 'Relapse'
+    , 'Gonna Love You'
     , 'Just Like Johnny'
-    , "Darlin'"
-    , "What Don't Belong To Me"
+    , 'Sweet Dreams'
     , "Boys Back Home"
     , 'Porch Light'
-    , 'Gonna Love You'
+    , "Darlin'"
+    , "Fix What You Didn't Break"
     , 'Maxed Out'
-    , 'Out Of Oklahoma'
-    , 'Nosedive'
+    , 'A Lot More Free'
+    , "I Ain't Sayin'"
+    , 'Wranglers'
+    , 'Run Your Mouth'
     , 'One Bad Habit'
+    , 'Remember Him That Way'
 ]
