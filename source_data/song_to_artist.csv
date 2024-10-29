@@ -268,3 +268,13 @@ song_to_artist_pk,song_id,artist_id,relationship_type,relationship_conjunction,r
 211-Lead artist-,211,55,Lead artist,,,2024-09-24
 212-Lead artist-,212,75,Lead artist,,,2024-10-02
 213-Lead artist-,213,112,Lead artist,,,2024-10-02
+214-Lead artist-,214,10,Lead artist,,,2024-10-08
+214-Other main artist-1,214,94,Other main artist,&,1.0,2024-10-08
+215-Lead artist-,215,14,Lead artist,,,2024-10-15
+215-Other main artist-1,215,113,Other main artist,&,1.0,2024-10-15
+216-Lead artist-,216,4,Lead artist,,,2024-10-15
+217-Lead artist-,217,83,Lead artist,,,2024-10-15
+218-Lead artist-,218,96,Lead artist,,,2024-10-15
+219-Lead artist-,219,5,Lead artist,,,2024-10-22
+220-Lead artist-,220,5,Lead artist,,,2024-10-22
+221-Lead artist-,221,104,Lead artist,,,2024-10-22

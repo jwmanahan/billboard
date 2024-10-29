@@ -1,52 +1,52 @@
-rankings = [ # 2024-10-02
+rankings = [ # 2024-10-22
     'A Bar Song (Tipsy)'
     , 'I Had Some Help'
-    , "Ain't No Love In Oklahoma"
+    , 'I Am Not Okay'
     , 'Lies Lies Lies'
     , 'Miles On It'
-    , 'Cowgirls'
-    , 'Austin'
-    , 'I Am Not Okay'
+    , "Ain't No Love In Oklahoma"
     , 'Pink Skies'
-    , 'Pour Me A Drink'
-    , '28'
+    , 'Austin'
     , 'You Look Like You Love Me'
-    , 'Guy For That'
+    , 'Pour Me A Drink'
     , 'High Road'
-    , 'Whiskey Whiskey'
-    , 'Love You, Miss You, Mean It'
-    , "Think I'm In Love With You"
     , "Wind Up Missin' You"
-    , 'Lonely Road'
-    , 'Am I Okay?'
+    , '28'
+    , "I'm Gonna Love You"
     , 'Beautiful As You'
-    , 'Losers'
+    , 'Lonely Road'
+    , 'Guy For That'
+    , 'Liar'
+    , 'Whiskey Whiskey'
+    , "Think I'm In Love With You"
     , 'I Never Lie'
-    , 'Messed Up As Me'
-    , 'Devil You Know'
+    , 'Am I Okay?'
     , 'This Is My Dirt'
+    , 'Winning Streak'
     , 'Worst Way'
-    , 'Holy Smokes'
-    , "What He'll Never Have"
-    , 'Wanna Be Loved'
-    , 'American Nights'
-    , 'Cowboys Cry Too'
-    , '4x4xU'
-    , 'Sounds Like The Radio'
-    , 'Happy Face'
-    , 'Relapse'
-    , 'Gonna Love You'
-    , 'Just Like Johnny'
-    , 'Sweet Dreams'
-    , "Boys Back Home"
-    , 'Porch Light'
-    , "Darlin'"
     , "Fix What You Didn't Break"
-    , 'Maxed Out'
+    , 'Holy Smokes'
+    , 'Losers'
+    , 'Sounds Like The Radio'
+    , "What He'll Never Have"
+    , '4x4xU'
+    , "Boys Back Home"
     , 'A Lot More Free'
+    , 'Gonna Love You'
+    , 'Messed Up As Me'
     , "I Ain't Sayin'"
-    , 'Wranglers'
-    , 'Run Your Mouth'
+    , 'Wanna Be Loved'
+    , 'Relapse'
+    , 'Devil You Know'
+    , 'Cowboys Cry Too'
+    , 'Just Like Johnny'
+    , 'American Nights'
+    , 'Cowboy Songs'
+    , 'Can You Die From A Broken Heart'
+    , 'Get By'
+    , 'Porch Light'
+    , 'Bigger Houses'
     , 'One Bad Habit'
-    , 'Remember Him That Way'
+    , "Darlin'"
+    , 'Run Your Mouth'
 ]
