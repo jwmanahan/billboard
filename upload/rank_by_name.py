@@ -1,52 +1,52 @@
-rankings = [ # 2024-11-05
+rankings = [ # 2024-11-12
     'A Bar Song (Tipsy)'
     , 'I Had Some Help'
     , 'Love Somebody'
     , 'I Am Not Okay'
     , 'Lies Lies Lies'
     , 'Miles On It'
-    , 'Austin'
     , 'Pink Skies'
-    , "Ain't No Love In Oklahoma"
     , 'You Look Like You Love Me'
-    , "Wind Up Missin' You"
+    , "Ain't No Love In Oklahoma"
+    , 'Austin'
     , 'High Road'
+    , "Wind Up Missin' You"
     , 'Pour Me A Drink'
-    , '28'
+    , 'Beautiful As You'
     , "I'm Gonna Love You"
     , 'I Never Lie'
+    , '28'
     , 'Guy For That'
-    , 'Beautiful As You'
     , "Think I'm In Love With You"
-    , 'Whiskey Whiskey'
     , 'Am I Okay?'
-    , 'Lonely Road'
     , 'Liar'
-    , 'Cowboys Cry Too'
+    , 'Whiskey Whiskey'
+    , 'Lonely Road'
     , "I Ain't Sayin'"
+    , '4x4xU'
     , "Fix What You Didn't Break"
     , 'Holy Smokes'
-    , '4x4xU'
+    , 'Just Like Johnny'
     , 'Sounds Like The Radio'
-    , 'Losers'
     , 'Gonna Love You'
-    , 'Messed Up As Me'
+    , 'Cowboys Cry Too'
     , "Boys Back Home"
     , 'Cowboy Songs'
-    , 'Devil You Know'
-    , 'Ends Of The Earth'
-    , 'Winning Streak'
-    , 'Can You Die From A Broken Heart'
-    , 'Relapse'
-    , 'Just Like Johnny'
-    , 'A Lot More Free'
+    , 'Losers'
+    , 'Messed Up As Me'
     , 'Bigger Houses'
-    , "Don't Mind If I Do"
     , 'One Bad Habit'
-    , 'Wanna Be Loved'
-    , 'Baggage'
+    , 'Winning Streak'
+    , 'Relapse'
+    , 'Devil You Know'
+    , 'A Lot More Free'
+    , 'Ends Of The Earth'
     , "This Town's Been Too Good To Us"
-    , 'Porch Light'
-    , 'American Nights'
+    , "Don't Mind If I Do"
+    , 'Wanna Be Loved'
+    , 'House Again'
+    , "Weren't For The Wind"
+    , "Darlin'"
+    , 'Goodbye Joe'
     , 'Damn Good Day To Leave'
 ]

@@ -286,3 +286,7 @@ song_to_artist_pk,song_id,artist_id,relationship_type,relationship_conjunction,r
 226-Lead artist-,226,24,Lead artist,,,2024-10-29
 227-Lead artist-,227,48,Lead artist,,,2024-11-05
 228-Lead artist-,228,39,Lead artist,,,2024-11-05
+229-Lead artist-,229,115,Lead artist,,,2024-11-12
+230-Lead artist-,230,46,Lead artist,,,2024-11-12
+231-Lead artist-,231,116,Lead artist,,,2024-11-12
+231-Other main artist-1,231,117,Other main artist,&,1,2024-11-12
