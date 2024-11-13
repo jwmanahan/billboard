@@ -1,52 +1,52 @@
-rankings = [ # 2024-10-29
-    'Love Somebody'
-    , 'A Bar Song (Tipsy)'
+rankings = [ # 2024-11-05
+    'A Bar Song (Tipsy)'
     , 'I Had Some Help'
+    , 'Love Somebody'
     , 'I Am Not Okay'
     , 'Lies Lies Lies'
     , 'Miles On It'
+    , 'Austin'
     , 'Pink Skies'
     , "Ain't No Love In Oklahoma"
-    , 'Austin'
     , 'You Look Like You Love Me'
+    , "Wind Up Missin' You"
     , 'High Road'
     , 'Pour Me A Drink'
-    , "Wind Up Missin' You"
     , '28'
-    , 'Lonely Road'
+    , "I'm Gonna Love You"
+    , 'I Never Lie'
     , 'Guy For That'
     , 'Beautiful As You'
-    , 'I Never Lie'
     , "Think I'm In Love With You"
     , 'Whiskey Whiskey'
-    , "I'm Gonna Love You"
-    , 'Liar'
     , 'Am I Okay?'
-    , 'Worst Way'
-    , "Don't Mind If I Do"
-    , 'Holy Smokes'
+    , 'Lonely Road'
+    , 'Liar'
+    , 'Cowboys Cry Too'
+    , "I Ain't Sayin'"
     , "Fix What You Didn't Break"
+    , 'Holy Smokes'
     , '4x4xU'
     , 'Sounds Like The Radio'
-    , "What He'll Never Have"
+    , 'Losers'
+    , 'Gonna Love You'
+    , 'Messed Up As Me'
+    , "Boys Back Home"
+    , 'Cowboy Songs'
+    , 'Devil You Know'
     , 'Ends Of The Earth'
     , 'Winning Streak'
-    , 'Losers'
-    , 'This Is My Dirt'
-    , "Boys Back Home"
-    , "I Ain't Sayin'"
-    , 'Holding On'
-    , 'Gonna Love You'
-    , 'You For A Reason'
-    , 'Messed Up As Me'
-    , 'Relapse'
-    , 'Devil You Know'
-    , 'A Lot More Free'
-    , 'Just Like Johnny'
-    , 'Cowboy Songs'
     , 'Can You Die From A Broken Heart'
-    , 'Cowboys Cry Too'
+    , 'Relapse'
+    , 'Just Like Johnny'
+    , 'A Lot More Free'
+    , 'Bigger Houses'
+    , "Don't Mind If I Do"
     , 'One Bad Habit'
-    , 'American Nights'
+    , 'Wanna Be Loved'
+    , 'Baggage'
+    , "This Town's Been Too Good To Us"
     , 'Porch Light'
+    , 'American Nights'
+    , 'Damn Good Day To Leave'
 ]
