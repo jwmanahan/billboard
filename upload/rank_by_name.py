@@ -1,52 +1,52 @@
-rankings = [ # 2024-11-12
+rankings = [ # 2024-11-26
     'A Bar Song (Tipsy)'
     , 'I Had Some Help'
     , 'Love Somebody'
     , 'I Am Not Okay'
     , 'Lies Lies Lies'
+    , 'High Road' # Wetzel & Murph
     , 'Miles On It'
-    , 'Pink Skies'
-    , 'You Look Like You Love Me'
-    , "Ain't No Love In Oklahoma"
-    , 'Austin'
-    , 'High Road'
     , "Wind Up Missin' You"
-    , 'Pour Me A Drink'
+    , 'You Look Like You Love Me'
     , 'Beautiful As You'
-    , "I'm Gonna Love You"
+    , 'Pink Skies'
+    , 'High Road' # Zach Bryan
     , 'I Never Lie'
-    , '28'
-    , 'Guy For That'
-    , "Think I'm In Love With You"
-    , 'Am I Okay?'
+    , 'Pour Me A Drink'
     , 'Liar'
-    , 'Whiskey Whiskey'
-    , 'Lonely Road'
-    , "I Ain't Sayin'"
+    , "I'm Gonna Love You"
+    , 'Good News'
+    , "Think I'm In Love With You"
     , '4x4xU'
-    , "Fix What You Didn't Break"
-    , 'Holy Smokes'
-    , 'Just Like Johnny'
-    , 'Sounds Like The Radio'
-    , 'Gonna Love You'
-    , 'Cowboys Cry Too'
-    , "Boys Back Home"
-    , 'Cowboy Songs'
-    , 'Losers'
-    , 'Messed Up As Me'
-    , 'Bigger Houses'
-    , 'One Bad Habit'
-    , 'Winning Streak'
-    , 'Relapse'
-    , 'Devil You Know'
-    , 'A Lot More Free'
+    , 'Guy For That'
+    , 'Am I Okay?'
+    , '28'
+    , 'Lonely Road'
+    , 'Neon Moon'
     , 'Ends Of The Earth'
-    , "This Town's Been Too Good To Us"
-    , "Don't Mind If I Do"
-    , 'Wanna Be Loved'
+    , "Somethin' 'Bout A Woman"
+    , "I Ain't Sayin'"
+    , 'Cowboy Songs'
+    , 'Texas'
+    , 'Gonna Love You'
+    , 'Holy Smokes'
+    , "Fix What You Didn't Break"
+    , "Boys Back Home"
+    , "This World's A Giant"
     , 'House Again'
-    , "Weren't For The Wind"
-    , "Darlin'"
-    , 'Goodbye Joe'
+    , 'Just Like Johnny'
+    , 'Bigger Houses'
+    , 'Sounds Like The Radio'
+    , 'Devil You Know'
+    , 'Messed Up As Me'
+    , 'Wanna Be Loved'
+    , 'Relapse'
+    , 'A Lot More Free'
+    , 'Losers'
+    , "Don't Mind If I Do"
+    , "This Town's Been Too Good To Us"
+    , 'Porch Light'
+    , 'Cowboys Cry Too'
     , 'Damn Good Day To Leave'
+    , 'One Bad Habit'
 ]
