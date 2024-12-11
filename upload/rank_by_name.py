@@ -1,52 +1,52 @@
-rankings = [ # 2024-12-03
+rankings = [ # 2024-12-10
     'A Bar Song (Tipsy)'
     , 'I Had Some Help'
     , 'Love Somebody'
     , 'I Am Not Okay'
-    , 'Lies Lies Lies'
     , 'High Road' # Wetzel & Murph
+    , 'Lies Lies Lies'
     , 'You Look Like You Love Me'
     , "Wind Up Missin' You"
     , 'Miles On It'
     , 'I Never Lie'
-    , "I'm Gonna Love You"
     , 'Pour Me A Drink'
+    , "I'm Gonna Love You"
     , 'Liar'
-    , 'High Road' # Zach Bryan
     , '4x4xU'
     , "Think I'm In Love With You"
+    , 'High Road' # Zach Bryan
     , 'Guy For That'
     , 'Good News'
-    , 'Am I Okay?'
-    , 'Gonna Love You'
-    , 'Lonely Road'
     , 'Cowboy Songs'
-    , '28'
+    , 'Am I Okay?'
     , "I Ain't Sayin'"
-    , 'Ends Of The Earth'
+    , 'Gonna Love You'
+    , '28'
     , "Boys Back Home"
-    , "Somethin' 'Bout A Woman"
+    , 'Lonely Road'
+    , 'Ends Of The Earth'
     , 'Holy Smokes'
-    , "Fix What You Didn't Break"
-    , 'Neon Moon'
     , 'Bigger Houses'
+    , "Fix What You Didn't Break"
+    , "Somethin' 'Bout A Woman"
     , 'Messed Up As Me'
     , 'House Again'
-    , "Don't Mind If I Do"
-    , 'Just Like Johnny'
-    , 'Devil You Know'
-    , 'Relapse'
-    , "Weren't For The Wind"
-    , "This World's A Giant"
-    , 'A Lot More Free'
-    , 'Porch Light'
-    , 'Sounds Like The Radio'
     , "This Town's Been Too Good To Us"
-    , 'Losers'
+    , "Don't Mind If I Do"
+    , 'Relapse'
+    , 'Devil You Know'
+    , "Weren't For The Wind"
+    , 'Texas'
+    , 'Just Like Johnny'
+    , 'Neon Moon'
+    , 'Porch Light'
     , 'Damn Good Day To Leave'
+    , 'Last Of My Kind'
+    , 'Losers'
+    , 'A Lot More Free'
+    , 'Thoughts Of You'
+    , "This World's A Giant"
     , 'Cowboys Cry Too'
     , 'Bad Luck'
-    , 'Last Of My Kind'
     , 'Backseat Driver'
-    , 'Maxed Out'
 ]
