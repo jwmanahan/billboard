@@ -1,0 +1,305 @@
+song_to_artist_pk,song_id,artist_id,relationship_type,relationship_conjunction,relationship_index,last_update
+1-Lead artist-,1,1,Lead artist,,,2024-08-25
+1-Featured artist-1,1,30,Featured artist,,1.0,2024-08-25
+9-Lead artist-,9,6,Lead artist,,,2024-08-25
+9-Other main artist-1,9,11,Other main artist,With,1.0,2024-08-25
+17-Lead artist-,17,3,Lead artist,,,2024-08-25
+17-Other main artist-1,17,31,Other main artist,&,1.0,2024-08-25
+17-Other main artist-2,17,32,Other main artist,&,2.0,2024-08-25
+17-Other main artist-3,17,33,Other main artist,&,3.0,2024-08-25
+17-Other main artist-4,17,34,Other main artist,&,4.0,2024-08-25
+21-Lead artist-,21,10,Lead artist,,,2024-08-25
+22-Lead artist-,22,12,Lead artist,,,2024-08-25
+23-Lead artist-,23,18,Lead artist,,,2024-08-25
+24-Lead artist-,24,14,Lead artist,,,2024-08-25
+25-Lead artist-,25,35,Lead artist,,,2024-08-25
+25-Featured artist-1,25,5,Featured artist,,1.0,2024-08-25
+26-Lead artist-,26,8,Lead artist,,,2024-08-25
+27-Lead artist-,27,26,Lead artist,,,2024-08-25
+28-Lead artist-,28,1,Lead artist,,,2024-08-25
+29-Lead artist-,29,36,Lead artist,,,2024-08-25
+30-Lead artist-,30,9,Lead artist,,,2024-08-25
+31-Lead artist-,31,7,Lead artist,,,2024-08-25
+32-Lead artist-,32,2,Lead artist,,,2024-08-25
+32-Featured artist-1,32,37,Featured artist,,1.0,2024-08-25
+33-Lead artist-,33,38,Lead artist,,,2024-08-25
+34-Lead artist-,34,25,Lead artist,,,2024-08-25
+35-Lead artist-,35,39,Lead artist,,,2024-08-25
+36-Lead artist-,36,40,Lead artist,,,2024-08-25
+37-Lead artist-,37,41,Lead artist,,,2024-08-25
+37-Other main artist-1,37,20,Other main artist,&,1.0,2024-08-25
+38-Lead artist-,38,15,Lead artist,,,2024-08-25
+38-Other main artist-1,38,2,Other main artist,&,1.0,2024-08-25
+39-Lead artist-,39,22,Lead artist,,,2024-08-25
+40-Lead artist-,40,6,Lead artist,,,2024-08-25
+41-Lead artist-,41,16,Lead artist,,,2024-08-25
+42-Lead artist-,42,11,Lead artist,,,2024-08-25
+43-Lead artist-,43,1,Lead artist,,,2024-08-25
+44-Lead artist-,44,42,Lead artist,,,2024-08-25
+45-Lead artist-,45,17,Lead artist,,,2024-08-25
+46-Lead artist-,46,43,Lead artist,,,2024-08-25
+47-Lead artist-,47,16,Lead artist,,,2024-08-25
+47-Other main artist-1,47,13,Other main artist,&,1.0,2024-08-25
+48-Lead artist-,48,5,Lead artist,,,2024-08-25
+49-Lead artist-,49,24,Lead artist,,,2024-08-25
+50-Lead artist-,50,44,Lead artist,,,2024-08-25
+50-Featured artist-1,50,2,Featured artist,,1.0,2024-08-25
+51-Lead artist-,51,6,Lead artist,,,2024-08-25
+52-Lead artist-,52,15,Lead artist,,,2024-08-25
+52-Featured artist-1,52,45,Featured artist,,1.0,2024-08-25
+53-Lead artist-,53,46,Lead artist,,,2024-08-25
+53-Featured artist-1,53,39,Featured artist,,1.0,2024-08-25
+54-Lead artist-,54,25,Lead artist,,,2024-08-25
+54-Featured artist-1,54,47,Featured artist,,1.0,2024-08-25
+55-Lead artist-,55,48,Lead artist,,,2024-08-25
+55-Other main artist-1,55,49,Other main artist,&,1.0,2024-08-25
+56-Lead artist-,56,1,Lead artist,,,2024-08-25
+57-Lead artist-,57,1,Lead artist,,,2024-08-25
+58-Lead artist-,58,2,Lead artist,,,2024-08-25
+59-Lead artist-,59,1,Lead artist,,,2024-08-25
+59-Featured artist-1,59,50,Featured artist,,1.0,2024-08-25
+60-Lead artist-,60,1,Lead artist,,,2024-08-25
+61-Lead artist-,61,1,Lead artist,,,2024-08-25
+62-Lead artist-,62,4,Lead artist,,,2024-08-25
+63-Lead artist-,63,11,Lead artist,,,2024-08-25
+64-Lead artist-,64,15,Lead artist,,,2024-08-25
+64-Featured artist-1,64,6,Featured artist,,1.0,2024-08-25
+65-Lead artist-,65,29,Lead artist,,,2024-08-25
+65-Other main artist-1,65,5,Other main artist,&,1.0,2024-08-25
+66-Lead artist-,66,51,Lead artist,,,2024-08-25
+67-Lead artist-,67,5,Lead artist,,,2024-08-25
+68-Lead artist-,68,52,Lead artist,,,2024-08-25
+69-Lead artist-,69,53,Lead artist,,,2024-08-25
+70-Lead artist-,70,53,Lead artist,,,2024-08-25
+71-Lead artist-,71,1,Lead artist,,,2024-08-27
+71-Featured artist-1,71,54,Featured artist,,1.0,2024-08-27
+72-Lead artist-,72,4,Lead artist,,,2024-08-27
+73-Lead artist-,73,1,Lead artist,,,2024-08-27
+74-Lead artist-,74,4,Lead artist,,,2024-08-27
+75-Lead artist-,75,8,Lead artist,,,2024-08-27
+76-Lead artist-,76,15,Lead artist,,,2024-08-29
+76-Featured artist-1,76,55,Featured artist,,1.0,2024-08-29
+77-Lead artist-,77,15,Lead artist,,,2024-08-29
+77-Featured artist-1,77,5,Featured artist,,1.0,2024-08-29
+78-Lead artist-,78,15,Lead artist,,,2024-08-29
+78-Featured artist-1,78,12,Featured artist,,1.0,2024-08-29
+79-Lead artist-,79,15,Lead artist,,,2024-08-29
+80-Lead artist-,80,15,Lead artist,,,2024-08-29
+80-Featured artist-1,80,56,Featured artist,,1.0,2024-08-29
+81-Lead artist-,81,15,Lead artist,,,2024-08-29
+81-Featured artist-1,81,11,Featured artist,,1.0,2024-08-29
+82-Lead artist-,82,15,Lead artist,,,2024-08-29
+83-Lead artist-,83,15,Lead artist,,,2024-08-29
+83-Featured artist-1,83,57,Featured artist,,1.0,2024-08-29
+84-Lead artist-,84,15,Lead artist,,,2024-08-29
+84-Featured artist-1,84,6,Featured artist,,1.0,2024-08-29
+85-Lead artist-,85,15,Lead artist,,,2024-08-29
+85-Featured artist-1,85,58,Featured artist,,1.0,2024-08-29
+86-Lead artist-,86,15,Lead artist,,,2024-08-29
+86-Featured artist-1,86,37,Featured artist,,1.0,2024-08-29
+87-Lead artist-,87,15,Lead artist,,,2024-08-29
+87-Featured artist-1,87,59,Featured artist,,1.0,2024-08-29
+88-Lead artist-,88,15,Lead artist,,,2024-08-29
+88-Featured artist-1,88,60,Featured artist,,1.0,2024-08-29
+89-Lead artist-,89,15,Lead artist,,,2024-08-29
+90-Lead artist-,90,15,Lead artist,,,2024-08-30
+90-Featured artist-1,90,61,Featured artist,,1.0,2024-08-30
+91-Lead artist-,91,5,Lead artist,,,2024-09-08
+92-Lead artist-,92,1,Lead artist,,,2024-09-08
+93-Lead artist-,93,62,Lead artist,,,2024-09-08
+93-Other main artist-1,93,7,Other main artist,&,1.0,2024-09-08
+94-Lead artist-,94,1,Lead artist,,,2024-09-08
+94-Other main artist-1,94,63,Other main artist,&,1.0,2024-09-08
+95-Lead artist-,95,1,Lead artist,,,2024-09-08
+96-Lead artist-,96,1,Lead artist,,,2024-09-08
+97-Lead artist-,97,1,Lead artist,,,2024-09-08
+98-Lead artist-,98,19,Lead artist,,,2024-09-09
+99-Lead artist-,99,9,Lead artist,,,2024-09-09
+100-Lead artist-,100,1,Lead artist,,,2024-09-09
+100-Featured artist-1,100,64,Featured artist,,1.0,2024-09-09
+101-Lead artist-,101,1,Lead artist,,,2024-09-09
+102-Lead artist-,102,1,Lead artist,,,2024-09-09
+103-Lead artist-,103,1,Lead artist,,,2024-09-09
+104-Lead artist-,104,1,Lead artist,,,2024-09-09
+105-Lead artist-,105,1,Lead artist,,,2024-09-09
+106-Lead artist-,106,14,Lead artist,,,2024-09-10
+107-Lead artist-,107,65,Lead artist,,,2024-09-10
+108-Lead artist-,108,21,Lead artist,,,2024-09-13
+109-Lead artist-,109,6,Lead artist,,,2024-09-13
+110-Lead artist-,110,4,Lead artist,,,2024-09-13
+111-Lead artist-,111,66,Lead artist,,,2024-09-13
+112-Lead artist-,112,29,Lead artist,,,2024-09-13
+113-Lead artist-,113,67,Lead artist,,,2024-09-13
+114-Lead artist-,114,68,Lead artist,,,2024-09-13
+115-Lead artist-,115,5,Lead artist,,,2024-09-13
+116-Lead artist-,116,3,Lead artist,,,2024-09-13
+117-Lead artist-,117,23,Lead artist,,,2024-09-13
+117-Featured artist-1,117,12,Featured artist,,1.0,2024-09-13
+118-Lead artist-,118,69,Lead artist,,,2024-09-13
+119-Lead artist-,119,25,Lead artist,,,2024-09-13
+119-Featured artist-1,119,70,Featured artist,,1.0,2024-09-13
+120-Lead artist-,120,6,Lead artist,,,2024-09-13
+121-Lead artist-,121,6,Lead artist,,,2024-09-13
+10-Lead artist-,10,13,Lead artist,,,2024-09-13
+10-Other main artist-1,10,5,Other main artist,&,1.0,2024-09-13
+122-Lead artist-,122,27,Lead artist,,,2024-09-13
+123-Lead artist-,123,6,Lead artist,,,2024-09-13
+124-Lead artist-,124,6,Lead artist,,,2024-09-13
+125-Lead artist-,125,6,Lead artist,,,2024-09-13
+126-Lead artist-,126,17,Lead artist,,,2024-09-14
+127-Lead artist-,127,2,Lead artist,,,2024-09-14
+128-Lead artist-,128,3,Lead artist,,,2024-09-14
+128-Other main artist-1,128,71,Other main artist,&,1.0,2024-09-14
+129-Lead artist-,129,8,Lead artist,,,2024-09-14
+130-Lead artist-,130,16,Lead artist,,,2024-09-14
+131-Lead artist-,131,8,Lead artist,,,2024-09-14
+132-Lead artist-,132,72,Lead artist,,,2024-09-14
+133-Lead artist-,133,7,Lead artist,,,2024-09-14
+134-Lead artist-,134,73,Lead artist,,,2024-09-14
+134-Other main artist-1,134,46,Other main artist,&,1.0,2024-09-14
+135-Lead artist-,135,9,Lead artist,,,2024-09-14
+136-Lead artist-,136,24,Lead artist,,,2024-09-14
+137-Lead artist-,137,74,Lead artist,,,2024-09-14
+138-Lead artist-,138,1,Lead artist,,,2024-09-14
+12-Lead artist-,12,6,Lead artist,,,2024-09-15
+139-Lead artist-,139,75,Lead artist,,,2024-09-15
+140-Lead artist-,140,4,Lead artist,,,2024-09-15
+141-Lead artist-,141,67,Lead artist,,,2024-09-15
+141-Other main artist-1,141,4,Other main artist,&,1.0,2024-09-15
+142-Lead artist-,142,5,Lead artist,,,2024-09-15
+142-Featured artist-1,142,76,Featured artist,,1.0,2024-09-15
+18-Lead artist-,18,3,Lead artist,,,2024-09-15
+143-Lead artist-,143,11,Lead artist,,,2024-09-15
+144-Lead artist-,144,77,Lead artist,,,2024-09-15
+145-Lead artist-,145,78,Lead artist,,,2024-09-15
+146-Lead artist-,146,68,Lead artist,,,2024-09-15
+147-Lead artist-,147,37,Lead artist,,,2024-09-15
+147-Other main artist-1,147,2,Other main artist,&,1.0,2024-09-15
+148-Lead artist-,148,15,Lead artist,,,2024-09-15
+149-Lead artist-,149,79,Lead artist,,,2024-09-15
+150-Lead artist-,150,80,Lead artist,,,2024-09-15
+151-Lead artist-,151,3,Lead artist,,,2024-09-15
+151-Other main artist-1,151,15,Other main artist,&,1.0,2024-09-15
+152-Lead artist-,152,3,Lead artist,,,2024-09-15
+152-Other main artist-1,152,61,Other main artist,&,1.0,2024-09-15
+153-Lead artist-,153,24,Lead artist,,,2024-09-15
+154-Lead artist-,154,81,Lead artist,,,2024-09-15
+155-Lead artist-,155,3,Lead artist,,,2024-09-15
+156-Lead artist-,156,30,Lead artist,,,2024-09-15
+157-Lead artist-,157,82,Lead artist,,,2024-09-15
+158-Lead artist-,158,3,Lead artist,,,2024-09-15
+16-Lead artist-,16,2,Lead artist,,,2024-09-15
+16-Featured artist-1,16,83,Featured artist,,1.0,2024-09-15
+159-Lead artist-,159,3,Lead artist,,,2024-09-15
+160-Lead artist-,160,3,Lead artist,,,2024-09-15
+161-Lead artist-,161,3,Lead artist,,,2024-09-15
+161-Other main artist-1,161,84,Other main artist,&,1.0,2024-09-15
+162-Lead artist-,162,3,Lead artist,,,2024-09-15
+163-Lead artist-,163,3,Lead artist,,,2024-09-15
+163-Other main artist-1,163,85,Other main artist,&,1.0,2024-09-15
+164-Lead artist-,164,3,Lead artist,,,2024-09-15
+14-Lead artist-,14,86,Lead artist,,,2024-09-16
+165-Lead artist-,165,3,Lead artist,,,2024-09-16
+166-Lead artist-,166,3,Lead artist,,,2024-09-16
+167-Lead artist-,167,87,Lead artist,,,2024-09-16
+168-Lead artist-,168,22,Lead artist,,,2024-09-16
+168-Featured artist-1,168,2,Featured artist,,1.0,2024-09-16
+169-Lead artist-,169,30,Lead artist,,,2024-09-16
+170-Lead artist-,170,28,Lead artist,,,2024-09-16
+171-Lead artist-,171,30,Lead artist,,,2024-09-16
+172-Lead artist-,172,4,Lead artist,,,2024-09-16
+4-Lead artist-,4,6,Lead artist,,,2024-09-16
+2-Lead artist-,2,2,Lead artist,,,2024-09-16
+3-Lead artist-,3,2,Lead artist,,,2024-09-16
+11-Lead artist-,11,58,Lead artist,,,2024-09-16
+173-Lead artist-,173,20,Lead artist,,,2024-09-16
+174-Lead artist-,174,30,Lead artist,,,2024-09-16
+175-Lead artist-,175,88,Lead artist,,,2024-09-16
+8-Lead artist-,8,24,Lead artist,,,2024-09-16
+176-Lead artist-,176,11,Lead artist,,,2024-09-17
+177-Lead artist-,177,89,Lead artist,,,2024-09-17
+178-Lead artist-,178,18,Lead artist,,,2024-09-17
+179-Lead artist-,179,90,Lead artist,,,2024-09-17
+180-Lead artist-,180,91,Lead artist,,,2024-09-17
+180-Featured artist-1,180,92,Featured artist,,1.0,2024-09-17
+13-Lead artist-,13,10,Lead artist,,,2024-09-18
+181-Lead artist-,181,93,Lead artist,,,2024-09-18
+181-Other main artist-1,181,20,Other main artist,+,1.0,2024-09-18
+182-Lead artist-,182,94,Lead artist,,,2024-09-18
+183-Lead artist-,183,1,Lead artist,,,2024-09-18
+183-Featured artist-1,183,95,Featured artist,,1.0,2024-09-18
+184-Lead artist-,184,96,Lead artist,,,2024-09-18
+185-Lead artist-,185,97,Lead artist,,,2024-09-18
+186-Lead artist-,186,98,Lead artist,,,2024-09-18
+187-Lead artist-,187,99,Lead artist,,,2024-09-18
+188-Lead artist-,188,100,Lead artist,,,2024-09-18
+189-Lead artist-,189,100,Lead artist,,,2024-09-18
+190-Lead artist-,190,101,Lead artist,,,2024-09-18
+190-Other main artist-1,190,45,Other main artist,&,1.0,2024-09-18
+6-Lead artist-,6,14,Lead artist,,,2024-09-18
+15-Lead artist-,15,39,Lead artist,,,2024-09-18
+15-Featured artist-1,15,6,Featured artist,,1.0,2024-09-18
+191-Lead artist-,191,100,Lead artist,,,2024-09-20
+192-Lead artist-,192,100,Lead artist,,,2024-09-20
+193-Lead artist-,193,100,Lead artist,,,2024-09-20
+194-Lead artist-,194,1,Lead artist,,,2024-09-20
+194-Featured artist-1,194,49,Featured artist,,1.0,2024-09-20
+195-Lead artist-,195,102,Lead artist,,,2024-09-20
+5-Lead artist-,5,12,Lead artist,,,2024-09-20
+196-Lead artist-,196,91,Lead artist,,,2024-09-20
+197-Lead artist-,197,30,Lead artist,,,2024-09-20
+198-Lead artist-,198,103,Lead artist,,,2024-09-21
+7-Lead artist-,7,5,Lead artist,,,2024-09-21
+20-Lead artist-,20,104,Lead artist,,,2024-09-21
+199-Lead artist-,199,1,Lead artist,,,2024-09-21
+200-Lead artist-,200,91,Lead artist,,,2024-09-21
+201-Lead artist-,201,1,Lead artist,,,2024-09-21
+202-Lead artist-,202,1,Lead artist,,,2024-09-21
+202-Featured artist-1,202,105,Featured artist,,1.0,2024-09-21
+203-Lead artist-,203,1,Lead artist,,,2024-09-21
+204-Lead artist-,204,21,Lead artist,,,2024-09-21
+205-Lead artist-,205,106,Lead artist,,,2024-09-21
+206-Lead artist-,206,107,Lead artist,,,2024-09-21
+207-Lead artist-,207,108,Lead artist,,,2024-09-21
+207-Other main artist-1,207,109,Other main artist,&,1.0,2024-09-21
+208-Lead artist-,208,110,Lead artist,,,2024-09-24
+209-Lead artist-,209,16,Lead artist,,,2024-09-24
+210-Lead artist-,210,111,Lead artist,,,2024-09-24
+211-Lead artist-,211,55,Lead artist,,,2024-09-24
+212-Lead artist-,212,75,Lead artist,,,2024-10-02
+213-Lead artist-,213,112,Lead artist,,,2024-10-02
+214-Lead artist-,214,10,Lead artist,,,2024-10-08
+214-Other main artist-1,214,94,Other main artist,&,1.0,2024-10-08
+215-Lead artist-,215,14,Lead artist,,,2024-10-15
+215-Other main artist-1,215,113,Other main artist,&,1.0,2024-10-15
+216-Lead artist-,216,4,Lead artist,,,2024-10-15
+217-Lead artist-,217,83,Lead artist,,,2024-10-15
+218-Lead artist-,218,96,Lead artist,,,2024-10-15
+219-Lead artist-,219,5,Lead artist,,,2024-10-22
+220-Lead artist-,220,5,Lead artist,,,2024-10-22
+221-Lead artist-,221,104,Lead artist,,,2024-10-22
+222-Lead artist-,222,2,Lead artist,,,2024-10-29
+223-Lead artist-,223,39,Lead artist,,,2024-10-29
+223-Featured artist-1,223,46,Featured artist,,1.0,2024-10-29
+224-Lead artist-,224,114,Lead artist,,,2024-10-29
+225-Lead artist-,225,8,Lead artist,,,2024-10-29
+226-Lead artist-,226,24,Lead artist,,,2024-10-29
+227-Lead artist-,227,48,Lead artist,,,2024-11-05
+228-Lead artist-,228,39,Lead artist,,,2024-11-05
+229-Lead artist-,229,115,Lead artist,,,2024-11-12
+230-Lead artist-,230,46,Lead artist,,,2024-11-12
+231-Lead artist-,231,116,Lead artist,,,2024-11-12
+231-Other main artist-1,231,117,Other main artist,&,1.0,2024-11-12
+232-Lead artist-,232,1,Lead artist,,,2024-11-19
+233-Lead artist-,233,1,Lead artist,,,2024-11-19
+234-Lead artist-,234,20,Lead artist,,,2024-11-19
+235-Lead artist-,235,25,Lead artist,,,2024-11-26
+236-Lead artist-,236,118,Lead artist,,,2024-11-26
+236-Other main artist-1,236,2,Other main artist,With,1.0,2024-11-26
+237-Lead artist-,237,22,Lead artist,,,2024-11-26
+237-Featured artist-1,237,119,Featured artist,,1.0,2024-11-26
+238-Lead artist-,238,45,Lead artist,,,2024-11-26
+239-Lead artist-,239,53,Lead artist,,,2024-12-03
+240-Lead artist-,240,25,Lead artist,,,2024-12-03
+240-Featured artist-1,240,120,Featured artist,,1.0,2024-12-03
+241-Lead artist-,241,66,Lead artist,,,2024-12-10
