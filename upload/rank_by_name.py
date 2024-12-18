@@ -1,52 +1,52 @@
-rankings = [ # 2024-12-10
+rankings = [ # 2024-12-17
     'A Bar Song (Tipsy)'
     , 'I Had Some Help'
     , 'Love Somebody'
     , 'I Am Not Okay'
     , 'High Road' # Wetzel & Murph
     , 'Lies Lies Lies'
-    , 'You Look Like You Love Me'
     , "Wind Up Missin' You"
+    , 'You Look Like You Love Me'
     , 'Miles On It'
     , 'I Never Lie'
-    , 'Pour Me A Drink'
-    , "I'm Gonna Love You"
     , 'Liar'
+    , "I'm Gonna Love You"
+    , 'Pour Me A Drink'
+    , 'Good News'
     , '4x4xU'
     , "Think I'm In Love With You"
-    , 'High Road' # Zach Bryan
+    , 'Indigo'
     , 'Guy For That'
-    , 'Good News'
     , 'Cowboy Songs'
+    , 'High Road' # Zach Bryan
     , 'Am I Okay?'
-    , "I Ain't Sayin'"
-    , 'Gonna Love You'
-    , '28'
     , "Boys Back Home"
+    , "I Ain't Sayin'"
+    , '28'
     , 'Lonely Road'
-    , 'Ends Of The Earth'
+    , 'Georgia Ways'
     , 'Holy Smokes'
+    , 'Ends Of The Earth'
+    , "Somethin' 'Bout A Woman"
     , 'Bigger Houses'
     , "Fix What You Didn't Break"
-    , "Somethin' 'Bout A Woman"
-    , 'Messed Up As Me'
-    , 'House Again'
+    , 'Gonna Love You'
     , "This Town's Been Too Good To Us"
+    , 'House Again'
     , "Don't Mind If I Do"
     , 'Relapse'
     , 'Devil You Know'
     , "Weren't For The Wind"
     , 'Texas'
+    , 'Damn Good Day To Leave'
+    , 'Porch Light'
     , 'Just Like Johnny'
     , 'Neon Moon'
-    , 'Porch Light'
-    , 'Damn Good Day To Leave'
     , 'Last Of My Kind'
-    , 'Losers'
-    , 'A Lot More Free'
     , 'Thoughts Of You'
-    , "This World's A Giant"
+    , 'Losers'
     , 'Cowboys Cry Too'
+    , 'A Lot More Free'
     , 'Bad Luck'
-    , 'Backseat Driver'
+    , 'Maybe This Christmas'
 ]
