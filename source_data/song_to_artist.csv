@@ -304,9 +304,13 @@ song_to_artist_pk,song_id,artist_id,relationship_type,relationship_conjunction,r
 240-Featured artist-1,240,120,Featured artist,,1.0,2024-12-03
 241-Lead artist-,241,66,Lead artist,,,2024-12-10
 242-Lead artist-,242,121,Lead artist,,,2024-12-17
-242-Featured artist-1,242,122,Featured artist,,1,2024-12-17
+242-Featured artist-1,242,122,Featured artist,,1.0,2024-12-17
 243-Lead artist-,243,123,Lead artist,,,2024-12-17
-243-Other main artist-1,243,38,Other main artist,&,1,2024-12-17
-243-Other main artist-2,243,119,Other main artist,&,2,2024-12-17
+243-Other main artist-1,243,38,Other main artist,&,1.0,2024-12-17
+243-Other main artist-2,243,119,Other main artist,&,2.0,2024-12-17
 244-Lead artist-,244,124,Lead artist,,,2024-12-17
-244-Other main artist-1,244,23,Other main artist,&,1,2024-12-17
+244-Other main artist-1,244,23,Other main artist,&,1.0,2024-12-17
+245-Lead artist-,245,125,Lead artist,,,2024-12-24
+246-Lead artist-,246,26,Lead artist,,,2024-12-24
+247-Lead artist-,247,126,Lead artist,,,2024-12-24
+247-Featured artist-1,247,21,Featured artist,,1,2024-12-24
