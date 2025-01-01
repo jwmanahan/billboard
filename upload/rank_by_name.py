@@ -1,4 +1,4 @@
-rankings = [ # 2024-12-17
+rankings = [ # 2024-12-31
     'A Bar Song (Tipsy)'
     , 'I Had Some Help'
     , 'Love Somebody'
@@ -6,47 +6,47 @@ rankings = [ # 2024-12-17
     , 'I Am Not Okay'
     , "Wind Up Missin' You"
     , 'Lies Lies Lies'
-    , 'Indigo'
     , 'I Never Lie'
+    , 'Indigo'
     , 'Pour Me A Drink'
-    , 'You Look Like You Love Me'
     , 'Liar'
-    , '4x4xU'
     , "I'm Gonna Love You"
+    , '4x4xU'
     , 'Good News'
     , "Think I'm In Love With You"
     , 'Guy For That'
-    , 'Cowboy Songs'
+    , "I Ain't Sayin'"
     , "Boys Back Home"
     , 'Am I Okay?'
-    , "I Ain't Sayin'"
-    , 'High Road' # Zach Bryan
     , '28'
+    , 'Cowboy Songs'
+    , 'Maybe This Christmas'
+    , 'High Road' # Zach Bryan
     , 'Holy Smokes'
     , 'Ends Of The Earth'
     , "Weren't For The Wind"
+    , 'Driving Home For Christmas'
     , 'Bigger Houses'
-    , "Don't Mind If I Do"
     , 'House Again'
     , "This Town's Been Too Good To Us"
-    , "Somethin' 'Bout A Woman"
+    , "Don't Mind If I Do"
+    , 'Devil You Know'
     , "Fix What You Didn't Break"
     , 'Texas'
-    , 'Devil You Know'
-    , 'Georgia Ways'
-    , 'Damn Good Day To Leave'
     , 'Relapse'
-    , 'Maybe This Christmas'
-    , 'Gonna Love You'
+    , 'Damn Good Day To Leave'
+    , "Somethin' 'Bout A Woman"
     , 'Porch Light'
-    , 'Thoughts Of You'
-    , 'Just Like Johnny'
+    , 'Georgia Ways'
     , 'A Lot More Free'
-    , 'Forever To Me'
-    , 'Bad Luck'
+    , 'Just Like Johnny'
     , 'Last Of My Kind'
-    , 'Driving Home For Christmas'
-    , 'Backseat Driver'
+    , 'Bad Luck'
     , 'Losers'
+    , 'Thoughts Of You'
     , 'Friends Like That'
+    , 'Backseat Driver'
+    , 'Gonna Love You'
+    , 'Forever To Me'
+    , 'Cowboys Cry Too'
 ]
