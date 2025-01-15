@@ -1,52 +1,52 @@
-rankings = [ # 2025-01-07
+rankings = [ # 2025-01-14
     'A Bar Song (Tipsy)'
+    , 'Smile'
     , 'I Had Some Help'
     , 'Love Somebody'
     , 'High Road' # Wetzel & Murph
-    , 'Smile'
-    , 'I Am Not Okay'
     , "Wind Up Missin' You"
+    , 'I Am Not Okay'
     , 'Lies Lies Lies'
     , 'Pour Me A Drink'
-    , 'I Never Lie'
     , 'Liar'
+    , 'I Never Lie'
     , "I'm Gonna Love You"
     , '4x4xU'
-    , 'Good News'
     , 'Indigo'
+    , 'Good News'
     , "Think I'm In Love With You"
     , 'Guy For That'
-    , 'Am I Okay?'
     , "I Ain't Sayin'"
+    , 'Am I Okay?'
     , "Boys Back Home"
     , 'Ends Of The Earth'
     , 'Holy Smokes'
     , 'High Road' # Zach Bryan
-    , 'Cowboy Songs'
-    , '28'
-    , "Weren't For The Wind"
     , 'Bigger Houses'
+    , "Weren't For The Wind"
+    , 'Cowboy Songs'
     , "Fix What You Didn't Break"
+    , "Don't Mind If I Do"
+    , "Somethin' 'Bout A Woman"
+    , 'Texas'
     , "This Town's Been Too Good To Us"
     , 'House Again'
-    , "Don't Mind If I Do"
-    , 'Texas'
-    , 'Devil You Know'
     , 'Relapse'
-    , "Somethin' 'Bout A Woman"
+    , 'Devil You Know'
     , 'Damn Good Day To Leave'
     , 'Just Like Johnny'
-    , 'Backseat Driver'
-    , 'A Lot More Free'
-    , 'Forever To Me'
     , 'Cowboys Cry Too'
-    , 'Porch Light'
-    , 'Losers'
+    , 'Forever To Me'
+    , 'Backseat Driver'
     , 'Friends Like That'
-    , 'Single Again'
-    , 'Last Of My Kind'
-    , 'Gonna Love You'
-    , 'Neon Moon'
+    , 'A Lot More Free'
+    , 'Losers'
     , "Darlin'"
+    , 'Porch Light'
+    , 'Single Again'
+    , 'Neon Moon'
     , 'Hometown Home'
+    , 'Baggage'
+    , 'Last Of My Kind'
+    , 'Use Me'
 ]
