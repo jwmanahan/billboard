@@ -2,7 +2,9 @@ import duckdb
 import os
 
 # TODO: Define the path to your raw table configurations. Use \\ on Windows
-config_dir = '/Users/jmanahan/billboard/table_configs/billboard'
+config_dir = 'C:\\Users\\Admin\\billboard\\table_configs\\billboard'
+# '/Users/jmanahan/billboard/table_configs/billboard'
+
 
 # Specify the DuckDB database file for raw data
 db_file = 'raw_db.duckdb'
