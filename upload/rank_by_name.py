@@ -1,52 +1,52 @@
-rankings = [ # 2025-01-28
+rankings = [ # 2025-02-04
     'A Bar Song (Tipsy)'
     , 'Love Somebody'
     , 'I Had Some Help'
     , 'Smile'
     , 'High Road' # Wetzel & Murph
-    , 'I Am Not Okay'
     , 'Liar'
-    , "Wind Up Missin' You"
+    , 'I Am Not Okay'
     , 'I Never Lie'
     , 'Indigo'
-    , "I'm Gonna Love You"
+    , "Wind Up Missin' You"
     , '4x4xU'
+    , "I'm Gonna Love You"
     , 'Good News'
-    , "Think I'm In Love With You"
+    , 'Haunted'
     , "I Ain't Sayin'"
+    , "Think I'm In Love With You"
     , 'Guy For That'
     , 'Am I Okay?'
-    , 'Holy Smokes'
+    , 'Blue Jean Baby'
+    , 'Backseat Driver'
     , "Weren't For The Wind"
+    , 'Holy Smokes'
     , 'Ends Of The Earth'
     , 'Texas'
-    , 'Bigger Houses'
-    , 'High Road' # Zach Bryan
     , "This Town's Been Too Good To Us"
+    , 'High Road' # Zach Bryan
     , "Fix What You Didn't Break"
     , "Don't Mind If I Do"
-    , 'Cowboy Songs'
-    , 'Damn Good Day To Leave'
     , "Somethin' 'Bout A Woman"
-    , 'Backseat Driver'
+    , 'Cowboy Songs'
     , 'House Again'
-    , 'Relapse'
-    , 'Devil You Know'
-    , 'Friends Like That'
     , 'Forever To Me'
+    , 'Friends Like That'
+    , 'Relapse'
     , 'Just Like Johnny'
-    , 'Gorgeous'
     , 'Cowboys Cry Too'
-    , "Please Don't Go"
     , 'Hometown Home'
-    , 'Use Me'
-    , 'Baggage'
-    , "Darlin'"
+    , 'Devil You Know'
+    , "Please Don't Go"
+    , 'Damn Good Day To Leave'
     , 'A Lot More Free'
-    , 'Single Again'
-    , 'Last Of My Kind'
-    , 'Porch Light'
-    , 'Coming Home'
-    , 'Neon Moon'
+    , 'Gorgeous'
+    , 'Baggage'
     , 'Whiskey Drink'
+    , 'Bigger Houses'
+    , "Darlin'"
+    , 'Use Me'
+    , 'Thought It Was Love'
+    , 'Single Again'
+    , 'Coming Home'
 ]
