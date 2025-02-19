@@ -1,52 +1,52 @@
-rankings = [ # 2025-02-04
+rankings = [ # 2025-02-19
     'A Bar Song (Tipsy)'
     , 'Love Somebody'
+    , "I'm The Problem"
     , 'I Had Some Help'
-    , 'Smile'
     , 'High Road' # Wetzel & Murph
+    , 'Smile'
     , 'Liar'
-    , 'I Am Not Okay'
     , 'I Never Lie'
-    , 'Indigo'
-    , "Wind Up Missin' You"
     , '4x4xU'
     , "I'm Gonna Love You"
+    , 'Indigo'
     , 'Good News'
-    , 'Haunted'
     , "I Ain't Sayin'"
-    , "Think I'm In Love With You"
-    , 'Guy For That'
     , 'Am I Okay?'
-    , 'Blue Jean Baby'
+    , 'Guy For That'
     , 'Backseat Driver'
+    , 'Haunted'
     , "Weren't For The Wind"
-    , 'Holy Smokes'
-    , 'Ends Of The Earth'
-    , 'Texas'
-    , "This Town's Been Too Good To Us"
-    , 'High Road' # Zach Bryan
-    , "Fix What You Didn't Break"
-    , "Don't Mind If I Do"
     , "Somethin' 'Bout A Woman"
-    , 'Cowboy Songs'
-    , 'House Again'
+    , "Fix What You Didn't Break"
+    , 'Holy Smokes'
+    , 'Blue Jean Baby'
+    , 'Texas'
+    , "Don't Mind If I Do"
+    , "This Town's Been Too Good To Us"
+    , 'Ends Of The Earth'
+    , 'Dear Miss'
     , 'Forever To Me'
-    , 'Friends Like That'
+    , 'House Again'
     , 'Relapse'
-    , 'Just Like Johnny'
-    , 'Cowboys Cry Too'
+    , 'Friends Like That'
     , 'Hometown Home'
-    , 'Devil You Know'
+    , 'Just Like Johnny'
     , "Please Don't Go"
-    , 'Damn Good Day To Leave'
-    , 'A Lot More Free'
-    , 'Gorgeous'
-    , 'Baggage'
-    , 'Whiskey Drink'
-    , 'Bigger Houses'
-    , "Darlin'"
+    , 'Cowboys Cry Too'
+    , 'High Road' # Zach Bryan
     , 'Use Me'
-    , 'Thought It Was Love'
-    , 'Single Again'
+    , 'Devil You Know'
+    , 'In Case You Missed It'
+    , 'After All The Bars Are Closed'
+    , 'Bad Luck'
+    , 'Whiskey Drink'
+    , 'Baggage'
+    , 'Cowboy Songs'
     , 'Coming Home'
+    , 'Single Again'
+    , 'Need To'
+    , 'Winning Streak'
+    , 'Last Of My Kind'
+    , 'Thought It Was Love'
 ]
