@@ -1,4 +1,4 @@
-rankings = [ # 2025-03-04
+rankings = [ # 2025-03-11
     'A Bar Song (Tipsy)'
     , 'Love Somebody'
     , 'I Had Some Help'
@@ -6,47 +6,47 @@ rankings = [ # 2025-03-04
     , 'Liar'
     , 'High Road' # Wetzel & Murph
     , 'I Never Lie'
-    , 'Smile'
     , "I'm Gonna Love You"
     , 'Indigo'
-    , 'Worst Way'
+    , 'Smile'
     , 'Good News'
     , "I Ain't Sayin'"
-    , '4x4xU'
+    , 'Worst Way'
     , 'Am I Okay?'
+    , '4x4xU'
     , 'Backseat Driver'
     , "Weren't For The Wind"
-    , "Somethin' 'Bout A Woman"
-    , "Fix What You Didn't Break"
     , 'Holy Smokes'
-    , 'Texas'
-    , 'Haunted'
+    , "Fix What You Didn't Break"
+    , "Somethin' 'Bout A Woman"
     , "This Town's Been Too Good To Us"
-    , "Don't Mind If I Do"
-    , 'Ends Of The Earth'
+    , 'Texas'
     , 'Hometown Home'
+    , 'Ends Of The Earth'
+    , "Don't Mind If I Do"
+    , 'Haunted'
+    , 'Not At This Party'
     , 'Forever To Me'
-    , 'Dear Miss'
-    , 'Bad State Of Mind'
     , 'Friends Like That'
+    , 'Bad State Of Mind'
+    , 'Dear Miss'
+    , 'House Again'
+    , 'Whiskey Drink'
+    , 'Just Like Johnny'
     , 'Relapse'
     , 'Blue Jean Baby'
-    , 'House Again'
-    , 'Just Like Johnny'
     , "Please Don't Go"
-    , 'Happen To Me'
-    , 'Whiskey Drink'
     , 'Cowboys Cry Too'
-    , '3,2,1'
-    , 'Use Me'
-    , 'High Road' # Zach Bryan
-    , 'After All The Bars Are Closed'
-    , 'Nobody Likes Your Girlfriend'
     , 'Bad Luck'
-    , 'Coming Home'
+    , 'Happen To Me'
+    , 'Use Me'
     , 'Single Again'
+    , 'After All The Bars Are Closed'
+    , 'High Road' # Zach Bryan
+    , 'Coming Home'
     , 'Tough People'
+    , 'Thought It Was Love'
     , 'Baggage'
+    , 'Sounds Like The Radio'
     , 'Low Road'
-    , 'Better Me For You (Brown Eyes)'
 ]
