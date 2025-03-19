@@ -1,52 +1,52 @@
-rankings = [ # 2025-03-11
+rankings = [ # 2025-03-18
     'A Bar Song (Tipsy)'
-    , 'Love Somebody'
     , 'I Had Some Help'
+    , 'Love Somebody'
     , "I'm The Problem"
     , 'Liar'
-    , 'High Road' # Wetzel & Murph
     , 'I Never Lie'
+    , 'High Road' # Wetzel & Murph
     , "I'm Gonna Love You"
     , 'Indigo'
-    , 'Smile'
-    , 'Good News'
-    , "I Ain't Sayin'"
     , 'Worst Way'
+    , 'Good News'
+    , 'Smile'
     , 'Am I Okay?'
-    , '4x4xU'
-    , 'Backseat Driver'
+    , "I Ain't Sayin'"
     , "Weren't For The Wind"
-    , 'Holy Smokes'
-    , "Fix What You Didn't Break"
-    , "Somethin' 'Bout A Woman"
-    , "This Town's Been Too Good To Us"
     , 'Texas'
-    , 'Hometown Home'
-    , 'Ends Of The Earth'
-    , "Don't Mind If I Do"
+    , 'Holy Smokes'
+    , "This Town's Been Too Good To Us"
     , 'Haunted'
-    , 'Not At This Party'
+    , "Fix What You Didn't Break"
+    , 'Backseat Driver'
+    , 'Hometown Home'
+    , "Somethin' 'Bout A Woman"
+    , "Don't Mind If I Do"
     , 'Forever To Me'
+    , 'Happen To Me'
     , 'Friends Like That'
+    , 'Ends Of The Earth'
+    , 'Nobody Likes Your Girlfriend'
+    , 'Whiskey Drink'
+    , 'House Again'
+    , 'Not At This Party'
     , 'Bad State Of Mind'
     , 'Dear Miss'
-    , 'House Again'
-    , 'Whiskey Drink'
     , 'Just Like Johnny'
-    , 'Relapse'
+    , '3,2,1'
     , 'Blue Jean Baby'
-    , "Please Don't Go"
-    , 'Cowboys Cry Too'
-    , 'Bad Luck'
-    , 'Happen To Me'
-    , 'Use Me'
+    , 'Relapse'
     , 'Single Again'
-    , 'After All The Bars Are Closed'
+    , 'Bad Luck'
+    , 'Use Me'
+    , 'Baggage'
     , 'High Road' # Zach Bryan
+    , 'Oil Money'
+    , 'Sounds Like The Radio'
+    , 'She Hates Me'
+    , 'Cowboys Cry Too'
     , 'Coming Home'
     , 'Tough People'
-    , 'Thought It Was Love'
-    , 'Baggage'
-    , 'Sounds Like The Radio'
-    , 'Low Road'
+    , 'After All The Bars Are Closed'
 ]

@@ -10,10 +10,10 @@ WITH cte_song_pct_female AS (
         AND s2a.relationship_type IN ('Lead artist', 'Other main artist')
     LEFT JOIN raw_db.billboard.artist art
         ON s2a.artist_id = art.artist_id
-    WHERE billboard_observation_date >= (
-        SELECT MAX(billboard_observation_date)
-        FROM raw_db.billboard.billboard_ranking
-    ) - 17 -- This week and preceding two weeks is about all the chart can handle
+    -- WHERE billboard_observation_date >= (
+    --     SELECT MAX(billboard_observation_date)
+    --     FROM raw_db.billboard.billboard_ranking
+    -- ) - 17
     -- WHERE billboard_observation_date IN ('2024-08-23', '2024-12-31', '2024-04-16')
     GROUP BY 1,2,3
 )
