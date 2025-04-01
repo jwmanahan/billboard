@@ -1,52 +1,52 @@
-rankings = [ # 2025-03-25
-    'The Giver'
-    , 'A Bar Song (Tipsy)'
-    , 'Love Somebody'
-    , 'I Had Some Help'
+rankings = [ # 2025-04-01
+    'A Bar Song (Tipsy)'
+    , 'Just In Case'
     , "I'm The Problem"
+    , 'Love Somebody'
+    , "I'm A Little Crazy"
+    , 'I Had Some Help'
+    , 'The Giver'
     , 'I Never Lie'
-    , "I'm Gonna Love You"
     , 'Liar'
     , 'High Road' # Wetzel & Murph
-    , 'Indigo'
-    , 'Worst Way'
-    , 'Good News'
     , 'Smile'
-    , "Weren't For The Wind"
-    , "I Ain't Sayin'"
+    , 'Indigo'
+    , 'Good News'
+    , "I'm Gonna Love You"
+    , 'Worst Way'
     , 'Am I Okay?'
-    , 'Texas'
-    , 'Holy Smokes'
     , "This Town's Been Too Good To Us"
+    , "Weren't For The Wind"
+    , "Somethin' 'Bout A Woman"
+    , 'Texas'
+    , 'Friends Like That'
+    , 'Holy Smokes'
+    , 'Hands Of Time'
     , "Fix What You Didn't Break"
     , 'Hometown Home'
-    , 'Backseat Driver'
     , 'Haunted'
-    , 'Friends Like That'
-    , "Somethin' 'Bout A Woman"
+    , 'Backseat Driver'
+    , 'Not At This Party'
     , 'Forever To Me'
     , 'Happen To Me'
-    , 'Not At This Party'
     , 'Whiskey Drink'
-    , 'Ends Of The Earth'
+    , 'After All The Bars Are Closed'
     , 'Nobody Likes Your Girlfriend'
-    , 'Relapse'
+    , 'Ends Of The Earth'
     , 'House Again'
-    , '3,2,1'
+    , 'Relapse'
     , 'Just Like Johnny'
     , 'Single Again'
-    , 'Blue Jean Baby'
+    , '3,2,1'
     , 'Bad Luck'
-    , 'Bad State Of Mind'
+    , 'Blue Jean Baby'
     , 'Use Me'
     , 'High Road' # Zach Bryan
-    , 'Oil Money'
-    , 'Dear Miss'
-    , 'Love In Letting Go'
+    , 'Bad State Of Mind'
+    , 'Thought It Was Love'
     , 'Coming Home'
-    , 'After All The Bars Are Closed'
+    , 'Dear Miss'
     , 'Tough People'
+    , 'Oil Money'
     , 'Sounds Like The Radio'
-    , 'Better Me For You (Brown Eyes)'
-    , 'Baggage'
 ]
