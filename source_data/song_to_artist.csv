@@ -365,6 +365,13 @@ song_to_artist_pk,song_id,artist_id,relationship_type,relationship_conjunction,r
 287-Lead artist-,287,58,Lead artist,,,2025-04-22
 288-Lead artist-,288,139,Lead artist,,,2025-04-22
 289-Lead artist-,289,2,Lead artist,,,2025-04-29
-289-Other main artist-1,289,15,Other main artist,&,1,2025-04-29
+289-Other main artist-1,289,15,Other main artist,&,1.0,2025-04-29
 290-Lead artist-,290,40,Lead artist,,,2025-04-29
 291-Lead artist-,291,121,Lead artist,,,2025-04-29
+292-Lead artist-,292,140,Lead artist,,,2025-05-06
+292-Other main artist-1,292,5,Other main artist,X,1,2025-05-06
+293-Lead artist-,293,25,Lead artist,,,2025-05-06
+293-Other main artist-1,293,5,Other main artist,&,1,2025-05-06
+294-Lead artist-,294,9,Lead artist,,,2025-05-06
+295-Lead artist-,295,115,Lead artist,,,2025-05-06
+296-Lead artist-,296,81,Lead artist,,,2025-05-06
