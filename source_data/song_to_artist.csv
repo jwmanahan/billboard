@@ -380,9 +380,42 @@ song_to_artist_pk,song_id,artist_id,relationship_type,relationship_conjunction,r
 298-Lead artist-,298,5,Lead artist,,,2025-05-15
 299-Lead artist-,299,2,Lead artist,,,2025-05-20
 300-Lead artist-,300,4,Lead artist,,,2025-05-20
-300-Featured artist-1,300,69,Featured artist,,1,2025-05-20
+300-Featured artist-1,300,69,Featured artist,,1.0,2025-05-20
 301-Lead artist-,301,141,Lead artist,,,2025-05-20
-301-Other main artist-1,301,74,Other main artist,&,1,2025-05-20
-301-Other main artist-2,301,11,Other main artist,&,2,2025-05-20
+301-Other main artist-1,301,74,Other main artist,&,1.0,2025-05-20
+301-Other main artist-2,301,11,Other main artist,&,2.0,2025-05-20
 302-Lead artist-,302,72,Lead artist,,,2025-05-20
 303-Lead artist-,303,10,Lead artist,,,2025-05-20
+304-Lead artist-,304,2,Lead artist,,,2025-05-29
+305-Lead artist-,305,2,Lead artist,,,2025-05-29
+306-Lead artist-,306,2,Lead artist,,,2025-05-29
+307-Lead artist-,307,2,Lead artist,,,2025-05-29
+308-Lead artist-,308,2,Lead artist,,,2025-05-29
+309-Lead artist-,309,2,Lead artist,,,2025-05-29
+310-Lead artist-,310,2,Lead artist,,,2025-05-29
+311-Lead artist-,311,2,Lead artist,,,2025-05-29
+312-Lead artist-,312,2,Lead artist,,,2025-05-29
+313-Lead artist-,313,2,Lead artist,,,2025-05-29
+314-Lead artist-,314,2,Lead artist,,,2025-05-29
+315-Lead artist-,315,2,Lead artist,,,2025-05-29
+316-Lead artist-,316,2,Lead artist,,,2025-05-29
+317-Lead artist-,317,2,Lead artist,,,2025-05-29
+318-Lead artist-,318,2,Lead artist,,,2025-05-29
+319-Lead artist-,319,2,Lead artist,,,2025-05-29
+320-Lead artist-,320,2,Lead artist,,,2025-05-29
+321-Lead artist-,321,2,Lead artist,,,2025-05-29
+322-Lead artist-,322,2,Lead artist,,,2025-05-29
+323-Lead artist-,323,2,Lead artist,,,2025-05-29
+324-Lead artist-,324,2,Lead artist,,,2025-05-29
+325-Lead artist-,325,2,Lead artist,,,2025-05-29
+326-Lead artist-,326,2,Lead artist,,,2025-05-29
+327-Lead artist-,327,2,Lead artist,,,2025-05-29
+328-Lead artist-,328,2,Lead artist,,,2025-05-29
+329-Lead artist-,329,2,Lead artist,,,2025-05-29
+330-Lead artist-,330,2,Lead artist,,,2025-05-29
+331-Lead artist-,331,2,Lead artist,,,2025-05-29
+332-Lead artist-,332,2,Lead artist,,,2025-05-29
+304-Featured artist-1,304,142,Featured artist,,1,2025-05-29
+320-Featured artist-1,320,83,Featured artist,,1,2025-05-29
+323-Featured artist-1,323,58,Featured artist,,1,2025-05-29
+325-Featured artist-1,325,37,Featured artist,,1,2025-05-29
