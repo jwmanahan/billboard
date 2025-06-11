@@ -380,7 +380,7 @@ song_to_artist_pk,song_id,artist_id,relationship_type,relationship_conjunction,r
 298-Lead artist-,298,5,Lead artist,,,2025-05-15
 299-Lead artist-,299,2,Lead artist,,,2025-05-20
 300-Lead artist-,300,4,Lead artist,,,2025-05-20
-300-Featured artist-1,300,69,Featured artist,,1.0,2025-05-20
+300-Other main artist-1,300,69,Other main artist,&,1.0,2025-06-10
 301-Lead artist-,301,141,Lead artist,,,2025-05-20
 301-Other main artist-1,301,74,Other main artist,&,1.0,2025-05-20
 301-Other main artist-2,301,11,Other main artist,&,2.0,2025-05-20
@@ -415,7 +415,8 @@ song_to_artist_pk,song_id,artist_id,relationship_type,relationship_conjunction,r
 330-Lead artist-,330,2,Lead artist,,,2025-05-29
 331-Lead artist-,331,2,Lead artist,,,2025-05-29
 332-Lead artist-,332,2,Lead artist,,,2025-05-29
-304-Featured artist-1,304,142,Featured artist,,1,2025-05-29
-320-Featured artist-1,320,83,Featured artist,,1,2025-05-29
-323-Featured artist-1,323,58,Featured artist,,1,2025-05-29
-325-Featured artist-1,325,37,Featured artist,,1,2025-05-29
+304-Featured artist-1,304,142,Featured artist,,1.0,2025-05-29
+320-Featured artist-1,320,83,Featured artist,,1.0,2025-05-29
+323-Featured artist-1,323,58,Featured artist,,1.0,2025-05-29
+325-Featured artist-1,325,37,Featured artist,,1.0,2025-05-29
+333-Lead artist-,333,11,Lead artist,,,2025-06-04

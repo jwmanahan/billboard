@@ -1,52 +1,52 @@
-rankings = [ # 2025-05-28
+rankings = [ # 2025-06-10
     'What I Want'
     , 'Just In Case'
     , "I'm The Problem"
     , 'I Got Better'
-    , 'Superman'
+    , 'All The Way'
     , 'Love Somebody'
     , "I Ain't Coming Back"
-    , '20 Cigarettes'
-    , 'Kick Myself'
-    , 'Eyes Are Closed'
-    , 'All The Way'
-    , 'Falling Apart'
-    , 'Skoal, Chevy, And Browning'
-    , 'TN'
-    , "Where'd That Girl Go"
-    , 'Kiss Her In Front Of You'
     , 'Worst Way'
-    , "I'm A Little Crazy"
-    , 'If You Were Mine'
-    , 'Missing'
+    , 'Superman'
+    , '20 Cigarettes'
     , "Weren't For The Wind"
-    , 'Smile'
-    , 'Genesis'
-    , "Don't We"
-    , 'Dark Til Daylight'
-    , 'Interlude'
-    , 'Number 3 And Number 7'
-    , 'Revelation'
     , 'Am I Okay?'
-    , 'Jack And Jill'
-    , 'Come Back As A Redneck'
+    , 'TN'
     , 'Good News'
-    , 'Miami'
+    , 'Dark Til Daylight'
     , 'Backup Plan'
-    , 'The Dealer'
+    , 'Happen To Me'
+    , 'Eyes Are Closed'
+    , "I'm A Little Crazy"
+    , 'Kick Myself'
+    , 'After All The Bars Are Closed'
+    , "Where'd That Girl Go"
+    , 'Smile'
+    , 'Indigo'
+    , 'Skoal, Chevy, And Browning'
+    , 'Falling Apart'
+    , 'If You Were Mine'
+    , 'Kiss Her In Front Of You'
+    , 'Hard Fought Hallelujah'
+    , 'Backseat Driver'
+    , 'Missing'
+    , 'Amen'
+    , "Don't We"
+    , 'House Again'
+    , 'Genesis'
+    , 'Jack And Jill'
+    , 'Miami'
+    , 'Thought It Was Love'
+    , 'Whiskey Drink'
+    , "Fix What You Didn't Break"
+    , 'Revelation'
+    , 'Number 3 And Number 7'
+    , 'Better Me For You (Brown Eyes)'
+    , 'Interlude'
+    , 'You Had To Be There'
     , "Leavin's The Least I Could Do"
     , 'Drinking Til It Does'
-    , "Nothin' Left"
-    , 'Happen To Me'
-    , 'Indigo'
-    , 'LA Night'
-    , 'Hard Fought Hallelujah'
-    , 'After All The Bars Are Closed'
-    , 'Amen'
-    , 'Whiskey In Reverse'
-    , "Working Man's Song"
-    , 'House Again'
-    , 'Crazy Eyes'
-    , 'Backseat Driver'
-    , 'Whiskey Drink'
+    , "God & Guns N' Roses"
+    , 'The Dealer'
+    , 'Single Again'
 ]
