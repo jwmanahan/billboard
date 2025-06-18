@@ -1,52 +1,52 @@
-rankings = [ # 2025-06-10
+rankings = [ # 2025-06-17
     'What I Want'
     , 'Just In Case'
     , "I'm The Problem"
-    , 'I Got Better'
     , 'All The Way'
+    , 'Worst Way'
+    , 'I Got Better'
     , 'Love Somebody'
     , "I Ain't Coming Back"
-    , 'Worst Way'
-    , 'Superman'
-    , '20 Cigarettes'
     , "Weren't For The Wind"
-    , 'Am I Okay?'
-    , 'TN'
+    , '20 Cigarettes'
+    , 'Superman'
     , 'Good News'
-    , 'Dark Til Daylight'
     , 'Backup Plan'
     , 'Happen To Me'
-    , 'Eyes Are Closed'
-    , "I'm A Little Crazy"
-    , 'Kick Myself'
+    , 'TN'
     , 'After All The Bars Are Closed'
-    , "Where'd That Girl Go"
-    , 'Smile'
+    , 'Dark Til Daylight'
     , 'Indigo'
-    , 'Skoal, Chevy, And Browning'
-    , 'Falling Apart'
-    , 'If You Were Mine'
-    , 'Kiss Her In Front Of You'
+    , "I'm A Little Crazy"
+    , 'Eyes Are Closed'
     , 'Hard Fought Hallelujah'
     , 'Backseat Driver'
-    , 'Missing'
-    , 'Amen'
-    , "Don't We"
+    , 'Smile'
     , 'House Again'
-    , 'Genesis'
-    , 'Jack And Jill'
-    , 'Miami'
+    , "Where'd That Girl Go"
+    , 'Amen'
     , 'Thought It Was Love'
-    , 'Whiskey Drink'
+    , 'Kick Myself'
+    , 'Skoal, Chevy, And Browning'
+    , 'Falling Apart'
     , "Fix What You Didn't Break"
-    , 'Revelation'
-    , 'Number 3 And Number 7'
+    , 'If You Were Mine'
+    , 'Kiss Her In Front Of You'
+    , 'Missing'
+    , "Don't We"
+    , 'Miami'
     , 'Better Me For You (Brown Eyes)'
-    , 'Interlude'
-    , 'You Had To Be There'
-    , "Leavin's The Least I Could Do"
-    , 'Drinking Til It Does'
-    , "God & Guns N' Roses"
-    , 'The Dealer'
+    , 'Genesis'
+    , 'Brunette'
     , 'Single Again'
+    , 'Jack And Jill'
+    , 'This Heart'
+    , "God & Guns N' Roses"
+    , 'Bar None'
+    , 'Number 3 And Number 7'
+    , 'Revelation'
+    , 'Bottle Rockets'
+    , 'Interlude'
+    , 'Hands Of Time'
+    , 'You Had To Be There'
 ]
