@@ -1,52 +1,52 @@
-rankings = [ # 2025-06-17
+rankings = [ # 2025-06-24
     'What I Want'
     , 'Just In Case'
     , "I'm The Problem"
     , 'All The Way'
     , 'Worst Way'
-    , 'I Got Better'
     , 'Love Somebody'
-    , "I Ain't Coming Back"
     , "Weren't For The Wind"
-    , '20 Cigarettes'
-    , 'Superman'
+    , 'I Got Better'
     , 'Good News'
+    , '20 Cigarettes'
+    , "I Ain't Coming Back"
+    , 'Superman'
     , 'Backup Plan'
     , 'Happen To Me'
-    , 'TN'
-    , 'After All The Bars Are Closed'
-    , 'Dark Til Daylight'
-    , 'Indigo'
-    , "I'm A Little Crazy"
-    , 'Eyes Are Closed'
     , 'Hard Fought Hallelujah'
+    , 'After All The Bars Are Closed'
+    , 'TN'
     , 'Backseat Driver'
-    , 'Smile'
-    , 'House Again'
-    , "Where'd That Girl Go"
+    , 'Indigo'
     , 'Amen'
-    , 'Thought It Was Love'
-    , 'Kick Myself'
-    , 'Skoal, Chevy, And Browning'
-    , 'Falling Apart'
+    , 'Dark Til Daylight'
+    , "I'm A Little Crazy"
+    , 'House Again'
+    , 'Smile'
     , "Fix What You Didn't Break"
-    , 'If You Were Mine'
+    , 'Eyes Are Closed'
+    , 'Thought It Was Love'
+    , "Where'd That Girl Go"
+    , 'Kick Myself'
     , 'Kiss Her In Front Of You'
-    , 'Missing'
-    , "Don't We"
-    , 'Miami'
+    , 'Skoal, Chevy, And Browning'
+    , 'If You Were Mine'
     , 'Better Me For You (Brown Eyes)'
-    , 'Genesis'
-    , 'Brunette'
     , 'Single Again'
-    , 'Jack And Jill'
+    , 'Falling Apart'
     , 'This Heart'
+    , 'Scornful Woman'
     , "God & Guns N' Roses"
-    , 'Bar None'
-    , 'Number 3 And Number 7'
-    , 'Revelation'
+    , "Don't We"
     , 'Bottle Rockets'
-    , 'Interlude'
+    , 'Bar None'
+    , 'Brunette'
+    , 'Missing'
+    , 'Somewhere Over Laredo'
     , 'Hands Of Time'
     , 'You Had To Be There'
+    , 'Genesis'
+    , 'Miami'
+    , 'Jack And Jill'
+    , 'Country House'
 ]

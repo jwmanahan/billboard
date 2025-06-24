@@ -421,4 +421,5 @@ song_to_artist_pk,song_id,artist_id,relationship_type,relationship_conjunction,r
 325-Featured artist-1,325,37,Featured artist,,1.0,2025-05-29
 333-Lead artist-,333,11,Lead artist,,,2025-06-04
 334-Lead artist-,334,77,Lead artist,,,2025-06-17
-334-Other main artist-1,334,143,Other main artist,&,1,2025-06-17
+334-Other main artist-1,334,143,Other main artist,&,1.0,2025-06-17
+335-Lead artist-,335,103,Lead artist,,,2025-06-24
