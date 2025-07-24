@@ -1,52 +1,52 @@
-rankings = [ # 2025-07-08
+rankings = [ # 2025-07-22
     'What I Want'
     , 'Just In Case'
     , "I'm The Problem"
-    , "Weren't For The Wind"
-    , 'All The Way'
-    , 'I Got Better'
-    , 'Worst Way'
     , 'Good News'
-    , 'Love Somebody'
+    , 'I Got Better'
+    , 'All The Way'
+    , 'Worst Way'
     , 'Backup Plan'
-    , '20 Cigarettes'
-    , '6 Months Later'
-    , 'The Giver'
+    , "Weren't For The Wind"
+    , 'Love Somebody'
     , 'After All The Bars Are Closed'
-    , "I Ain't Coming Back"
-    , 'Superman'
+    , '6 Months Later'
+    , '20 Cigarettes'
     , 'Happen To Me'
+    , "I Ain't Coming Back"
     , 'Amen'
-    , 'TN'
+    , 'Superman'
     , 'Indigo'
-    , 'Hard Fought Hallelujah'
-    , 'House Again'
-    , "Fix What You Didn't Break"
-    , "I'm A Little Crazy"
+    , 'River Washed Hair'
     , 'Bottle Rockets'
-    , 'Home'
-    , 'Dark Til Daylight'
+    , "Fix What You Didn't Break"
     , 'Single Again'
-    , 'This Heart'
-    , 'Thought It Was Love'
-    , 'Better Me For You (Brown Eyes)'
+    , 'House Again'
+    , 'Hard Fought Hallelujah'
+    , 'TN'
     , 'Bar None'
-    , 'Eyes Are Closed'
-    , "Don't We"
-    , "Where'd That Girl Go"
-    , 'Kiss Her In Front Of You'
-    , 'Kick Myself'
-    , "God & Guns N' Roses"
-    , 'What Kinda Man'
-    , 'Hands Of Time'
-    , 'Country House'
-    , 'If You Were Mine'
-    , 'Skoal, Chevy, And Browning'
-    , 'Never Met Anyone Like You'
+    , 'Better Me For You (Brown Eyes)'
     , 'Somewhere Over Laredo'
-    , 'Falling Apart'
-    , 'Good Times & Tan Lines'
+    , "I'm A Little Crazy"
+    , 'A Song To Sing'
+    , 'Dark Til Daylight'
+    , 'Thought It Was Love'
+    , 'Country House'
     , 'Park'
+    , 'Hands Of Time'
+    , 'This Heart'
+    , "Don't We"
+    , 'Kiss Her In Front Of You'
+    , 'Eyes Are Closed'
+    , 'What Kinda Man'
     , 'Country Song Came On'
-    , 'Missing'
+    , 'Never Met Anyone Like You'
+    , "Where'd That Girl Go"
+    , 'Kick Myself'
+    , 'Brunette'
+    , "God & Guns N' Roses"
+    , 'Miami'
+    , 'If You Were Mine'
+    , 'Heart Of Stone'
+    , 'Skoal, Chevy, And Browning'
 ]
