@@ -448,13 +448,14 @@ song_to_artist_pk,song_id,artist_id,relationship_type,relationship_conjunction,r
 352-Lead artist-,352,68,Lead artist,,,2025-08-12
 353-Lead artist-,353,8,Lead artist,,,2025-08-12
 354-Lead artist-,354,47,Lead artist,,,2025-08-19
-354-Featured artist-1,354,46,Featured artist,,1,2025-08-19
+354-Featured artist-1,354,46,Featured artist,,1.0,2025-08-19
 355-Lead artist-,355,1,Lead artist,,,2025-08-19
-355-Featured artist-1,355,147,Featured artist,,1,2025-08-19
+355-Featured artist-1,355,147,Featured artist,,1.0,2025-08-19
 356-Lead artist-,356,8,Lead artist,,,2025-08-19
-356-Featured artist-1,356,148,Featured artist,,1,2025-08-19
+356-Featured artist-1,356,148,Featured artist,,1.0,2025-08-19
 357-Lead artist-,357,41,Lead artist,,,2025-08-19
-357-Other main artist-1,357,5,Other main artist,X,1,2025-08-19
+357-Other main artist-1,357,5,Other main artist,X,1.0,2025-08-19
 358-Lead artist-,358,149,Lead artist,,,2025-08-19
-358-Featured artist-1,358,6,Featured artist,,1,2025-08-19
+358-Featured artist-1,358,6,Featured artist,,1.0,2025-08-19
 359-Lead artist-,359,112,Lead artist,,,2025-08-19
+360-Lead artist-,360,150,Lead artist,,,2025-08-26
