@@ -1,4 +1,4 @@
-rankings = [ # 2025-08-26
+rankings = [ # 2025-09-03
     'What I Want'
     , 'Just In Case'
     , 'Good News'
@@ -6,47 +6,47 @@ rankings = [ # 2025-08-26
     , 'I Got Better'
     , 'All The Way'
     , 'Backup Plan'
-    , 'After All The Bars Are Closed'
-    , 'Happen To Me'
-    , 'Bar None'
-    , 'Back In The Saddle'
-    , 'Bottle Rockets'
-    , '6 Months Later'
-    , 'Miami' # ft Rick Ross and Lil Wayne
-    , 'Somewhere Over Laredo'
-    , '20 Cigarettes'
-    , 'House Again'
-    , 'Amen'
     , 'Hell At Night'
-    , "I Ain't Coming Back"
+    , 'Happen To Me'
+    , 'After All The Bars Are Closed'
+    , 'Bar None'
+    , 'Bottle Rockets'
+    , 'Back In The Saddle'
+    , 'Somewhere Over Laredo'
+    , '6 Months Later'
+    , 'House Again'
+    , '20 Cigarettes'
+    , 'Box Me Up'
+    , 'Amen'
+    , 'Miami' # ft Rick Ross and Lil Wayne
     , 'Better Me For You (Brown Eyes)'
+    , "I Ain't Coming Back"
     , 'Superman'
     , 'Last One To Know'
-    , 'Hard Fought Hallelujah'
     , 'Heart Of Stone'
+    , 'Hard Fought Hallelujah'
+    , 'Holy Water'
     , 'TN'
     , 'What Kinda Man'
-    , 'Country Song Came On'
-    , 'Holy Water'
-    , "Bitin' List"
+    , 'Pray Hard'
+    , 'Home'
     , 'Hands Of Time'
-    , 'Good Times & Tan Lines'
+    , "I Hope You're Happy"
+    , 'Devil You Know'
     , 'The Fall'
-    , 'Dark Til Daylight'
-    , 'Lost'
-    , "God & Guns N' Roses"
-    , 'Friday Night Heartbreaker'
     , 'Brunette'
-    , 'Madeline'
-    , 'This Heart'
+    , 'Friday Night Heartbreaker'
+    , "Bitin' List"
+    , 'Good Times & Tan Lines'
     , "Darlin'"
-    , 'Bowery'
+    , 'About You'
+    , 'This Heart'
+    , 'Dark Til Daylight'
     , '3,2,1'
-    , "Don't We"
-    , 'Need To'
-    , 'Eyes Are Closed'
-    , 'Kiss Her In Front Of You'
-    , 'Park'
-    , 'Keeps Me Sane'
     , 'Ordinary'
+    , 'Country Song Came On'
+    , 'South Of Sanity'
+    , 'Favorite Country Song'
+    , 'Madeline'
+    , "Don't We"
 ]
