@@ -460,10 +460,12 @@ song_to_artist_pk,song_id,artist_id,relationship_type,relationship_conjunction,r
 359-Lead artist-,359,112,Lead artist,,,2025-08-19
 360-Lead artist-,360,150,Lead artist,,,2025-08-26
 361-Lead artist-,361,47,Lead artist,,,2025-09-03
-361-Featured artist-1,361,5,Featured artist,,1,2025-09-03
+361-Featured artist-1,361,5,Featured artist,,1.0,2025-09-03
 362-Lead artist-,362,47,Lead artist,,,2025-09-03
-362-Featured artist-1,362,6,Featured artist,,1,2025-09-03
+362-Featured artist-1,362,6,Featured artist,,1.0,2025-09-03
 363-Lead artist-,363,47,Lead artist,,,2025-09-03
-363-Featured artist-1,363,109,Featured artist,,1,2025-09-03
+363-Featured artist-1,363,109,Featured artist,,1.0,2025-09-03
 364-Lead artist-,364,47,Lead artist,,,2025-09-03
-364-Featured artist-1,364,9,Featured artist,,1,2025-09-03
+364-Featured artist-1,364,9,Featured artist,,1.0,2025-09-03
+365-Lead artist-,365,80,Lead artist,,,2025-09-09
+366-Lead artist-,366,53,Lead artist,,,2025-09-09
