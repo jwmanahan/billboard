@@ -1,4 +1,11 @@
 
+// Left on Sept 16
+, 'Devil You Know'
+, 'Box Me Up'
+, 'Pray Hard'
+, 'When You See Me'
+, 'Lost'
+
 // Left on Sept 9
 , 'After All The Bars Are Closed'
 , 'Home'
