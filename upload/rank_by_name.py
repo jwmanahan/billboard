@@ -1,4 +1,4 @@
-rankings = [ # 2025-09-16
+rankings = [ # 2025-09-23
     'What I Want'
     , 'I Got Better'
     , 'Just In Case'
@@ -6,47 +6,47 @@ rankings = [ # 2025-09-16
     , "I'm The Problem"
     , 'Happen To Me'
     , 'All The Way'
-    , 'Bar None'
     , 'Bottle Rockets'
-    , 'Backup Plan'
+    , 'Bar None'
     , 'Back In The Saddle'
     , 'Hell At Night'
     , 'House Again'
-    , 'Somewhere Over Laredo'
     , '6 Months Later'
+    , 'Somewhere Over Laredo'
+    , 'Backup Plan'
+    , 'Heart Of Stone'
+    , 'Last One To Know'
     , 'Amen'
     , 'Better Me For You (Brown Eyes)'
-    , 'Heart Of Stone'
     , "Don't Mind If I Do"
-    , 'Last One To Know'
-    , '20 Cigarettes'
     , 'Hard Fought Hallelujah'
-    , 'Good Times & Tan Lines'
+    , '20 Cigarettes'
+    , 'How Far Does A Goodbye Go'
     , "I Ain't Coming Back"
+    , "Darlin'"
+    , 'Good Times & Tan Lines'
     , 'Miami' # ft Rick Ross and Lil Wayne
     , 'Superman'
     , 'What Kinda Man'
     , 'The Fall'
-    , "Darlin'"
     , 'Friday Night Heartbreaker'
-    , 'Holy Water'
     , 'A Song To Sing'
     , 'TN'
-    , "God & Guns N' Roses"
-    , 'South Of Sanity'
+    , 'Holy Water'
     , 'Keeps Me Sane'
+    , "God & Guns N' Roses"
     , '3,2,1'
     , 'Brunette'
     , 'Hands Of Time'
-    , 'Sober'
-    , "Bitin' List"
-    , 'Favorite Country Song'
-    , 'This Heart'
-    , 'Ordinary'
-    , 'Heavens To Betsy'
     , 'Need To'
-    , 'Dark Til Daylight'
+    , 'Sober'
+    , 'Favorite Country Song'
+    , 'South Of Sanity'
+    , 'Heavens To Betsy'
+    , 'This Heart'
+    , "Bitin' List"
+    , 'Ordinary'
     , 'Ends Of The Earth'
-    , 'Madeline'
-    , 'You Had To Be There'
+    , 'Lost'
+    , 'Dark Til Daylight'
 ]

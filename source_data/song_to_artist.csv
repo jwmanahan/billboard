@@ -469,3 +469,4 @@ song_to_artist_pk,song_id,artist_id,relationship_type,relationship_conjunction,r
 364-Featured artist-1,364,9,Featured artist,,1.0,2025-09-03
 365-Lead artist-,365,80,Lead artist,,,2025-09-09
 366-Lead artist-,366,53,Lead artist,,,2025-09-09
+367-Lead artist-,367,21,Lead artist,,,2025-09-24
