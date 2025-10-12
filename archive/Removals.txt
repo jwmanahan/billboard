@@ -1,4 +1,15 @@
 
+// Left on Oct 7
+, 'Superman'
+, "God & Guns N' Roses"
+, "Bitin' List"
+, 'Madeline'
+, 'You Had To Be There's
+
+// Left on Sept 30
+, 'This Heart'
+, 'Lost'
+
 // Left on Sept 23
 , 'Madeline'
 , 'You Had To Be There'
