@@ -1,4 +1,10 @@
 
+// Left on Oct 14
+, 'Friday Night Heartbreaker'
+, 'TN'
+, 'When A Cowboy Prays'
+, 'Dark Til Daylight'
+
 // Left on Oct 7
 , 'Superman'
 , "God & Guns N' Roses"
