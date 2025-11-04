@@ -1,4 +1,19 @@
 
+// Left on Oct 28
+, 'Bar None'
+, 'Miami' # ft Rick Ross and Lil Wayne
+, "Wish I Didn't Know Now" # Ella Langley
+, 'Madeline'
+, 'Baggage'
+, 'Never Met Anyone Like You'
+
+// Left on Oct 21
+, 'Backup Plan'
+, 'Brunette'
+, 'Hands Of Time'
+, '15 Minutes'
+, "People Hatin'"
+
 // Left on Oct 14
 , 'Friday Night Heartbreaker'
 , 'TN'

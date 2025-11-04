@@ -1,52 +1,52 @@
-rankings = [ # 2025-10-14
+rankings = [ # 2025-10-28
     'I Got Better'
     , 'What I Want'
     , "I'm The Problem"
-    , 'Just In Case'
     , 'Good News'
-    , 'Bar None'
+    , 'Just In Case'
     , 'Back In The Saddle'
-    , 'All The Way'
+    , "Choosin' Texas"
     , 'Happen To Me'
-    , 'Bottle Rockets'
-    , 'Hell At Night'
-    , 'House Again'
+    , 'All The Way'
     , '6 Months Later'
+    , 'Graveyard Whistling'
+    , 'Hell At Night'
     , 'Somewhere Over Laredo'
-    , 'Heart Of Stone'
-    , 'Last One To Know'
     , "Don't Mind If I Do"
-    , 'Better Me For You (Brown Eyes)'
+    , 'House Again'
     , "Darlin'"
+    , 'Bottle Rockets'
+    , 'Last One To Know'
+    , 'Better Me For You (Brown Eyes)'
     , 'Hard Fought Hallelujah'
-    , 'The Fall'
+    , 'Heart Of Stone'
     , '20 Cigarettes'
+    , 'The Fall'
     , 'What Kinda Man'
-    , 'Backup Plan'
-    , 'Days Like These'
     , 'Amen'
-    , 'Holy Water'
-    , "I Ain't Coming Back"
-    , 'Brunette'
     , 'How Far Does A Goodbye Go'
     , '3,2,1'
-    , 'Good Times & Tan Lines'
     , 'Heavens To Betsy'
+    , "I Ain't Coming Back"
+    , 'Holy Water'
+    , 'Days Like These'
     , 'Favorite Country Song'
-    , 'Miami' # ft Rick Ross and Lil Wayne
-    , 'A Song To Sing'
-    , 'Hands Of Time'
-    , 'Keeps Me Sane'
-    , 'South Of Sanity'
-    , 'Bottomland'
+    , 'Good Times & Tan Lines'
+    , 'Cowgirl'
     , 'Ends Of The Earth'
     , 'Sober'
-    , 'Cowgirl'
-    , 'Need To'
-    , 'Ordinary'
-    , '15 Minutes'
     , 'Painted You Pretty'
-    , "People Hatin'"
-    , 'Lost'
+    , 'Keeps Me Sane'
+    , 'South Of Sanity'
+    , "Let 'Em Know"
+    , 'Need To'
+    , 'Bottomland'
+    , 'Ordinary'
+    , "Stay Country Or Die Tryin'"
+    , "It Won't Be Long"
     , 'Damned If I Do'
+    , 'Lost'
+    , 'A Song To Sing'
+    , 'Change My Mind'
+    , "Ain't A Bad Life"
 ]
