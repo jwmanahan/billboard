@@ -1,52 +1,52 @@
-rankings = [ # 2025-11-04
+rankings = [ # 2025-11-11
     'I Got Better'
     , 'What I Want'
     , "I'm The Problem"
-    , 'Back In The Saddle'
-    , 'Good News'
     , 'Just In Case'
     , "Choosin' Texas"
+    , 'Good News'
     , 'Happen To Me'
-    , "Don't Mind If I Do"
+    , 'Back In The Saddle'
     , '6 Months Later'
+    , "Don't Mind If I Do"
     , 'Somewhere Over Laredo'
     , 'Hell At Night'
-    , "Darlin'"
-    , 'Hard Fought Hallelujah'
     , 'House Again'
-    , 'Beautiful Things'
-    , 'Last One To Know'
+    , "Darlin'"
     , 'Better Me For You (Brown Eyes)'
-    , 'Bottle Rockets'
-    , 'Heart Of Stone'
-    , 'The Fall'
-    , 'What Kinda Man'
     , '20 Cigarettes'
+    , 'Last One To Know'
+    , 'Hard Fought Hallelujah'
+    , 'The Fall'
+    , 'Heavens To Betsy'
+    , 'Bottle Rockets'
+    , 'What Kinda Man'
+    , 'Heart Of Stone'
+    , 'Days Like These'
     , 'Amen'
     , 'How Far Does A Goodbye Go'
-    , 'Heavens To Betsy'
-    , '3,2,1'
-    , "I Ain't Coming Back"
+    , 'Beautiful Things'
     , 'Favorite Country Song'
-    , 'Days Like These'
-    , 'Good Times & Tan Lines'
+    , "I Ain't Coming Back"
+    , '3,2,1'
     , 'Cowgirl'
+    , 'Good Times & Tan Lines'
     , 'Holy Water'
-    , 'Graveyard Whistling'
-    , 'Ends Of The Earth'
-    , "Let 'Em Know"
-    , 'Sober'
     , "Stay Country Or Die Tryin'"
-    , 'South Of Sanity'
-    , 'Bottomland'
-    , 'Painted You Pretty'
+    , 'Ends Of The Earth'
     , "It Won't Be Long"
+    , 'South Of Sanity'
+    , "Let 'Em Know"
+    , 'Painted You Pretty'
+    , 'Sober'
+    , 'Bottomland'
     , 'Need To'
-    , 'Damned If I Do'
-    , "Time's Ticking"
-    , 'Keeps Me Sane'
-    , 'Ordinary'
-    , 'A Song To Sing'
     , "Ain't A Bad Life"
-    , 'Lost'
+    , 'Keeps Me Sane'
+    , 'Graveyard Whistling'
+    , "Time's Ticking"
+    , 'A Song To Sing'
+    , 'Damned If I Do'
+    , 'Ordinary'
+    , 'Turn This Truck Around'
 ]
