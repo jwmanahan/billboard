@@ -1,52 +1,52 @@
-rankings = [ # 2025-11-11
-    'I Got Better'
-    , 'What I Want'
+rankings = [ # 2025-12-02
+    "Choosin' Texas"
+    , 'I Got Better'
     , "I'm The Problem"
+    , 'What I Want'
     , 'Just In Case'
-    , "Choosin' Texas"
-    , 'Good News'
-    , 'Happen To Me'
-    , 'Back In The Saddle'
-    , '6 Months Later'
     , "Don't Mind If I Do"
     , 'Somewhere Over Laredo'
     , 'Hell At Night'
-    , 'House Again'
-    , "Darlin'"
-    , 'Better Me For You (Brown Eyes)'
+    , '6 Months Later'
+    , 'Happen To Me'
     , '20 Cigarettes'
-    , 'Last One To Know'
-    , 'Hard Fought Hallelujah'
-    , 'The Fall'
-    , 'Heavens To Betsy'
-    , 'Bottle Rockets'
+    , 'House Again'
+    , "Travelin' Soldier"
+    , 'Better Me For You (Brown Eyes)'
     , 'What Kinda Man'
-    , 'Heart Of Stone'
-    , 'Days Like These'
+    , 'Last One To Know'
+    , 'The Fall'
+    , 'Back In The Saddle'
+    , 'Cold'
+    , 'Hard Fought Hallelujah'
     , 'Amen'
-    , 'How Far Does A Goodbye Go'
-    , 'Beautiful Things'
     , 'Favorite Country Song'
-    , "I Ain't Coming Back"
     , '3,2,1'
+    , 'Days Like These'
+    , 'How Far Does A Goodbye Go'
     , 'Cowgirl'
+    , "I Ain't Coming Back"
+    , 'Beautiful Things'
     , 'Good Times & Tan Lines'
-    , 'Holy Water'
     , "Stay Country Or Die Tryin'"
     , 'Ends Of The Earth'
     , "It Won't Be Long"
-    , 'South Of Sanity'
-    , "Let 'Em Know"
-    , 'Painted You Pretty'
-    , 'Sober'
-    , 'Bottomland'
-    , 'Need To'
+    , 'Holy Water'
     , "Ain't A Bad Life"
-    , 'Keeps Me Sane'
-    , 'Graveyard Whistling'
+    , 'South Of Sanity'
+    , 'Painted You Pretty'
     , "Time's Ticking"
     , 'A Song To Sing'
+    , 'Keeps Me Sane'
+    , 'Bottomland'
+    , 'Need To'
+    , 'Sober'
+    , "Let 'Em Know"
+    , "Girl You're Taking Home"
     , 'Damned If I Do'
-    , 'Ordinary'
-    , 'Turn This Truck Around'
+    , "People Hatin'"
+    , 'I Dare You'
+    , 'Change My Mind'
+    , 'Use Me'
+    , 'I Sit In Parks'
 ]
