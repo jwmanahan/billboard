@@ -495,5 +495,15 @@ song_to_artist_pk,song_id,artist_id,relationship_type,relationship_conjunction,r
 389-Lead artist-,389,48,Lead artist,,,2025-12-08
 390-Lead artist-,390,115,Lead artist,,,2025-12-08
 391-Lead artist-,391,47,Lead artist,,,2025-12-08
-391-Other main artist-1,391,15,Other main artist,&,1,2025-12-08
+391-Other main artist-1,391,15,Other main artist,&,1.0,2025-12-08
 392-Lead artist-,392,46,Lead artist,,,2025-12-08
+393-Lead artist-,393,110,Lead artist,,,2025-12-09
+393-Featured artist-1,393,152,Featured artist,,1,2025-12-09
+394-Lead artist-,394,110,Lead artist,,,2025-12-09
+395-Lead artist-,395,110,Lead artist,,,2025-12-09
+396-Lead artist-,396,110,Lead artist,,,2025-12-09
+396-Featured artist-1,396,153,Featured artist,,1,2025-12-09
+397-Lead artist-,397,110,Lead artist,,,2025-12-09
+397-Featured artist-1,397,154,Featured artist,,1,2025-12-09
+398-Lead artist-,398,110,Lead artist,,,2025-12-09
+399-Lead artist-,399,110,Lead artist,,,2025-12-09
