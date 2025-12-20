@@ -1,52 +1,52 @@
-rankings = [ # 2025-12-09
+rankings = [ # 2025-12-16
     "Choosin' Texas"
     , 'I Got Better'
     , "I'm The Problem"
     , 'What I Want'
-    , 'Just In Case'
     , "Don't Mind If I Do"
-    , 'Happen To Me'
+    , 'Just In Case'
     , '20 Cigarettes'
-    , '6 Months Later'
+    , 'Happen To Me'
     , 'Hell At Night'
-    , 'Somewhere Over Laredo'
     , 'House Again'
+    , '6 Months Later'
     , 'Better Me For You (Brown Eyes)'
-    , '3,2,1'
     , 'The Fall'
-    , "Travelin' Soldier"
     , 'Amen'
-    , 'Last One To Know'
+    , "Travelin' Soldier"
     , 'Favorite Country Song'
-    , 'Back In The Saddle'
+    , 'Last One To Know'
+    , 'How Far Does A Goodbye Go'
     , 'Cowgirl'
     , 'Days Like These'
-    , 'What Kinda Man'
-    , 'How Far Does A Goodbye Go'
     , 'Hard Fought Hallelujah'
     , "I Ain't Coming Back"
-    , "Stay Country Or Die Tryin'"
     , 'Beautiful Things'
-    , 'Good Times & Tan Lines'
-    , 'Bad State Of Mind'
-    , 'Misery'
+    , 'Back In The Saddle'
+    , "Stay Country Or Die Tryin'"
+    , 'Giving Her Away'
     , "It Won't Be Long"
-    , 'Cold'
     , 'Ends Of The Earth'
-    , 'Shit Hill'
-    , 'Port A'
-    , 'Withdrawals'
-    , 'West Texas Degenerate'
-    , "Ain't A Bad Life"
+    , 'Cold'
+    , 'Misery'
+    , 'Bad State Of Mind'
     , "Time's Ticking"
+    , "Ain't A Bad Life"
+    , 'Proving Me Right'
+    , 'Withdrawals'
     , 'Holy Water'
     , 'Painted You Pretty'
     , 'Keeps Me Sane'
+    , 'Port A'
     , 'South Of Sanity'
-    , 'Sunflower' # Treaty Oak Revival
-    , 'Happy Face'
     , 'A Song To Sing'
-    , 'Stay A While'
     , 'Need To'
+    , "Girl You're Taking Home"
     , 'Sober'
+    , 'I Dare You'
+    , 'Damned If I Do'
+    , 'West Texas Degenerate'
+    , 'Turn This Truck Around'
+    , 'Bottomland'
+    , 'Change My Mind'
 ]
