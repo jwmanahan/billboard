@@ -1,4 +1,4 @@
-rankings = [ # 2025-12-16
+rankings = [ # 2025-12-23
     "Choosin' Texas"
     , 'I Got Better'
     , "I'm The Problem"
@@ -8,45 +8,45 @@ rankings = [ # 2025-12-16
     , '20 Cigarettes'
     , 'Happen To Me'
     , 'Hell At Night'
-    , 'House Again'
     , '6 Months Later'
+    , 'House Again'
     , 'Better Me For You (Brown Eyes)'
     , 'The Fall'
     , 'Amen'
-    , "Travelin' Soldier"
     , 'Favorite Country Song'
-    , 'Last One To Know'
     , 'How Far Does A Goodbye Go'
     , 'Cowgirl'
     , 'Days Like These'
+    , 'Last One To Know'
+    , "Travelin' Soldier"
     , 'Hard Fought Hallelujah'
     , "I Ain't Coming Back"
     , 'Beautiful Things'
-    , 'Back In The Saddle'
     , "Stay Country Or Die Tryin'"
-    , 'Giving Her Away'
+    , 'Back In The Saddle'
     , "It Won't Be Long"
     , 'Ends Of The Earth'
+    , 'Brunette'
+    , "Ain't A Bad Life"
+    , "Time's Ticking"
+    , "What He'll Never Have"
+    , 'Bad State Of Mind'
+    , 'Giving Her Away'
     , 'Cold'
     , 'Misery'
-    , 'Bad State Of Mind'
-    , "Time's Ticking"
-    , "Ain't A Bad Life"
-    , 'Proving Me Right'
-    , 'Withdrawals'
-    , 'Holy Water'
     , 'Painted You Pretty'
-    , 'Keeps Me Sane'
-    , 'Port A'
-    , 'South Of Sanity'
     , 'A Song To Sing'
-    , 'Need To'
+    , 'Holy Water'
     , "Girl You're Taking Home"
-    , 'Sober'
-    , 'I Dare You'
+    , 'Keeps Me Sane'
+    , 'South Of Sanity'
     , 'Damned If I Do'
-    , 'West Texas Degenerate'
+    , 'Withdrawals'
+    , 'Proving Me Right'
+    , 'I Dare You'
     , 'Turn This Truck Around'
-    , 'Bottomland'
+    , 'Sober'
     , 'Change My Mind'
+    , 'Bottomland'
+    , 'Stop & Stare'
 ]
