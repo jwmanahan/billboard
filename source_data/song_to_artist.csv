@@ -510,3 +510,8 @@ song_to_artist_pk,song_id,artist_id,relationship_type,relationship_conjunction,r
 400-Lead artist-,400,6,Lead artist,,,2025-12-19
 401-Lead artist-,401,9,Lead artist,,,2025-12-19
 402-Lead artist-,402,110,Lead artist,,,2025-12-23
+403-Lead artist-,403,75,Lead artist,,,2025-12-30
+404-Lead artist-,404,91,Lead artist,,,2025-12-30
+404-Other main artist-1,404,16,Other main artist,&,1,2025-12-30
+405-Lead artist-,405,38,Lead artist,,,2025-12-30
+405-Other main artist-1,405,46,Other main artist,7,1,2025-12-30
