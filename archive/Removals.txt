@@ -1,5 +1,40 @@
 
 
+// Left on Jan 20
+, "Don't Mind If I Do"
+, 'Happen To Me'
+, 'Hard Fought Hallelujah'
+, "What He'll Never Have"
+, 'Holy Water'
+, "Time's Ticking"
+, 'South Of Sanity'
+, 'Damned If I Do'
+, 'A Song To Sing'
+, 'Painted You Pretty'
+, 'Rocky Mountain Low'
+, "Girl You're Taking Home"
+, 'Bad State Of Mind'
+, 'Turn This Truck Around'
+, "People Hatin'"
+, 'Cold'
+, 'Bottomland'
+, 'Change My Mind'
+, 'Misery'
+, 'Keeps Me Sane'
+, 'I Dare You'
+, 'Giving Her Away'
+, 'Proving Me Right'
+, 'Madeline'
+
+// Left on Jan 13
+, 'Back In The Saddle'
+
+// Left on Jan 6, 2026
+, 'O Come All Ye Faithful'
+, 'Withdrawals'
+, 'Winter Wonderland'
+, 'Sober'
+
 // Left on Dec 30
 , 'Giving Her Away'
 , 'Change My Mind'

@@ -1,52 +1,52 @@
-rankings = [ # 2025-12-23
+rankings = [ # 2026-01-20
     "Choosin' Texas"
+    , 'Plastic Cigarette'
     , 'I Got Better'
-    , "I'm The Problem"
+    , 'Sleepless In A Hotel Room'
     , '20 Cigarettes'
+    , "I'm The Problem"
+    , 'Say Why'
     , 'What I Want'
-    , "Don't Mind If I Do"
     , 'Just In Case'
-    , 'Hell At Night'
-    , 'Happen To Me'
-    , 'House Again'
     , '6 Months Later'
+    , 'Hell At Night'
+    , 'Bad News'
     , 'Better Me For You (Brown Eyes)'
+    , 'Appetite'
     , 'The Fall'
+    , 'House Again'
     , 'Amen'
-    , 'Favorite Country Song'
-    , 'How Far Does A Goodbye Go'
+    , 'Runny Eggs'
     , 'Days Like These'
-    , 'Last One To Know'
-    , 'Cowgirl'
-    , "I Ain't Coming Back"
+    , 'How Far Does A Goodbye Go'
+    , 'Skin'
+    , 'Favorite Country Song'
     , "Travelin' Soldier"
-    , "Stay Country Or Die Tryin'"
-    , 'Hard Fought Hallelujah'
+    , "Deann's Denim"
+    , 'Drowning'
+    , 'Dry Deserts'
+    , 'Last One To Know'
+    , 'Santa Fe'
+    , "I Ain't Coming Back"
+    , 'With Heavan On Top'
+    , 'South And Pine'
     , 'Beautiful Things'
-    , 'Back In The Saddle'
-    , "It Won't Be Long"
-    , 'Ends Of The Earth'
+    , 'Cannonball'
+    , 'Slicked Back'
+    , 'Anyways'
     , 'Brunette'
-    , 'O Come All Ye Faithful'
+    , "Stay Country Or Die Tryin'"
+    , "If They Come Lookin'"
+    , 'Rivers And Creeks'
+    , 'You Can Still Come Home'
+    , 'Aeroplane'
+    , "It Won't Be Long"
+    , 'When A Cowboy Prays'
+    , "Always Willin'"
+    , 'Cowgirl'
+    , 'Miles'
+    , 'Ends Of The Earth'
+    , 'All Good Things Past'
     , "Ain't A Bad Life"
-    , "Time's Ticking"
-    , "What He'll Never Have"
-    , 'Bad State Of Mind'
-    , 'Holy Water'
-    , 'A Song To Sing'
-    , 'Rocky Mountain Low'
-    , 'Painted You Pretty'
-    , 'South Of Sanity'
-    , 'Damned If I Do'
-    , 'Misery'
-    , 'Cold'
-    , 'Keeps Me Sane'
-    , "Girl You're Taking Home"
-    , 'I Dare You'
-    , "People Hatin'"
-    , 'Withdrawals'
-    , 'Winter Wonderland'
-    , 'Sober'
-    , 'Proving Me Right'
-    , 'Turn This Truck Around'
+    , 'Sundown Girls'
 ]

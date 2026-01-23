@@ -512,6 +512,30 @@ song_to_artist_pk,song_id,artist_id,relationship_type,relationship_conjunction,r
 402-Lead artist-,402,110,Lead artist,,,2025-12-23
 403-Lead artist-,403,75,Lead artist,,,2025-12-30
 404-Lead artist-,404,91,Lead artist,,,2025-12-30
-404-Other main artist-1,404,16,Other main artist,&,1,2025-12-30
+404-Other main artist-1,404,16,Other main artist,&,1.0,2025-12-30
 405-Lead artist-,405,38,Lead artist,,,2025-12-30
-405-Other main artist-1,405,46,Other main artist,7,1,2025-12-30
+405-Other main artist-1,405,46,Other main artist,7,1.0,2025-12-30
+406-Lead artist-,406,6,Lead artist,,,2026-01-15
+407-Lead artist-,407,1,Lead artist,,,2026-01-22
+408-Lead artist-,408,1,Lead artist,,,2026-01-22
+409-Lead artist-,409,1,Lead artist,,,2026-01-22
+410-Lead artist-,410,1,Lead artist,,,2026-01-22
+411-Lead artist-,411,1,Lead artist,,,2026-01-22
+412-Lead artist-,412,1,Lead artist,,,2026-01-22
+413-Lead artist-,413,1,Lead artist,,,2026-01-22
+414-Lead artist-,414,1,Lead artist,,,2026-01-22
+415-Lead artist-,415,1,Lead artist,,,2026-01-22
+416-Lead artist-,416,1,Lead artist,,,2026-01-22
+417-Lead artist-,417,1,Lead artist,,,2026-01-22
+418-Lead artist-,418,1,Lead artist,,,2026-01-22
+419-Lead artist-,419,1,Lead artist,,,2026-01-22
+420-Lead artist-,420,1,Lead artist,,,2026-01-22
+421-Lead artist-,421,1,Lead artist,,,2026-01-22
+422-Lead artist-,422,1,Lead artist,,,2026-01-22
+423-Lead artist-,423,1,Lead artist,,,2026-01-22
+424-Lead artist-,424,1,Lead artist,,,2026-01-22
+425-Lead artist-,425,1,Lead artist,,,2026-01-22
+426-Lead artist-,426,1,Lead artist,,,2026-01-22
+427-Lead artist-,427,1,Lead artist,,,2026-01-22
+428-Lead artist-,428,1,Lead artist,,,2026-01-22
+429-Lead artist-,429,1,Lead artist,,,2026-01-22
