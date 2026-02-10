@@ -1,52 +1,52 @@
-rankings = [ # 2026-01-20
+rankings = [ # 2026-02-03
     "Choosin' Texas"
-    , 'Plastic Cigarette'
     , 'I Got Better'
-    , 'Sleepless In A Hotel Room'
     , '20 Cigarettes'
+    , 'Sleepless In A Hotel Room'
     , "I'm The Problem"
-    , 'Say Why'
-    , 'What I Want'
-    , 'Just In Case'
-    , '6 Months Later'
-    , 'Hell At Night'
-    , 'Bad News'
+    , 'Plastic Cigarette'
     , 'Better Me For You (Brown Eyes)'
-    , 'Appetite'
+    , 'Amen'
+    , 'What I Want'
+    , 'Hell At Night'
     , 'The Fall'
     , 'House Again'
-    , 'Amen'
-    , 'Runny Eggs'
-    , 'Days Like These'
     , 'How Far Does A Goodbye Go'
-    , 'Skin'
     , 'Favorite Country Song'
-    , "Travelin' Soldier"
-    , "Deann's Denim"
-    , 'Drowning'
-    , 'Dry Deserts'
-    , 'Last One To Know'
-    , 'Santa Fe'
+    , 'Days Like These'
+    , 'Say Why'
     , "I Ain't Coming Back"
-    , 'With Heavan On Top'
-    , 'South And Pine'
-    , 'Beautiful Things'
-    , 'Cannonball'
-    , 'Slicked Back'
-    , 'Anyways'
     , 'Brunette'
-    , "Stay Country Or Die Tryin'"
-    , "If They Come Lookin'"
-    , 'Rivers And Creeks'
-    , 'You Can Still Come Home'
-    , 'Aeroplane'
+    , 'Beautiful Things'
     , "It Won't Be Long"
-    , 'When A Cowboy Prays'
-    , "Always Willin'"
-    , 'Cowgirl'
-    , 'Miles'
-    , 'Ends Of The Earth'
-    , 'All Good Things Past'
+    , 'Last One To Know'
+    , "Travelin' Soldier"
+    , 'Change My Mind'
+    , "Wish I Didn't"
     , "Ain't A Bad Life"
-    , 'Sundown Girls'
+    , 'Ends Of The Earth'
+    , "Time's Ticking"
+    , 'Cowgirl'
+    , "What He'll Never Have"
+    , 'Bad News'
+    , 'Turn This Truck Around'
+    , 'South Of Sanity'
+    , 'With Heavan On Top'
+    , 'Appetite'
+    , 'A Song To Sing'
+    , 'Rocky Mountain Low'
+    , "Stay Country Or Die Tryin'"
+    , "Girl You're Taking Home"
+    , 'Bad State Of Mind'
+    , 'I Dare You'
+    , 'Painted You Pretty'
+    , 'Damned If I Do'
+    , 'Skin'
+    , 'Drowning'
+    , 'When A Cowboy Prays'
+    , 'Slicked Back'
+    , 'Misery'
+    , "People Hatin'"
+    , 'Santa Fe'
+    , 'Runny Eggs'
 ]
