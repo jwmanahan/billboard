@@ -1,52 +1,52 @@
-rankings = [ # 2026-02-03
+rankings = [ # 2026-02-10
     "Choosin' Texas"
     , 'I Got Better'
     , '20 Cigarettes'
     , 'Sleepless In A Hotel Room'
     , "I'm The Problem"
-    , 'Plastic Cigarette'
-    , 'Better Me For You (Brown Eyes)'
+    , 'McArthur'
+    , 'Dandelion'
     , 'Amen'
+    , 'Better Me For You (Brown Eyes)'
     , 'What I Want'
-    , 'Hell At Night'
-    , 'The Fall'
     , 'House Again'
-    , 'How Far Does A Goodbye Go'
-    , 'Favorite Country Song'
+    , 'The Fall'
     , 'Days Like These'
-    , 'Say Why'
-    , "I Ain't Coming Back"
-    , 'Brunette'
-    , 'Beautiful Things'
-    , "It Won't Be Long"
-    , 'Last One To Know'
+    , 'Hell At Night'
+    , 'How Far Does A Goodbye Go'
     , "Travelin' Soldier"
+    , "I Ain't Coming Back"
+    , 'Plastic Cigarette'
+    , 'Say Why'
+    , 'Last One To Know'
+    , 'Beautiful Things'
+    , 'Brunette'
     , 'Change My Mind'
-    , "Wish I Didn't"
-    , "Ain't A Bad Life"
     , 'Ends Of The Earth'
+    , "It Won't Be Long"
+    , "Ain't A Bad Life"
+    , "Wish I Didn't"
     , "Time's Ticking"
-    , 'Cowgirl'
     , "What He'll Never Have"
-    , 'Bad News'
-    , 'Turn This Truck Around'
     , 'South Of Sanity'
-    , 'With Heavan On Top'
-    , 'Appetite'
-    , 'A Song To Sing'
+    , 'Turn This Truck Around'
     , 'Rocky Mountain Low'
-    , "Stay Country Or Die Tryin'"
     , "Girl You're Taking Home"
+    , 'Cowgirl'
+    , 'Bad News'
+    , 'A Song To Sing'
+    , 'Appetite'
     , 'Bad State Of Mind'
-    , 'I Dare You'
     , 'Painted You Pretty'
     , 'Damned If I Do'
-    , 'Skin'
-    , 'Drowning'
-    , 'When A Cowboy Prays'
-    , 'Slicked Back'
+    , 'I Dare You'
     , 'Misery'
     , "People Hatin'"
-    , 'Santa Fe'
-    , 'Runny Eggs'
+    , 'When A Cowboy Prays'
+    , 'Withdrawals'
+    , 'Cold'
+    , 'Skin'
+    , 'Wish You Well'
+    , "Stay Country Or Die Tryin'"
+    , 'String By'
 ]
