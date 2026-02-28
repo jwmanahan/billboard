@@ -1,52 +1,52 @@
-rankings = [ # 2026-02-10
+rankings = [ # 2026-02-24
     "Choosin' Texas"
-    , 'I Got Better'
-    , '20 Cigarettes'
+    , 'Be By You'
+    , 'Be Her'
     , 'Sleepless In A Hotel Room'
-    , "I'm The Problem"
-    , 'McArthur'
-    , 'Dandelion'
+    , '20 Cigarettes'
+    , 'I Got Better'
     , 'Amen'
     , 'Better Me For You (Brown Eyes)'
-    , 'What I Want'
-    , 'House Again'
     , 'The Fall'
+    , 'Dandelion'
     , 'Days Like These'
-    , 'Hell At Night'
+    , 'McArthur'
     , 'How Far Does A Goodbye Go'
-    , "Travelin' Soldier"
     , "I Ain't Coming Back"
-    , 'Plastic Cigarette'
-    , 'Say Why'
-    , 'Last One To Know'
     , 'Beautiful Things'
     , 'Brunette'
+    , "Travelin' Soldier"
     , 'Change My Mind'
+    , 'Say Why'
+    , 'Plastic Cigarette'
     , 'Ends Of The Earth'
-    , "It Won't Be Long"
     , "Ain't A Bad Life"
-    , "Wish I Didn't"
     , "Time's Ticking"
-    , "What He'll Never Have"
-    , 'South Of Sanity'
     , 'Turn This Truck Around'
+    , "What He'll Never Have"
+    , "Wish I Didn't"
     , 'Rocky Mountain Low'
+    , 'South Of Sanity'
     , "Girl You're Taking Home"
-    , 'Cowgirl'
-    , 'Bad News'
-    , 'A Song To Sing'
-    , 'Appetite'
-    , 'Bad State Of Mind'
     , 'Painted You Pretty'
-    , 'Damned If I Do'
     , 'I Dare You'
+    , 'Time Goes On'
+    , 'Bad State Of Mind'
     , 'Misery'
+    , 'Damned If I Do'
+    , 'A Song To Sing'
+    , "If I Didn't Know You"
     , "People Hatin'"
-    , 'When A Cowboy Prays'
+    , 'Cloud 9'
     , 'Withdrawals'
-    , 'Cold'
-    , 'Skin'
     , 'Wish You Well'
-    , "Stay Country Or Die Tryin'"
-    , 'String By'
+    , 'Hate How You Look'
+    , 'Me & A Beer'
+    , 'Cold'
+    , 'Stop & Stare'
+    , 'When A Cowboy Prays'
+    , "Don't We"
+    , "It Won't Be Long"
+    , 'Chevy Silverado'
+    , "Wish I Didn't Know Now"
 ]

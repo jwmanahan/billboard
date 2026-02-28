@@ -472,7 +472,7 @@ song_to_artist_pk,song_id,artist_id,relationship_type,relationship_conjunction,r
 367-Lead artist-,367,21,Lead artist,,,2025-09-24
 368-Lead artist-,368,58,Lead artist,,,2025-10-11
 369-Lead artist-,369,140,Lead artist,,,2025-10-11
-369-Other main artist-1,369,10,Other main artist,X,1,2026-02-04
+369-Other main artist-1,369,10,Other main artist,X,1.0,2026-02-04
 370-Lead artist-,370,115,Lead artist,,,2025-10-11
 371-Lead artist-,371,111,Lead artist,,,2025-10-11
 372-Lead artist-,372,6,Lead artist,,,2025-10-15
@@ -542,9 +542,17 @@ song_to_artist_pk,song_id,artist_id,relationship_type,relationship_conjunction,r
 429-Lead artist-,429,1,Lead artist,,,2026-01-22
 430-Lead artist-,430,4,Lead artist,,,2026-01-27
 431-Lead artist-,431,58,Lead artist,,,2026-02-10
-431-Other main artist-1,431,83,Other main artist,&,1,2026-02-10
-431-Other main artist-2,431,2,Other main artist,&,2,2026-02-10
-431-Other main artist-3,431,55,Other main artist,&,3,2026-02-10
+431-Other main artist-1,431,83,Other main artist,&,1.0,2026-02-10
+431-Other main artist-2,431,2,Other main artist,&,2.0,2026-02-10
+431-Other main artist-3,431,55,Other main artist,&,3.0,2026-02-10
 432-Lead artist-,432,46,Lead artist,,,2026-02-10
 433-Lead artist-,433,151,Lead artist,,,2026-02-10
 434-Lead artist-,434,155,Lead artist,,,2026-02-10
+435-Lead artist-,435,156,Lead artist,,,2026-02-20
+436-Lead artist-,436,16,Lead artist,,,2026-02-20
+437-Lead artist-,437,4,Lead artist,,,2026-02-20
+438-Lead artist-,438,6,Lead artist,,,2026-02-27
+439-Lead artist-,439,46,Lead artist,,,2026-02-27
+440-Lead artist-,440,17,Lead artist,,,2026-02-27
+441-Lead artist-,441,127,Lead artist,,,2026-02-27
+442-Lead artist-,442,102,Lead artist,,,2026-02-27
