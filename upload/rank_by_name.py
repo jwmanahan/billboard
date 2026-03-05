@@ -1,4 +1,4 @@
-rankings = [ # 2026-02-24
+rankings = [ # 2026-03-03
     "Choosin' Texas"
     , 'Be By You'
     , 'Be Her'
@@ -6,47 +6,47 @@ rankings = [ # 2026-02-24
     , '20 Cigarettes'
     , 'I Got Better'
     , 'Amen'
+    , 'Beautiful Things'
     , 'Better Me For You (Brown Eyes)'
     , 'The Fall'
+    , 'Medicine'
+    , "Wish I Didn't"
     , 'Dandelion'
-    , 'Days Like These'
     , 'McArthur'
-    , 'How Far Does A Goodbye Go'
     , "I Ain't Coming Back"
-    , 'Beautiful Things'
-    , 'Brunette'
-    , "Travelin' Soldier"
+    , 'Days Like These'
+    , 'Wedding Dress'
+    , 'How Far Does A Goodbye Go'
     , 'Change My Mind'
+    , 'Brunette'
+    , 'Cloud 9'
+    , 'I Only Miss You'
+    , 'Who Hurt You?'
+    , "Travelin' Soldier"
     , 'Say Why'
-    , 'Plastic Cigarette'
+    , 'Stupid'
     , 'Ends Of The Earth'
     , "Ain't A Bad Life"
     , "Time's Ticking"
+    , 'Convincing'
+    , 'Plastic Cigarette'
+    , 'Change Of Heart'
     , 'Turn This Truck Around'
     , "What He'll Never Have"
-    , "Wish I Didn't"
+    , 'Bells & Whistles'
+    , 'Liars & Tigers & Bears'
     , 'Rocky Mountain Low'
+    , 'Table For Two'
+    , 'Waiting On The Rain'
     , 'South Of Sanity'
     , "Girl You're Taking Home"
     , 'Painted You Pretty'
-    , 'I Dare You'
-    , 'Time Goes On'
     , 'Bad State Of Mind'
-    , 'Misery'
     , 'Damned If I Do'
+    , 'Misery'
     , 'A Song To Sing'
-    , "If I Didn't Know You"
+    , 'Empty Words'
     , "People Hatin'"
-    , 'Cloud 9'
+    , 'Time Goes On'
     , 'Withdrawals'
-    , 'Wish You Well'
-    , 'Hate How You Look'
-    , 'Me & A Beer'
-    , 'Cold'
-    , 'Stop & Stare'
-    , 'When A Cowboy Prays'
-    , "Don't We"
-    , "It Won't Be Long"
-    , 'Chevy Silverado'
-    , "Wish I Didn't Know Now"
 ]
