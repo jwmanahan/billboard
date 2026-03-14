@@ -1,52 +1,52 @@
-rankings = [ # 2026-03-03
+rankings = [ # 2026-03-10
     "Choosin' Texas"
-    , 'Be By You'
     , 'Be Her'
+    , 'Be By You'
     , 'Sleepless In A Hotel Room'
     , '20 Cigarettes'
     , 'I Got Better'
-    , 'Amen'
-    , 'Beautiful Things'
     , 'Better Me For You (Brown Eyes)'
+    , 'Amen'
     , 'The Fall'
-    , 'Medicine'
-    , "Wish I Didn't"
+    , 'Beautiful Things'
     , 'Dandelion'
     , 'McArthur'
-    , "I Ain't Coming Back"
     , 'Days Like These'
-    , 'Wedding Dress'
-    , 'How Far Does A Goodbye Go'
-    , 'Change My Mind'
     , 'Brunette'
-    , 'Cloud 9'
-    , 'I Only Miss You'
-    , 'Who Hurt You?'
+    , "I Ain't Coming Back"
+    , 'Change My Mind'
+    , "Wish I Didn't"
+    , 'How Far Does A Goodbye Go'
+    , 'Medicine'
     , "Travelin' Soldier"
     , 'Say Why'
-    , 'Stupid'
     , 'Ends Of The Earth'
     , "Ain't A Bad Life"
-    , "Time's Ticking"
-    , 'Convincing'
-    , 'Plastic Cigarette'
-    , 'Change Of Heart'
     , 'Turn This Truck Around'
+    , "Time's Ticking"
     , "What He'll Never Have"
-    , 'Bells & Whistles'
-    , 'Liars & Tigers & Bears'
+    , 'Plastic Cigarette'
     , 'Rocky Mountain Low'
-    , 'Table For Two'
-    , 'Waiting On The Rain'
+    , 'Wedding Dress'
+    , 'Who Hurt You?'
+    , 'Cloud 9'
+    , "Don't Tell On Me"
     , 'South Of Sanity'
     , "Girl You're Taking Home"
+    , 'I Only Miss You'
+    , 'Stupid'
     , 'Painted You Pretty'
-    , 'Bad State Of Mind'
-    , 'Damned If I Do'
     , 'Misery'
-    , 'A Song To Sing'
-    , 'Empty Words'
+    , 'Bad State Of Mind'
+    , 'Convincing'
+    , 'Damned If I Do'
     , "People Hatin'"
+    , "Don't We"
+    , 'Hate How You Look'
+    , 'Me & A Beer'
+    , 'Bells & Whistles'
+    , 'Chevy Silverado'
+    , 'Change Of Heart'
+    , 'Liars & Tigers & Bears'
     , 'Time Goes On'
-    , 'Withdrawals'
 ]

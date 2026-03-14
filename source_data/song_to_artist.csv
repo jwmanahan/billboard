@@ -559,14 +559,15 @@ song_to_artist_pk,song_id,artist_id,relationship_type,relationship_conjunction,r
 443-Lead artist-,443,4,Lead artist,,,2026-03-04
 444-Lead artist-,444,4,Lead artist,,,2026-03-04
 445-Lead artist-,445,4,Lead artist,,,2026-03-04
-445-Other main artist-1,445,157,Other main artist,&,1,2026-03-04
+445-Other main artist-1,445,157,Other main artist,&,1.0,2026-03-04
 446-Lead artist-,446,4,Lead artist,,,2026-03-04
 447-Lead artist-,447,4,Lead artist,,,2026-03-04
 448-Lead artist-,448,4,Lead artist,,,2026-03-04
 449-Lead artist-,449,4,Lead artist,,,2026-03-04
 450-Lead artist-,450,4,Lead artist,,,2026-03-04
-450-Other main artist-1,450,30,Other main artist,&,1,2026-03-04
+450-Other main artist-1,450,30,Other main artist,&,1.0,2026-03-04
 451-Lead artist-,451,4,Lead artist,,,2026-03-04
 452-Lead artist-,452,4,Lead artist,,,2026-03-04
 453-Lead artist-,453,4,Lead artist,,,2026-03-04
 454-Lead artist-,454,91,Lead artist,,,2026-03-04
+455-Lead artist-,455,21,Lead artist,,,2026-03-13
