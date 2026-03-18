@@ -1,52 +1,52 @@
 rankings = [ # 2026-03-10
     "Choosin' Texas"
     , 'Be Her'
-    , 'Be By You'
     , 'Sleepless In A Hotel Room'
-    , '20 Cigarettes'
+    , 'Be By You'
     , 'I Got Better'
-    , 'Better Me For You (Brown Eyes)'
+    , '20 Cigarettes'
     , 'Amen'
     , 'The Fall'
-    , 'Beautiful Things'
-    , 'Dandelion'
+    , 'Better Me For You (Brown Eyes)'
+    , 'Brunette'
     , 'McArthur'
     , 'Days Like These'
-    , 'Brunette'
     , "I Ain't Coming Back"
+    , 'Beautiful Things'
+    , 'Dandelion'
     , 'Change My Mind'
     , "Wish I Didn't"
-    , 'How Far Does A Goodbye Go'
-    , 'Medicine'
     , "Travelin' Soldier"
     , 'Say Why'
-    , 'Ends Of The Earth'
-    , "Ain't A Bad Life"
     , 'Turn This Truck Around'
-    , "Time's Ticking"
+    , "Ain't A Bad Life"
+    , 'Ends Of The Earth'
+    , 'How Far Does A Goodbye Go'
     , "What He'll Never Have"
+    , "Time's Ticking"
     , 'Plastic Cigarette'
+    , 'Medicine'
     , 'Rocky Mountain Low'
-    , 'Wedding Dress'
-    , 'Who Hurt You?'
-    , 'Cloud 9'
-    , "Don't Tell On Me"
     , 'South Of Sanity'
-    , "Girl You're Taking Home"
-    , 'I Only Miss You'
-    , 'Stupid'
+    , 'Wedding Dress'
     , 'Painted You Pretty'
+    , "Girl You're Taking Home"
+    , "Don't We"
+    , 'Blame Texas'
+    , "Don't Tell On Me"
+    , 'Who Hurt You?'
+    , 'Damned If I Do'
     , 'Misery'
     , 'Bad State Of Mind'
-    , 'Convincing'
-    , 'Damned If I Do'
-    , "People Hatin'"
-    , "Don't We"
     , 'Hate How You Look'
-    , 'Me & A Beer'
-    , 'Bells & Whistles'
     , 'Chevy Silverado'
-    , 'Change Of Heart'
-    , 'Liars & Tigers & Bears'
+    , 'Empty Words'
+    , 'Cloud 9'
+    , 'Me & A Beer'
+    , 'If He Wanted To'
+    , 'Proving Me Right'
+    , "If I Didn't Know You"
+    , 'I Only Miss You'
+    , 'Wish You Well'
     , 'Time Goes On'
 ]
