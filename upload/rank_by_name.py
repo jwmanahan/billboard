@@ -1,7 +1,7 @@
-rankings = [ # 2026-03-10
+rankings = [ # 2026-03-23
     "Choosin' Texas"
-    , 'Be Her'
     , 'Sleepless In A Hotel Room'
+    , 'Be Her'
     , 'Be By You'
     , 'I Got Better'
     , '20 Cigarettes'
@@ -9,44 +9,44 @@ rankings = [ # 2026-03-10
     , 'The Fall'
     , 'Better Me For You (Brown Eyes)'
     , 'Brunette'
-    , 'McArthur'
     , 'Days Like These'
-    , "I Ain't Coming Back"
-    , 'Beautiful Things'
-    , 'Dandelion'
+    , 'McArthur'
     , 'Change My Mind'
+    , "I Ain't Coming Back"
+    , 'Dry Spell'
+    , 'Dandelion'
+    , 'Beautiful Things'
     , "Wish I Didn't"
-    , "Travelin' Soldier"
+    , "Ain't A Bad Life"
+    , "What He'll Never Have"
     , 'Say Why'
     , 'Turn This Truck Around'
-    , "Ain't A Bad Life"
-    , 'Ends Of The Earth'
-    , 'How Far Does A Goodbye Go'
-    , "What He'll Never Have"
+    , "Travelin' Soldier"
     , "Time's Ticking"
+    , 'Ends Of The Earth'
+    , 'Wedding Dress'
     , 'Plastic Cigarette'
-    , 'Medicine'
+    , 'Woman'
+    , "I Ain't No Cowboy"
+    , "Don't We"
     , 'Rocky Mountain Low'
     , 'South Of Sanity'
-    , 'Wedding Dress'
-    , 'Painted You Pretty'
-    , "Girl You're Taking Home"
-    , "Don't We"
-    , 'Blame Texas'
+    , "Can't Sit Still"
     , "Don't Tell On Me"
-    , 'Who Hurt You?'
-    , 'Damned If I Do'
-    , 'Misery'
-    , 'Bad State Of Mind'
+    , 'Painted You Pretty'
     , 'Hate How You Look'
+    , 'Medicine'
+    , "Girl You're Taking Home"
+    , 'Sunburn'
     , 'Chevy Silverado'
-    , 'Empty Words'
-    , 'Cloud 9'
-    , 'Me & A Beer'
-    , 'If He Wanted To'
-    , 'Proving Me Right'
     , "If I Didn't Know You"
-    , 'I Only Miss You'
+    , 'Empty Words'
+    , 'If He Wanted To'
+    , 'Me & A Beer'
+    , 'Blame Texas'
+    , 'Who Hurt You?'
+    , 'Proving Me Right'
+    , "Get To Drinkin'"
     , 'Wish You Well'
-    , 'Time Goes On'
+    , 'Just Believe'
 ]
