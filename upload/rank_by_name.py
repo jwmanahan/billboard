@@ -1,52 +1,52 @@
-rankings = [ # 2026-03-23
+rankings = [ # 2026-03-31
     "Choosin' Texas"
     , 'Sleepless In A Hotel Room'
     , 'Be Her'
     , 'Be By You'
-    , 'I Got Better'
     , '20 Cigarettes'
+    , 'I Got Better'
     , 'Amen'
     , 'The Fall'
-    , 'Better Me For You (Brown Eyes)'
-    , 'Brunette'
     , 'Days Like These'
-    , 'McArthur'
     , 'Change My Mind'
-    , "I Ain't Coming Back"
-    , 'Dry Spell'
+    , 'Rethink Some Things'
+    , 'Brunette'
+    , 'McArthur'
+    , 'Loving Life Again'
     , 'Dandelion'
-    , 'Beautiful Things'
-    , "Wish I Didn't"
+    , "I Ain't Coming Back"
     , "Ain't A Bad Life"
-    , "What He'll Never Have"
-    , 'Say Why'
+    , 'Beautiful Things'
     , 'Turn This Truck Around'
-    , "Travelin' Soldier"
+    , "What He'll Never Have"
     , "Time's Ticking"
     , 'Ends Of The Earth'
-    , 'Wedding Dress'
-    , 'Plastic Cigarette'
-    , 'Woman'
-    , "I Ain't No Cowboy"
-    , "Don't We"
-    , 'Rocky Mountain Low'
-    , 'South Of Sanity'
+    , "Travelin' Soldier"
+    , 'Say Why'
+    , 'Dry Spell'
     , "Can't Sit Still"
-    , "Don't Tell On Me"
-    , 'Painted You Pretty'
+    , "Don't We"
+    , 'Plastic Cigarette'
+    , "I Ain't No Cowboy"
+    , 'Rocky Mountain Low'
+    , "Wish I Didn't"
+    , 'Wedding Dress'
+    , 'South Of Sanity'
+    , 'Wish Upon A Whiskey'
+    , 'Woman'
+    , 'Soon As I Get Home'
+    , 'Giving Her Away'
     , 'Hate How You Look'
-    , 'Medicine'
-    , "Girl You're Taking Home"
+    , 'Daytona 499'
+    , "Killin' Me"
+    , "Don't Tell On Me"
     , 'Sunburn'
-    , 'Chevy Silverado'
-    , "If I Didn't Know You"
-    , 'Empty Words'
-    , 'If He Wanted To'
-    , 'Me & A Beer'
-    , 'Blame Texas'
-    , 'Who Hurt You?'
-    , 'Proving Me Right'
-    , "Get To Drinkin'"
-    , 'Wish You Well'
-    , 'Just Believe'
+    , 'Painted You Pretty'
+    , "Girl You're Taking Home"
+    , 'The Way I Am'
+    , 'Alcohol Of Fame' # Combs
+    , 'My Kinda Saturday Night'
+    , 'Miss You Here'
+    , 'Medicine'
+    , '15 Minutes'
 ]
