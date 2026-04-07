@@ -1,52 +1,52 @@
-rankings = [ # 2026-03-31
+rankings = [ # 2026-04-07
     "Choosin' Texas"
-    , 'Sleepless In A Hotel Room'
     , 'Be Her'
+    , 'Sleepless In A Hotel Room'
     , 'Be By You'
-    , '20 Cigarettes'
     , 'I Got Better'
-    , 'Amen'
+    , '20 Cigarettes'
     , 'The Fall'
-    , 'Days Like These'
     , 'Change My Mind'
-    , 'Rethink Some Things'
+    , 'Amen'
+    , 'Days Like These'
     , 'Brunette'
-    , 'McArthur'
     , 'Loving Life Again'
+    , 'McArthur'
     , 'Dandelion'
+    , 'Rethink Some Things'
     , "I Ain't Coming Back"
-    , "Ain't A Bad Life"
-    , 'Beautiful Things'
-    , 'Turn This Truck Around'
-    , "What He'll Never Have"
     , "Time's Ticking"
+    , "What He'll Never Have"
+    , "Ain't A Bad Life"
+    , 'Turn This Truck Around'
+    , 'Beautiful Things'
     , 'Ends Of The Earth'
-    , "Travelin' Soldier"
-    , 'Say Why'
-    , 'Dry Spell'
-    , "Can't Sit Still"
     , "Don't We"
+    , "Travelin' Soldier"
+    , 'Dry Spell'
     , 'Plastic Cigarette'
-    , "I Ain't No Cowboy"
+    , "Can't Sit Still"
+    , 'Say Why'
     , 'Rocky Mountain Low'
-    , "Wish I Didn't"
-    , 'Wedding Dress'
-    , 'South Of Sanity'
-    , 'Wish Upon A Whiskey'
-    , 'Woman'
-    , 'Soon As I Get Home'
-    , 'Giving Her Away'
-    , 'Hate How You Look'
-    , 'Daytona 499'
     , "Killin' Me"
+    , 'Wedding Dress'
+    , "Wish I Didn't"
+    , 'South Of Sanity'
+    , 'Hate How You Look'
+    , 'Woman'
     , "Don't Tell On Me"
-    , 'Sunburn'
-    , 'Painted You Pretty'
     , "Girl You're Taking Home"
-    , 'The Way I Am'
-    , 'Alcohol Of Fame' # Combs
-    , 'My Kinda Saturday Night'
-    , 'Miss You Here'
+    , 'Painted You Pretty'
+    , 'Sunburn'
+    , 'Message To You'
+    , 'Me & A Beer'
+    , 'Chevy Silverado'
+    , "Get To Drinkin'"
+    , 'Country And She Knows It'
+    , 'Empty Words'
+    , 'Wish You Well'
     , 'Medicine'
-    , '15 Minutes'
+    , "If I Didn't Know You"
+    , 'Baby Blues'
+    , 'Soon As I Get Home'
 ]
