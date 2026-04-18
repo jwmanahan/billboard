@@ -1,4 +1,4 @@
-rankings = [ # 2026-04-07
+rankings = [ # 2026-04-14
     "Choosin' Texas"
     , 'Be Her'
     , 'Sleepless In A Hotel Room'
@@ -7,46 +7,46 @@ rankings = [ # 2026-04-07
     , '20 Cigarettes'
     , 'The Fall'
     , 'Change My Mind'
-    , 'Amen'
-    , 'Days Like These'
+    , "I Ain't Coming Back"
     , 'Brunette'
     , 'Loving Life Again'
-    , 'McArthur'
+    , 'Days Like These'
     , 'Dandelion'
-    , 'Rethink Some Things'
-    , "I Ain't Coming Back"
-    , "Time's Ticking"
-    , "What He'll Never Have"
     , "Ain't A Bad Life"
-    , 'Turn This Truck Around'
+    , 'McArthur'
+    , "What He'll Never Have"
     , 'Beautiful Things'
-    , 'Ends Of The Earth'
-    , "Don't We"
-    , "Travelin' Soldier"
+    , 'Turn This Truck Around'
     , 'Dry Spell'
-    , 'Plastic Cigarette'
-    , "Can't Sit Still"
+    , "Don't We"
+    , 'Rethink Some Things'
+    , "Travelin' Soldier"
+    , "Time's Ticking"
     , 'Say Why'
     , 'Rocky Mountain Low'
-    , "Killin' Me"
-    , 'Wedding Dress'
-    , "Wish I Didn't"
-    , 'South Of Sanity'
+    , 'Plastic Cigarette'
     , 'Hate How You Look'
-    , 'Woman'
-    , "Don't Tell On Me"
     , "Girl You're Taking Home"
-    , 'Painted You Pretty'
-    , 'Sunburn'
+    , 'Boston'
+    , "Can't Sit Still"
+    , 'Say So'
     , 'Message To You'
+    , "Don't Tell On Me"
+    , 'South Of Sanity'
+    , 'Empty Words'
+    , "Wish I Didn't"
+    , 'Woman'
+    , 'Wedding Dress'
+    , 'Painted You Pretty'
+    , "If I Don't Leave I'm Gonna Stay"
     , 'Me & A Beer'
+    , 'The Jesus I Know Now'
+    , 'Sunburn'
     , 'Chevy Silverado'
     , "Get To Drinkin'"
-    , 'Country And She Knows It'
-    , 'Empty Words'
     , 'Wish You Well'
-    , 'Medicine'
-    , "If I Didn't Know You"
+    , 'Borrowed Time'
     , 'Baby Blues'
-    , 'Soon As I Get Home'
+    , "If I Didn't Know You"
+    , "Wish I Didn't Know Now"
 ]

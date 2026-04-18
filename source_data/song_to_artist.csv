@@ -593,3 +593,10 @@ song_to_artist_pk,song_id,artist_id,relationship_type,relationship_conjunction,r
 474-Lead artist-,474,114,Lead artist,,,2026-04-07
 475-Lead artist-,475,38,Lead artist,,,2026-04-07
 476-Lead artist-,476,27,Lead artist,,,2026-04-07
+477-Lead artist-,477,159,Lead artist,,,2026-04-17
+478-Lead artist-,478,104,Lead artist,,,2026-04-17
+479-Lead artist-,479,23,Lead artist,,,2026-04-17
+479-Other main artist-1,479,39,Other main artist,&,1,2026-04-17
+480-Lead artist-,480,140,Lead artist,,,2026-04-17
+480-Other main artist-1,480,11,Other main artist,&,1,2026-04-17
+481-Lead artist-,481,121,Lead artist,,,2026-04-17
