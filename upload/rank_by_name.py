@@ -1,4 +1,4 @@
-rankings = [ # 2026-04-14
+rankings = [ # 2026-04-28
     "Choosin' Texas"
     , 'Be Her'
     , 'Sleepless In A Hotel Room'
@@ -6,47 +6,47 @@ rankings = [ # 2026-04-14
     , 'I Got Better'
     , '20 Cigarettes'
     , 'The Fall'
-    , 'Change My Mind'
-    , "I Ain't Coming Back"
-    , 'Brunette'
     , 'Loving Life Again'
-    , 'Days Like These'
+    , 'Bottom Of Your Boots'
+    , 'Change My Mind'
     , 'Dandelion'
-    , "Ain't A Bad Life"
-    , 'McArthur'
-    , "What He'll Never Have"
-    , 'Beautiful Things'
-    , 'Turn This Truck Around'
-    , 'Dry Spell'
-    , "Don't We"
-    , 'Rethink Some Things'
-    , "Travelin' Soldier"
-    , "Time's Ticking"
-    , 'Say Why'
-    , 'Rocky Mountain Low'
-    , 'Plastic Cigarette'
-    , 'Hate How You Look'
-    , "Girl You're Taking Home"
+    , "I Ain't Coming Back"
+    , 'Days Like These'
     , 'Boston'
-    , "Can't Sit Still"
-    , 'Say So'
-    , 'Message To You'
+    , 'Brunette'
+    , 'McArthur'
+    , "Don't We"
+    , 'Turn This Truck Around'
+    , 'Beautiful Things'
+    , 'Dry Spell'
+    , 'Broken'
+    , 'Hate How You Look'
+    , 'You & Me Time'
+    , 'Rethink Some Things'
     , "Don't Tell On Me"
-    , 'South Of Sanity'
-    , 'Empty Words'
-    , "Wish I Didn't"
     , 'Woman'
-    , 'Wedding Dress'
+    , 'I Want You'
+    , 'Rocky Mountain Low'
+    , 'We Know Us'
+    , 'Butterfly Season' # Add & Miranda Lambert
+    , 'My Way'
+    , 'Plastic Cigarette'
+    , 'Empty Words'
+    , 'South Of Sanity'
+    , "Can't Sit Still"
+    , "Somethin' Simple"
+    , 'Speaking Terms'
+    , 'Low Lights'
+    , "Girl You're Taking Home"
     , 'Painted You Pretty'
-    , "If I Don't Leave I'm Gonna Stay"
     , 'Me & A Beer'
-    , 'The Jesus I Know Now'
+    , 'Say Why'
+    , "Wish I Didn't"
+    , 'Wedding Dress'
+    , 'Message To You'
     , 'Sunburn'
+    , 'Last Call For Us'
+    , 'Kingdom Of Fear'
     , 'Chevy Silverado'
     , "Get To Drinkin'"
-    , 'Wish You Well'
-    , 'Borrowed Time'
-    , 'Baby Blues'
-    , "If I Didn't Know You"
-    , "Wish I Didn't Know Now"
 ]

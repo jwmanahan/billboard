@@ -596,7 +596,23 @@ song_to_artist_pk,song_id,artist_id,relationship_type,relationship_conjunction,r
 477-Lead artist-,477,159,Lead artist,,,2026-04-17
 478-Lead artist-,478,104,Lead artist,,,2026-04-17
 479-Lead artist-,479,23,Lead artist,,,2026-04-17
-479-Other main artist-1,479,39,Other main artist,&,1,2026-04-17
+479-Other main artist-1,479,39,Other main artist,&,1.0,2026-04-17
 480-Lead artist-,480,140,Lead artist,,,2026-04-17
-480-Other main artist-1,480,11,Other main artist,&,1,2026-04-17
+480-Other main artist-1,480,11,Other main artist,&,1.0,2026-04-17
 481-Lead artist-,481,121,Lead artist,,,2026-04-17
+482-Lead artist-,482,46,Lead artist,,,2026-04-22
+483-Lead artist-,483,46,Lead artist,,,2026-04-22
+484-Lead artist-,484,46,Lead artist,,,2026-04-22
+485-Lead artist-,485,46,Lead artist,,,2026-04-22
+486-Lead artist-,486,46,Lead artist,,,2026-04-22
+487-Lead artist-,487,46,Lead artist,,,2026-04-22
+488-Lead artist-,488,46,Lead artist,,,2026-04-22
+488-Other main artist-1,488,74,Other main artist,&,1.0,2026-04-29
+489-Lead artist-,489,46,Lead artist,,,2026-04-22
+490-Lead artist-,490,46,Lead artist,,,2026-04-22
+491-Lead artist-,491,46,Lead artist,,,2026-04-22
+492-Lead artist-,492,46,Lead artist,,,2026-04-22
+493-Lead artist-,493,46,Lead artist,,,2026-04-22
+494-Lead artist-,494,10,Lead artist,,,2026-04-29
+495-Lead artist-,495,39,Lead artist,,,2026-04-29
+496-Lead artist-,496,160,Lead artist,,,2026-04-29
