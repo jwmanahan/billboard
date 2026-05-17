@@ -1,52 +1,52 @@
-rankings = [ # 2026-04-28
+rankings = [ # 2026-05-12
     "Choosin' Texas"
     , 'Be Her'
+    , "I Can't Love You Anymore"
     , 'Sleepless In A Hotel Room'
     , 'Be By You'
     , 'I Got Better'
-    , '20 Cigarettes'
+    , 'Boston'
     , 'The Fall'
     , 'Loving Life Again'
-    , 'Bottom Of Your Boots'
     , 'Change My Mind'
+    , 'Brunette'
+    , 'Bottom Of Your Boots'
     , 'Dandelion'
     , "I Ain't Coming Back"
-    , 'Days Like These'
-    , 'Boston'
-    , 'Brunette'
-    , 'McArthur'
-    , "Don't We"
-    , 'Turn This Truck Around'
-    , 'Beautiful Things'
     , 'Dry Spell'
-    , 'Broken'
-    , 'Hate How You Look'
-    , 'You & Me Time'
+    , "Don't We"
+    , 'McArthur'
+    , 'Beautiful Things'
+    , 'Turn This Truck Around'
     , 'Rethink Some Things'
     , "Don't Tell On Me"
+    , 'Hate How You Look'
+    , 'Horses And Divorces'
     , 'Woman'
-    , 'I Want You'
+    , 'Damned If I Do'
     , 'Rocky Mountain Low'
-    , 'We Know Us'
-    , 'Butterfly Season' # Add & Miranda Lambert
-    , 'My Way'
-    , 'Plastic Cigarette'
+    , 'Broken'
     , 'Empty Words'
-    , 'South Of Sanity'
+    , 'Butterfly Season'
+    , 'Sunburn'
+    , 'My Way'
+    , 'Middle Of Nowhere'
     , "Can't Sit Still"
-    , "Somethin' Simple"
-    , 'Speaking Terms'
-    , 'Low Lights'
-    , "Girl You're Taking Home"
+    , 'Plastic Cigarette'
+    , 'South Of Sanity'
+    , 'Loneliest Girl'
+    , 'You & Me Time'
+    , 'Born To Die'
+    , "Get To Drinkin'"
     , 'Painted You Pretty'
     , 'Me & A Beer'
-    , 'Say Why'
-    , "Wish I Didn't"
-    , 'Wedding Dress'
-    , 'Message To You'
-    , 'Sunburn'
-    , 'Last Call For Us'
-    , 'Kingdom Of Fear'
     , 'Chevy Silverado'
-    , "Get To Drinkin'"
+    , 'I Want You'
+    , 'Back On The Wagon (2026)' # Spotify doesn't have the parenthetical
+    , "Wish I Didn't"
+    , 'I Know I Know'
+    , 'Mexico Honey'
+    , 'Say Why'
+    , 'I Believe In Ghosts'
+    , 'Uncertain, TX'
 ]

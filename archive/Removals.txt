@@ -1,4 +1,23 @@
 
+// Left on May 12
+, 'We Know Us'
+, 'Demons In Your Choir'
+, "Somethin' Simple"
+, 'Wish You Well'
+, 'Low Lights'
+, 'Speaking Terms'
+, "If I Don't Leave I'm Gonna Stay"
+, 'Kingdom Of Fear'
+, "No Need For Leavin'"
+
+// Left on May 5
+, '20 Cigarettes'
+, 'Days Like These'
+, "Girl You're Taking Home"
+, 'Wedding Dress'
+, 'Message To You'
+, 'Last Call For Us'
+
 // Left on Apr 28
 , "What He'll Never Have"
 , 'I Gotta Quit'

@@ -616,3 +616,18 @@ song_to_artist_pk,song_id,artist_id,relationship_type,relationship_conjunction,r
 494-Lead artist-,494,10,Lead artist,,,2026-04-29
 495-Lead artist-,495,39,Lead artist,,,2026-04-29
 496-Lead artist-,496,160,Lead artist,,,2026-04-29
+497-Lead artist-,497,46,Lead artist,,,2026-05-07
+497-Other main artist-1,497,2,Other main artist,&,1.0,2026-05-07
+498-Lead artist-,498,25,Lead artist,,,2026-05-07
+499-Lead artist-,499,17,Lead artist,,,2026-05-07
+500-Lead artist-,500,73,Lead artist,,,2026-05-07
+501-Lead artist-,501,30,Lead artist,,,2026-05-16
+501-Featured artist-1,501,74,Featured artist,,1,2026-05-16
+502-Lead artist-,502,30,Lead artist,,,2026-05-16
+503-Lead artist-,503,30,Lead artist,,,2026-05-16
+504-Lead artist-,504,30,Lead artist,,,2026-05-16
+505-Lead artist-,505,159,Lead artist,,,2026-05-16
+506-Lead artist-,506,30,Lead artist,,,2026-05-16
+507-Lead artist-,507,30,Lead artist,,,2026-05-16
+508-Lead artist-,508,30,Lead artist,,,2026-05-16
+508-Featured artist-1,508,161,Featured artist,,1,2026-05-16
