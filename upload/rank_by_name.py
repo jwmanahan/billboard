@@ -1,52 +1,52 @@
-rankings = [ # 2026-05-12
+rankings = [ # 2026-05-19
     "Choosin' Texas"
     , 'Be Her'
     , "I Can't Love You Anymore"
     , 'Sleepless In A Hotel Room'
-    , 'Be By You'
-    , 'I Got Better'
     , 'Boston'
+    , 'Be By You'
     , 'The Fall'
-    , 'Loving Life Again'
+    , 'I Got Better'
     , 'Change My Mind'
+    , 'Loving Life Again'
     , 'Brunette'
-    , 'Bottom Of Your Boots'
     , 'Dandelion'
-    , "I Ain't Coming Back"
-    , 'Dry Spell'
+    , 'Bottom Of Your Boots'
     , "Don't We"
+    , "I Ain't Coming Back"
+    , 'Turn This Truck Around'
+    , 'Dry Spell'
     , 'McArthur'
     , 'Beautiful Things'
-    , 'Turn This Truck Around'
-    , 'Rethink Some Things'
-    , "Don't Tell On Me"
     , 'Hate How You Look'
-    , 'Horses And Divorces'
+    , "Don't Tell On Me"
+    , 'Rethink Some Things'
     , 'Woman'
     , 'Damned If I Do'
     , 'Rocky Mountain Low'
-    , 'Broken'
-    , 'Empty Words'
-    , 'Butterfly Season'
     , 'Sunburn'
     , 'My Way'
-    , 'Middle Of Nowhere'
-    , "Can't Sit Still"
-    , 'Plastic Cigarette'
+    , 'Empty Words'
     , 'South Of Sanity'
-    , 'Loneliest Girl'
-    , 'You & Me Time'
-    , 'Born To Die'
-    , "Get To Drinkin'"
-    , 'Painted You Pretty'
-    , 'Me & A Beer'
-    , 'Chevy Silverado'
-    , 'I Want You'
-    , 'Back On The Wagon (2026)' # Spotify doesn't have the parenthetical
-    , "Wish I Didn't"
+    , "Can't Sit Still"
+    , 'Carry On'
+    , 'Broken'
+    , 'Butterfly Season'
     , 'I Know I Know'
+    , "Get To Drinkin'"
+    , 'Plastic Cigarette'
+    , 'Chevy Silverado'
+    , 'Horses And Divorces'
+    , 'Painted You Pretty'
+    , 'Born To Die'
+    , 'You & Me Time'
+    , 'Me & A Beer'
     , 'Mexico Honey'
+    , 'Kingdom Of Fear'
+    , 'Wish You Well'
+    , "No Need For Leavin'"
+    , 'Loneliest Girl'
     , 'Say Why'
-    , 'I Believe In Ghosts'
-    , 'Uncertain, TX'
+    , "If I Don't Leave I'm Gonna Stay"
+    , "Wish I Didn't"
 ]
