@@ -1,52 +1,52 @@
-rankings = [ # 2026-05-19
+rankings = [ # 2026-05-27
     "Choosin' Texas"
     , 'Be Her'
     , "I Can't Love You Anymore"
-    , 'Sleepless In A Hotel Room'
     , 'Boston'
-    , 'Be By You'
-    , 'The Fall'
-    , 'I Got Better'
+    , 'Sleepless In A Hotel Room'
     , 'Change My Mind'
     , 'Loving Life Again'
+    , 'Be By You'
     , 'Brunette'
+    , 'The Fall'
+    , "Don't We"
     , 'Dandelion'
     , 'Bottom Of Your Boots'
-    , "Don't We"
-    , "I Ain't Coming Back"
     , 'Turn This Truck Around'
-    , 'Dry Spell'
-    , 'McArthur'
-    , 'Beautiful Things'
-    , 'Hate How You Look'
     , "Don't Tell On Me"
-    , 'Rethink Some Things'
+    , 'Hate How You Look'
+    , 'Beautiful Things'
+    , 'McArthur'
+    , 'Dry Spell'
     , 'Woman'
-    , 'Damned If I Do'
-    , 'Rocky Mountain Low'
-    , 'Sunburn'
+    , 'Rethink Some Things'
     , 'My Way'
-    , 'Empty Words'
-    , 'South Of Sanity'
+    , 'Damned If I Do'
+    , 'Sunburn'
+    , 'Rocky Mountain Low'
     , "Can't Sit Still"
-    , 'Carry On'
-    , 'Broken'
-    , 'Butterfly Season'
-    , 'I Know I Know'
-    , "Get To Drinkin'"
-    , 'Plastic Cigarette'
-    , 'Chevy Silverado'
-    , 'Horses And Divorces'
-    , 'Painted You Pretty'
-    , 'Born To Die'
-    , 'You & Me Time'
-    , 'Me & A Beer'
-    , 'Mexico Honey'
-    , 'Kingdom Of Fear'
-    , 'Wish You Well'
+    , 'South Of Sanity'
+    , 'Something To Lose'
+    , 'Empty Words'
+    , 'Traitor (Roles Reversed)'
     , "No Need For Leavin'"
+    , 'Mexico Honey'
+    , "Get To Drinkin'"
+    , 'Butterfly Season'
+    , 'Chevy Silverado'
+    , 'Broken'
+    , 'I Know I Know'
+    , 'Me & A Beer'
+    , 'Painted You Pretty'
+    , 'Say So'
+    , 'Kingdom Of Fear'
+    , 'You & Me Time'
+    , 'Born To Die'
+    , 'Wish You Well'
     , 'Loneliest Girl'
-    , 'Say Why'
-    , "If I Don't Leave I'm Gonna Stay"
+    , 'Plastic Cigarette'
     , "Wish I Didn't"
+    , "If I Don't Leave I'm Gonna Stay"
+    , 'Country And She Knows It'
+    , 'Medicine'
 ]
