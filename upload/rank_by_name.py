@@ -1,52 +1,52 @@
-rankings = [ # 2026-06-02
+rankings = [ # 2026-06-09
     "Choosin' Texas"
     , 'Be Her'
     , "I Can't Love You Anymore"
     , 'Boston'
-    , 'Sleepless In A Hotel Room'
     , 'Change My Mind'
     , 'Be By You'
+    , 'Sleepless In A Hotel Room'
     , 'Loving Life Again'
-    , 'Brunette'
     , "Don't We"
+    , 'Brunette'
     , 'Turn This Truck Around'
     , 'Dandelion'
-    , 'Bottom Of Your Boots'
     , "Don't Tell On Me"
     , 'Hate How You Look'
-    , 'Dry Spell'
     , 'Beautiful Things'
-    , 'McArthur'
-    , 'Woman'
-    , 'Rethink Some Things'
+    , 'Bottom Of Your Boots'
     , 'My Way'
+    , 'Dry Spell'
+    , 'Woman'
+    , 'McArthur'
+    , 'Rethink Some Things'
+    , 'Mexico Honey'
+    , 'Something To Lose'
+    , 'Think As You Drunk'
     , 'Damned If I Do'
     , 'Sunburn'
-    , 'Something To Lose'
-    , 'Mexico Honey'
+    , 'Empty Words'
     , 'Rocky Mountain Low'
     , "Can't Sit Still"
-    , 'Empty Words'
-    , "No Need For Leavin'"
+    , 'I Want You'
     , "Get To Drinkin'"
+    , "No Need For Leavin'"
     , 'South Of Sanity'
     , 'Chevy Silverado'
     , 'Kingdom Of Fear'
-    , 'Butterfly Season'
-    , 'Traitor (Roles Reversed)'
-    , 'Me & A Beer'
-    , 'Broken'
+    , 'Born To Die'
     , 'Carry On'
     , 'Say So'
     , 'Painted You Pretty'
-    , 'I Know I Know'
-    , 'Plastic Cigarette'
+    , 'Butterfly Season'
+    , 'Broken'
     , "Wish I Didn't"
+    , 'Cheap Thrills'
+    , 'Traitor (Roles Reversed)'
+    , 'Medicine'
     , "If I Don't Leave I'm Gonna Stay"
-    , 'Wish You Well'
-    , 'Born To Die'
-    , 'You & Me Time'
-    , 'Ride, Ride, Ride'
+    , 'I Know I Know'
     , 'Country And She Knows It'
-    , 'Say Why'
+    , 'Ride, Ride, Ride'
+    , "Thinking 'bout You"
 ]
