@@ -1,52 +1,52 @@
-rankings = [ # 2026-06-09
-    "Choosin' Texas"
+rankings = [ # 2026-06-23
+    'I Knew It, I Knew You'
+    , "Choosin' Texas"
     , 'Be Her'
     , "I Can't Love You Anymore"
     , 'Boston'
-    , 'Change My Mind'
     , 'Be By You'
+    , "Don't We"
     , 'Sleepless In A Hotel Room'
     , 'Loving Life Again'
-    , "Don't We"
-    , 'Brunette'
-    , 'Turn This Truck Around'
-    , 'Dandelion'
+    , 'Change My Mind'
     , "Don't Tell On Me"
     , 'Hate How You Look'
+    , 'Mexico Honey'
     , 'Beautiful Things'
+    , 'Dandelion'
+    , 'Something To Lose'
+    , 'McArthur'
     , 'Bottom Of Your Boots'
     , 'My Way'
-    , 'Dry Spell'
     , 'Woman'
-    , 'McArthur'
     , 'Rethink Some Things'
-    , 'Mexico Honey'
-    , 'Something To Lose'
-    , 'Think As You Drunk'
     , 'Damned If I Do'
+    , "Phone, Keys, Wallet"
     , 'Sunburn'
-    , 'Empty Words'
     , 'Rocky Mountain Low'
-    , "Can't Sit Still"
-    , 'I Want You'
-    , "Get To Drinkin'"
-    , "No Need For Leavin'"
-    , 'South Of Sanity'
+    , 'Empty Words'
     , 'Chevy Silverado'
     , 'Kingdom Of Fear'
-    , 'Born To Die'
+    , 'Hurts Like You'
+    , 'Cowgirl' # Shaboozey
+    , 'I Want You'
+    , 'Dry Spell'
+    , "No Need For Leavin'"
+    , "Get To Drinkin'"
     , 'Carry On'
-    , 'Say So'
+    , 'Think As You Drunk'
+    , 'South Of Sanity'
     , 'Painted You Pretty'
+    , "Demons In Your Choir"
+    , 'Say So'
+    , 'Horseback'
     , 'Butterfly Season'
-    , 'Broken'
-    , "Wish I Didn't"
-    , 'Cheap Thrills'
-    , 'Traitor (Roles Reversed)'
-    , 'Medicine'
-    , "If I Don't Leave I'm Gonna Stay"
-    , 'I Know I Know'
+    , "Thinking 'bout You"
+    , "Kid Myself"
+    , "All My Exes"
     , 'Country And She Knows It'
     , 'Ride, Ride, Ride'
-    , "Thinking 'bout You"
+    , 'Medicine'
+    , 'String By'
+    , 'Broken'
 ]
