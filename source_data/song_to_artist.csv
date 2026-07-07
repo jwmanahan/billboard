@@ -649,3 +649,4 @@ song_to_artist_pk,song_id,artist_id,relationship_type,relationship_conjunction,r
 520-Featured artist-1,520,18,Featured artist,,1.0,2026-06-18
 521-Lead artist-,521,16,Lead artist,,,2026-06-25
 522-Lead artist-,522,10,Lead artist,,,2026-06-25
+523-Lead artist-,523,122,Lead artist,,,2026-07-03

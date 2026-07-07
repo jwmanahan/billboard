@@ -1,6 +1,6 @@
-rankings = [ # 2026-06-23
-    'I Knew It, I Knew You'
-    , "Choosin' Texas"
+rankings = [ # 2026-06-30
+    "Choosin' Texas"
+    , 'I Knew It, I Knew You'
     , 'Be Her'
     , "I Can't Love You Anymore"
     , 'Boston'
@@ -17,36 +17,36 @@ rankings = [ # 2026-06-23
     , 'Something To Lose'
     , 'McArthur'
     , 'Bottom Of Your Boots'
-    , 'My Way'
     , 'Woman'
-    , 'Rethink Some Things'
+    , 'My Way'
     , 'Damned If I Do'
+    , 'Rethink Some Things'
     , "Phone, Keys, Wallet"
-    , 'Sunburn'
     , 'Rocky Mountain Low'
-    , 'Empty Words'
+    , 'Sunburn'
     , 'Chevy Silverado'
+    , 'Empty Words'
     , 'Kingdom Of Fear'
-    , 'Hurts Like You'
+    , 'Carry On'
     , 'Cowgirl' # Shaboozey
-    , 'I Want You'
-    , 'Dry Spell'
     , "No Need For Leavin'"
     , "Get To Drinkin'"
-    , 'Carry On'
-    , 'Think As You Drunk'
     , 'South Of Sanity'
-    , 'Painted You Pretty'
+    , 'Think As You Drunk'
+    , 'I Want You'
+    , 'Dry Spell'
     , "Demons In Your Choir"
+    , 'Painted You Pretty'
+    , 'Hurts Like You'
+    , 'String By'
     , 'Say So'
-    , 'Horseback'
     , 'Butterfly Season'
-    , "Thinking 'bout You"
+    , 'Country And She Knows It'
     , "Kid Myself"
     , "All My Exes"
-    , 'Country And She Knows It'
     , 'Ride, Ride, Ride'
-    , 'Medicine'
-    , 'String By'
+    , 'Blood Runs Thicker'
     , 'Broken'
+    , "Thinking 'bout You"
+    , 'Medicine'
 ]
