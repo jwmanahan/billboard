@@ -1,52 +1,52 @@
-rankings = [ # 2026-07-14
+rankings = [ # 2026-07-21
     "Choosin' Texas"
     , 'I Knew It, I Knew You'
     , 'Be Her'
-    , "I Can't Love You Anymore"
     , 'Boston'
+    , "I Can't Love You Anymore"
     , "Don't We"
     , 'Be By You'
     , 'Sleepless In A Hotel Room'
     , "Don't Tell On Me"
-    , 'Change My Mind'
     , 'Loving Life Again'
-    , 'Mexico Honey'
     , 'Something To Lose'
+    , 'Mexico Honey'
     , 'Hate How You Look'
-    , 'McArthur'
+    , "Phone, Keys, Wallet"
     , 'Woman'
-    , 'Dandelion'
-    , 'Rocky Mountain Low'
-    , 'My Way'
-    , 'Damned If I Do'
     , 'Rethink Some Things'
+    , 'McArthur'
+    , 'Dandelion'
+    , 'Chevy Silverado'
+    , 'Think As You Drunk'
+    , 'Damned If I Do'
+    , 'Carry On'
     , 'Bottom Of Your Boots'
     , 'I Want You'
-    , 'Chevy Silverado'
-    , 'Kingdom Of Fear'
-    , 'Carry On'
-    , "Phone, Keys, Wallet"
+    , 'Who Told You That'
     , 'Empty Words'
-    , 'Cowgirl' # Shaboozey
-    , 'Another Drink'
-    , 'Sunburn'
     , "No Need For Leavin'"
-    , 'Dry Spell'
     , 'South Of Sanity'
-    , 'Think As You Drunk'
-    , "Get To Drinkin'"
+    , 'Cowgirl' # Shaboozey
+    , 'Kingdom Of Fear'
+    , 'Sunburn'
+    , 'Another Drink'
+    , 'Dry Spell'
+    , 'My Way'
     , 'Painted You Pretty'
     , 'Hands Up'
     , 'Bet On That'
+    , "Get To Drinkin'"
     , 'Hurts Like You'
-    , "Demons In Your Choir"
-    , 'Country And She Knows It'
     , "Kid Myself"
-    , 'String By'
+    , 'Country And She Knows It'
     , 'Say So'
-    , 'Go Again'
-    , 'All My Exes'
     , 'Ride, Ride, Ride'
+    , "Demons In Your Choir"
+    , 'String By'
+    , 'All My Exes'
     , "Killin' Me"
-    , 'Marry You Again'
+    , 'Go Again'
+    , 'What You Want'
+    , 'Medicine'
 ]

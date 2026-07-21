@@ -657,5 +657,7 @@ song_to_artist_pk,song_id,artist_id,relationship_type,relationship_conjunction,r
 526-Lead artist-,526,5,Lead artist,,,2026-07-07
 527-Lead artist-,527,162,Lead artist,,,2026-07-07
 528-Lead artist-,528,39,Lead artist,,,2026-07-17
-528-Featured artist-1,528,163,Featured artist,,1,2026-07-17
+528-Featured artist-1,528,163,Featured artist,,1.0,2026-07-17
 529-Lead artist-,529,104,Lead artist,,,2026-07-17
+530-Lead artist-,530,9,Lead artist,,,2026-07-21
+531-Lead artist-,531,151,Lead artist,,,2026-07-21
