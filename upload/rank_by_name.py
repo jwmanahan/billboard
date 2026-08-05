@@ -1,52 +1,52 @@
-rankings = [ # 2026-07-28
+rankings = [ # 2026-08-04
     "Choosin' Texas"
+    , "Been By Now"
     , 'I Knew It, I Knew You'
-    , 'Boston'
     , "I Can't Love You Anymore"
+    , 'Boston'
     , 'Be Her'
     , "Don't We"
     , 'Be By You'
-    , "Don't Tell On Me"
     , 'Loving Life Again'
     , 'Sleepless In A Hotel Room'
-    , 'Something To Lose'
+    , "Don't Tell On Me"
     , 'Mexico Honey'
-    , 'Chevy Silverado'
-    , 'Woman'
+    , 'Something To Lose'
     , 'Rethink Some Things'
+    , 'Woman'
+    , 'Chevy Silverado'
     , 'Hate How You Look'
     , "Phone, Keys, Wallet"
+    , 'Carry On'
     , 'McArthur'
     , 'Dandelion'
     , 'Cowgirl' # Shaboozey
-    , 'Think As You Drunk'
-    , 'Carry On'
-    , 'I Want You'
-    , 'Damned If I Do'
     , 'Bottom Of Your Boots'
-    , 'South Of Sanity'
+    , 'Think As You Drunk'
+    , 'I Want You'
     , 'Empty Words'
+    , 'South Of Sanity'
     , "No Need For Leavin'"
-    , 'Kingdom Of Fear'
-    , 'Hands Up'
     , 'Sunburn'
-    , 'Another Drink'
-    , 'My Way'
-    , 'Painted You Pretty'
-    , 'Dry Spell'
+    , 'Hands Up'
     , 'Bet On That'
-    , "Get To Drinkin'"
-    , "Kid Myself"
+    , 'My Way'
+    , 'Kingdom Of Fear'
+    , 'Another Drink'
     , 'Country And She Knows It'
-    , 'String By'
+    , 'Painted You Pretty'
+    , "Kid Myself"
+    , 'Dry Spell'
     , 'Hurts Like You'
-    , 'Who Told You That'
     , 'All My Exes'
+    , "Get To Drinkin'"
+    , 'String By'
     , 'Ride, Ride, Ride'
+    , "Take Me Back (Leave Me There)"
     , 'Say So'
+    , 'Who Told You That'
     , "Killin' Me"
     , 'Medicine'
-    , "Wish I Didn't Know Now" # Langley
-    , 'What You Want'
-    , "Take Me Back (Leave Me There)"
+    , "Nothin' Better To Do"
+    , "Burn It Down" # Shaboozey
 ]
