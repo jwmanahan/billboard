@@ -1,52 +1,52 @@
-rankings = [ # 2026-08-04
+rankings = [ # 2026-08-11
     "Choosin' Texas"
     , "Been By Now"
     , 'I Knew It, I Knew You'
-    , "I Can't Love You Anymore"
     , 'Boston'
+    , "I Can't Love You Anymore"
     , 'Be Her'
-    , "Don't We"
     , 'Be By You'
+    , "Don't We"
     , 'Loving Life Again'
     , 'Sleepless In A Hotel Room'
+    , 'Cowgirl' # Shaboozey
     , "Don't Tell On Me"
     , 'Mexico Honey'
+    , "Phone, Keys, Wallet"
     , 'Something To Lose'
     , 'Rethink Some Things'
-    , 'Woman'
     , 'Chevy Silverado'
+    , 'Woman'
     , 'Hate How You Look'
-    , "Phone, Keys, Wallet"
     , 'Carry On'
     , 'McArthur'
-    , 'Dandelion'
-    , 'Cowgirl' # Shaboozey
-    , 'Bottom Of Your Boots'
     , 'Think As You Drunk'
-    , 'I Want You'
+    , 'Bottom Of Your Boots'
     , 'Empty Words'
+    , 'Another Drink'
     , 'South Of Sanity'
-    , "No Need For Leavin'"
     , 'Sunburn'
     , 'Hands Up'
-    , 'Bet On That'
-    , 'My Way'
-    , 'Kingdom Of Fear'
-    , 'Another Drink'
-    , 'Country And She Knows It'
-    , 'Painted You Pretty'
+    , "No Need For Leavin'"
+    , 'String By'
     , "Kid Myself"
+    , 'Painted You Pretty'
+    , 'Country And She Knows It'
+    , 'My Way'
+    , 'Bet On That'
+    , "Get To Drinkin'"
+    , 'Kingdom Of Fear'
+    , 'All My Exes'
     , 'Dry Spell'
     , 'Hurts Like You'
-    , 'All My Exes'
-    , "Get To Drinkin'"
-    , 'String By'
-    , 'Ride, Ride, Ride'
-    , "Take Me Back (Leave Me There)"
-    , 'Say So'
     , 'Who Told You That'
-    , "Killin' Me"
+    , "Bullets & Blades"
+    , "Take Me Back (Leave Me There)"
+    , 'I Want You'
+    , 'Ride, Ride, Ride'
+    , 'Say So'
     , 'Medicine'
+    , "Killin' Me"
     , "Nothin' Better To Do"
     , "Burn It Down" # Shaboozey
 ]
