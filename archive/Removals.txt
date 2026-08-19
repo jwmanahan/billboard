@@ -1,5 +1,10 @@
 
-//
+// Left on August 18
+, 'Sleepless In A Hotel Room'
+, 'Sunburn'
+, 'Dry Spell'
+, "Bullets & Blades"
+, "Burn It Down" # Shaboozey
 
 // Left on August 11
 , 'Dandelion'
