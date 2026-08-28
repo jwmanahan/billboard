@@ -1,52 +1,52 @@
-rankings = [ # 2026-08-18
+rankings = [ # 2026-08-25
     "Choosin' Texas"
+    , 'Boston'
     , 'I Knew It, I Knew You'
     , "Been By Now"
-    , 'Boston'
     , "I Can't Love You Anymore"
     , 'Be Her'
     , 'Be By You'
     , 'Jaded'
     , "Don't We"
     , 'Loving Life Again'
-    , 'Mexico Honey'
+    , 'Chevy Silverado'
     , 'Cowgirl' # Shaboozey
     , 'Something To Lose'
+    , "Take Me Back (Leave Me There)"
     , "Phone, Keys, Wallet"
-    , 'Chevy Silverado'
-    , 'Rethink Some Things'
-    , "Don't Tell On Me"
     , 'Woman'
+    , 'Rethink Some Things'
+    , 'Mexico Honey'
+    , "Don't Tell On Me"
     , 'Hate How You Look'
     , 'Carry On'
+    , 'Another Drink'
     , 'Think As You Drunk'
     , 'McArthur'
     , 'Empty Words'
-    , 'Another Drink'
     , 'South Of Sanity'
     , 'Bottom Of Your Boots'
     , 'String By'
     , "No Need For Leavin'"
-    , "Take Me Back (Leave Me There)"
     , 'Hands Up'
-    , 'Bet On That'
     , "Kid Myself"
-    , 'Country And She Knows It'
+    , 'Bet On That'
     , 'Painted You Pretty'
     , 'All My Exes'
+    , 'Country And She Knows It'
     , 'Kingdom Of Fear'
     , "Get To Drinkin'"
     , 'My Way'
-    , 'I Want You'
     , 'Ride, Ride, Ride'
-    , 'Who Told You That'
+    , 'I Want You'
     , 'Say So'
-    , "What You Want"
     , 'Medicine'
-    , "Lean In, Kiss Me"
+    , "What You Want"
     , "Killin' Me"
+    , "Crazy To Yourself"
     , 'Hurts Like You'
-    , "Imagine That"
-    , "Nothin' Better To Do"
-    , "I Know I Know"
+    , "Pouring"
+    , "Lean In, Kiss Me"
+    , 'Who Told You That'
+    , "Wish I Didn't Know Now" # Langley
 ]
