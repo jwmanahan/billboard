@@ -1,52 +1,52 @@
-rankings = [ # 2026-09-01
+rankings = [ # 2026-09-09
     "Choosin' Texas"
     , 'Boston'
     , 'I Knew It, I Knew You'
     , "Been By Now"
-    , "I Can't Love You Anymore"
     , 'Be Her'
-    , "Jolene" # Parton, 19 prior wks
-    , "9 to 5" # Parton, 14 prior
+    , "I Can't Love You Anymore"
     , 'Be By You'
+    , "9 to 5"
+    , "Jolene" # Parton
     , 'Jaded'
-    , "Islands In The Stream" # Rogers Duet With Parton, 24 prior
-    , "I Will Always Love You" # Parton, 15 prior
     , 'Loving Life Again'
-    , "Here You Come Again" # Parton, 19 prior
-    , 'Something To Lose'
-    , 'Woman'
-    , 'Cowgirl' # Shaboozey
-    , 'Rethink Some Things'
+    , "Islands In The Stream"
     , "Take Me Back (Leave Me There)"
+    , 'Cowgirl' # Shaboozey
+    , "I Will Always Love You"
+    , 'Something To Lose'
+    , 'Rethink Some Things'
     , "Phone, Keys, Wallet"
-    , "Coat Of Many Colors" # Parton, 16 prior
+    , 'Woman'
     , 'Mexico Honey'
-    , "Don't Tell On Me"
     , 'Carry On'
-    , 'Another Drink'
     , 'Think As You Drunk'
+    , "Here You Come Again"
+    , 'Another Drink'
     , 'McArthur'
     , 'Empty Words'
     , 'South Of Sanity'
-    , 'Bottom Of Your Boots'
-    , 'String By'
-    , "No Need For Leavin'"
     , "Kid Myself"
     , 'All My Exes'
     , 'Painted You Pretty'
     , 'Hands Up'
-    , 'Bet On That'
     , 'Country And She Knows It'
-    , 'Kingdom Of Fear'
+    , 'String By'
+    , "No Need For Leavin'"
     , "Get To Drinkin'"
+    , 'Bet On That'
+    , 'Kingdom Of Fear'
     , 'My Way'
+    , 'Say So'
+    , 'Medicine'
+    , "What You Want"
     , "Pouring"
     , "Lean In, Kiss Me"
+    , "I Want You"
+    , "Killin' Me"
+    , "Who Told You That"
     , 'Ride, Ride, Ride'
-    , 'Say So'
-    , 'I Want You'
-    , "What You Want"
-    , "Summer You Were Mine" # Lefty
-    , 'Medicine'
-    , "Good Girls & Cowgirls" # Top
+    , "How To Not"
+    , "Hurts Like You"
+    , "That's Just Me"
 ]

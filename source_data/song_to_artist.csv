@@ -679,9 +679,11 @@ song_to_artist_pk,song_id,artist_id,relationship_type,relationship_conjunction,r
 542-Lead artist-,542,61,Lead artist,,,2026-09-07
 543-Lead artist-,543,61,Lead artist,,,2026-09-07
 544-Lead artist-,544,167,Lead artist,,,2026-09-07
-544-Other main artist-1,544,61,Other main artist,Duet With,1,2026-09-07
+544-Other main artist-1,544,61,Other main artist,Duet With,1.0,2026-09-07
 545-Lead artist-,545,61,Lead artist,,,2026-09-07
 546-Lead artist-,546,61,Lead artist,,,2026-09-07
 547-Lead artist-,547,61,Lead artist,,,2026-09-07
 548-Lead artist-,548,159,Lead artist,,,2026-09-07
 549-Lead artist-,549,53,Lead artist,,,2026-09-07
+550-Lead artist-,550,158,Lead artist,,,2026-09-10
+551-Lead artist-,551,39,Lead artist,,,2026-09-10
