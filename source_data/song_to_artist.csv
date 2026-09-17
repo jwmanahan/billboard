@@ -687,3 +687,10 @@ song_to_artist_pk,song_id,artist_id,relationship_type,relationship_conjunction,r
 549-Lead artist-,549,53,Lead artist,,,2026-09-07
 550-Lead artist-,550,158,Lead artist,,,2026-09-10
 551-Lead artist-,551,39,Lead artist,,,2026-09-10
+552-Lead artist-,552,20,Lead artist,,,2026-09-15
+552-Featured artist-1,552,168,Featured artist,,1,2026-09-15
+553-Lead artist-,553,169,Lead artist,,,2026-09-15
+553-Other main artist-1,553,12,Other main artist,&,1,2026-09-15
+554-Lead artist-,554,139,Lead artist,,,2026-09-15
+555-Lead artist-,555,170,Lead artist,,,2026-09-15
+556-Lead artist-,556,75,Lead artist,,,2026-09-15

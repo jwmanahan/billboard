@@ -1,4 +1,4 @@
-rankings = [ # 2026-09-09
+rankings = [ # 2026-09-15
     "Choosin' Texas"
     , 'Boston'
     , 'I Knew It, I Knew You'
@@ -6,47 +6,47 @@ rankings = [ # 2026-09-09
     , 'Be Her'
     , "I Can't Love You Anymore"
     , 'Be By You'
-    , "9 to 5"
-    , "Jolene" # Parton
     , 'Jaded'
     , 'Loving Life Again'
-    , "Islands In The Stream"
     , "Take Me Back (Leave Me There)"
-    , 'Cowgirl' # Shaboozey
-    , "I Will Always Love You"
-    , 'Something To Lose'
+    , "9 to 5"
     , 'Rethink Some Things'
+    , 'Cowgirl' # Shaboozey
+    , "Jolene" # Parton
+    , 'Something To Lose'
     , "Phone, Keys, Wallet"
-    , 'Woman'
-    , 'Mexico Honey'
     , 'Carry On'
+    , 'Mexico Honey'
     , 'Think As You Drunk'
-    , "Here You Come Again"
     , 'Another Drink'
-    , 'McArthur'
     , 'Empty Words'
-    , 'South Of Sanity'
+    , 'McArthur'
+    , 'String By'
     , "Kid Myself"
+    , 'Woman'
+    , 'South Of Sanity'
     , 'All My Exes'
     , 'Painted You Pretty'
-    , 'Hands Up'
     , 'Country And She Knows It'
-    , 'String By'
+    , 'Hands Up'
+    , 'Bet On That'
     , "No Need For Leavin'"
     , "Get To Drinkin'"
-    , 'Bet On That'
     , 'Kingdom Of Fear'
-    , 'My Way'
     , 'Say So'
+    , "Boots"
     , 'Medicine'
     , "What You Want"
-    , "Pouring"
-    , "Lean In, Kiss Me"
-    , "I Want You"
     , "Killin' Me"
     , "Who Told You That"
-    , 'Ride, Ride, Ride'
-    , "How To Not"
-    , "Hurts Like You"
+    , "Pouring"
     , "That's Just Me"
+    , "I Want You"
+    , "How To Not"
+    , "Here"
+    , "Wish I Didn't Know Now" # Langley
+    , "Hurts Like You"
+    , "Boots Off"
+    , "Water At A Wedding"
+    , "Mess"
 ]
