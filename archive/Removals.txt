@@ -1,4 +1,18 @@
 
+
+// Left Sept 22
+, 'Woman'
+, "How To Not"
+, "Mess"
+
+// Left on Sept 15
+, "Islands In The Stream"
+, "Here You Come Again"
+, "I Will Always Love You"
+, 'My Way'
+, "Lean In, Kiss Me"
+, 'Ride, Ride, Ride'
+
 // Left on Sept 9
 , "Coat Of Many Colors"
 , "Don't Tell On Me"

@@ -1,52 +1,52 @@
-rankings = [ # 2026-09-15
+rankings = [ # 2026-09-22
     "Choosin' Texas"
     , 'Boston'
-    , 'I Knew It, I Knew You'
     , "Been By Now"
+    , 'I Knew It, I Knew You'
     , 'Be Her'
     , "I Can't Love You Anymore"
     , 'Be By You'
-    , 'Jaded'
     , 'Loving Life Again'
+    , 'Jaded'
     , "Take Me Back (Leave Me There)"
-    , "9 to 5"
     , 'Rethink Some Things'
-    , 'Cowgirl' # Shaboozey
-    , "Jolene" # Parton
-    , 'Something To Lose'
     , "Phone, Keys, Wallet"
+    , 'Cowgirl' # Shaboozey
+    , 'Something To Lose'
     , 'Carry On'
-    , 'Mexico Honey'
     , 'Think As You Drunk'
-    , 'Another Drink'
-    , 'Empty Words'
-    , 'McArthur'
-    , 'String By'
+    , 'Mexico Honey'
     , "Kid Myself"
-    , 'Woman'
+    , "9 to 5"
+    , 'Empty Words'
+    , 'Another Drink'
+    , 'McArthur'
     , 'South Of Sanity'
+    , 'String By'
     , 'All My Exes'
     , 'Painted You Pretty'
+    , "Jolene" # Parton
     , 'Country And She Knows It'
     , 'Hands Up'
-    , 'Bet On That'
-    , "No Need For Leavin'"
     , "Get To Drinkin'"
-    , 'Kingdom Of Fear'
+    , 'Bet On That'
     , 'Say So'
-    , "Boots"
+    , 'Kingdom Of Fear'
+    , "No Need For Leavin'"
     , 'Medicine'
     , "What You Want"
-    , "Killin' Me"
     , "Who Told You That"
-    , "Pouring"
+    , "Killin' Me"
     , "That's Just Me"
+    , "Boots"
     , "I Want You"
-    , "How To Not"
-    , "Here"
-    , "Wish I Didn't Know Now" # Langley
-    , "Hurts Like You"
-    , "Boots Off"
     , "Water At A Wedding"
-    , "Mess"
+    , "Boots Off"
+    , "Pouring"
+    , "Here"
+    , "Hurts Like You"
+    , "Thoughts Of You"
+    , "Stop & Stare"
+    , "Wish I Didn't Know Now" # Langley
+    , "Last Thing You Need"
 ]
