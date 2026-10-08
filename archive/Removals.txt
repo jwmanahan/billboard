@@ -1,4 +1,11 @@
 
+// Left on Oct 6
+, 'McArthur'
+, "Ten Pairs Of Boots"
+, "I Want You"
+, "Here"
+, "Imagine That"
+
 // Left on Sept 29
 , "9 to 5"
 , "Jolene" # Parton

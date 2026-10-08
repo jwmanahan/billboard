@@ -1,52 +1,52 @@
-rankings = [ # 2026-09-22
+rankings = [ # 2026-10-06
     "Choosin' Texas"
     , 'Boston'
     , "Been By Now"
     , "Last Thing You Need"
     , 'Be Her'
-    , 'I Knew It, I Knew You'
     , "I Can't Love You Anymore"
-    , 'Be By You'
-    , 'Loving Life Again'
+    , 'I Knew It, I Knew You'
     , 'Jaded'
-    , 'Think As You Drunk'
-    , "Take Me Back (Leave Me There)"
+    , 'Loving Life Again'
+    , 'Be By You'
     , 'Rethink Some Things'
+    , "Take Me Back (Leave Me There)"
+    , 'Empty Words'
     , 'Carry On'
+    , 'Think As You Drunk'
     , "Phone, Keys, Wallet"
     , 'Something To Lose'
     , "Kid Myself"
     , 'Cowgirl' # Shaboozey
-    , "That's Just Me"
-    , 'Empty Words'
-    , 'Mexico Honey'
-    , 'South Of Sanity'
-    , 'McArthur'
     , 'All My Exes'
+    , 'South Of Sanity'
     , 'Another Drink'
+    , 'Mexico Honey'
     , 'Country And She Knows It'
-    , 'String By'
     , 'Painted You Pretty'
     , "Get To Drinkin'"
-    , "Finders Keepers"
-    , 'Hands Up'
+    , 'String By'
     , 'Say So'
     , 'Bet On That'
-    , "Go Again"
+    , 'Hands Up'
     , 'Medicine'
+    , "Go Again"
     , "What You Want"
-    , "Mess"
     , "Who Told You That"
-    , "Killin' Me"
-    , "Ten Pairs Of Boots"
     , "Water At A Wedding"
-    , "Boots Off"
-    , "I Want You"
-    , "Here"
+    , "Finders Keepers"
+    , "Mess"
+    , "That's Just Me"
+    , "Killin' Me"
     , "Worth Your Wild"
-    , "Wish I Didn't Know Now" # Langley
+    , "Done For"
+    , "Anytime Soon"
+    , "Boots Off"
     , "Thoughts Of You"
-    , "Imagine That"
+    , "Wish I Didn't Know Now" # Langley
     , "Pouring"
+    , "Horseback"
     , "Hurts Like You"
+    , "Lean In, Kiss Me"
+    , "Boots"
 ]
