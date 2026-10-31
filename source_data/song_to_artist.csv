@@ -701,3 +701,23 @@ song_to_artist_pk,song_id,artist_id,relationship_type,relationship_conjunction,r
 560-Lead artist-,560,135,Lead artist,,,2026-09-30
 561-Lead artist-,561,90,Lead artist,,,2026-10-07
 562-Lead artist-,562,21,Lead artist,,,2026-10-07
+563-Lead artist-,563,74,Lead artist,,,2026-10-17
+563-Other main artist-1,563,46,Other main artist,&,1.0,2026-10-17
+564-Lead artist-,564,112,Lead artist,,,2026-10-17
+565-Lead artist-,565,112,Lead artist,,,2026-10-17
+565-Featured artist-1,565,110,Featured artist,,1.0,2026-10-17
+566-Lead artist-,566,24,Lead artist,,,2026-10-17
+566-Other main artist-1,566,171,Other main artist,&,1.0,2026-10-17
+567-Lead artist-,567,11,Lead artist,,,2026-10-22
+568-Lead artist-,568,172,Lead artist,,,2026-10-22
+569-Lead artist-,569,151,Lead artist,,,2026-10-22
+570-Lead artist-,570,1,Lead artist,,,2026-10-31
+570-Featured artist-1,570,173,Featured artist,,1,2026-10-31
+571-Lead artist-,571,1,Lead artist,,,2026-10-31
+572-Lead artist-,572,1,Lead artist,,,2026-10-31
+573-Lead artist-,573,1,Lead artist,,,2026-10-31
+573-Featured artist-1,573,174,Featured artist,,1,2026-10-31
+574-Lead artist-,574,1,Lead artist,,,2026-10-31
+575-Lead artist-,575,1,Lead artist,,,2026-10-31
+576-Lead artist-,576,1,Lead artist,,,2026-10-31
+577-Lead artist-,577,1,Lead artist,,,2026-10-31

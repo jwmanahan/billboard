@@ -1,4 +1,25 @@
 
+// Left on Oct 27
+, 'Be By You'
+, "Are We Ever Gonna Work Out, Baby?"
+, "That's Just Me"
+, "Workin' Man"
+, "Us Again"
+, "Finders Keepers"
+, "Hell Is A Dance Floor"
+, "Done For"
+
+// Left on Oct 20
+, 'Carry On'
+, "Boots Off"
+, "Overrated"
+
+// Left on Oct 13 or 14
+, "Wish I Didn't Know Now" # Langley
+, "Hurts Like You"
+, "Lean In, Kiss Me"
+, "Boots"
+
 // Left on Oct 6
 , 'McArthur'
 , "Ten Pairs Of Boots"

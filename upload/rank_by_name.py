@@ -1,52 +1,52 @@
-rankings = [ # 2026-10-06
+rankings = [ # 2026-10-27
     "Choosin' Texas"
+    , "Lies"
     , 'Boston'
     , "Been By Now"
-    , "Last Thing You Need"
-    , 'Be Her'
-    , "I Can't Love You Anymore"
-    , 'I Knew It, I Knew You'
-    , 'Jaded'
     , 'Loving Life Again'
-    , 'Be By You'
+    , 'Be Her'
+    , 'Jaded'
+    , "Last Thing You Need"
+    , "Lodi When"
+    , "I Can't Love You Anymore"
     , 'Rethink Some Things'
+    , "Robot Killed The Working Man"
     , "Take Me Back (Leave Me There)"
-    , 'Empty Words'
-    , 'Carry On'
-    , 'Think As You Drunk'
+    , "Plainsman"
     , "Phone, Keys, Wallet"
-    , 'Something To Lose'
-    , "Kid Myself"
-    , 'Cowgirl' # Shaboozey
+    , 'I Knew It, I Knew You'
+    , "Backwards"
+    , "You'll Get By"
+    , 'Think As You Drunk'
+    , "Dog Days"
+    , "Something To Lose"
+    , 'Empty Words'
+    , "Is The Blue Tangled In You?"
     , 'All My Exes'
-    , 'South Of Sanity'
-    , 'Another Drink'
-    , 'Mexico Honey'
     , 'Country And She Knows It'
-    , 'Painted You Pretty'
     , "Get To Drinkin'"
-    , 'String By'
+    , 'Cowgirl' # Shaboozey
+    , "Snakeskin Boots"
+    , 'South Of Sanity'
+    , 'Painted You Pretty'
     , 'Say So'
-    , 'Bet On That'
+    , 'Mexico Honey'
+    , "Kid Myself"
     , 'Hands Up'
+    , 'Bet On That'
     , 'Medicine'
-    , "Go Again"
-    , "What You Want"
-    , "Who Told You That"
+    , 'String By'
+    , 'Another Drink'
     , "Water At A Wedding"
-    , "Finders Keepers"
-    , "Mess"
-    , "That's Just Me"
-    , "Killin' Me"
-    , "Worth Your Wild"
-    , "Done For"
     , "Anytime Soon"
-    , "Boots Off"
-    , "Thoughts Of You"
-    , "Wish I Didn't Know Now" # Langley
+    , "Who Told You That"
     , "Pouring"
+    , "Kinda Love It"
+    , "Worth Your Wild"
+    , "What You Want"
+    , "Mess"
+    , "Killin' Me"
+    , "Thoughts Of You"
     , "Horseback"
-    , "Hurts Like You"
-    , "Lean In, Kiss Me"
-    , "Boots"
+    , "Go Again"
 ]
