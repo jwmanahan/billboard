@@ -1,52 +1,52 @@
-rankings = [ # 2026-10-27
+rankings = [ # 2026-11-03
     "Choosin' Texas"
-    , "Lies"
     , 'Boston'
     , "Been By Now"
+    , "Lies"
+    , 'Jaded'
     , 'Loving Life Again'
     , 'Be Her'
-    , 'Jaded'
     , "Last Thing You Need"
-    , "Lodi When"
     , "I Can't Love You Anymore"
     , 'Rethink Some Things'
-    , "Robot Killed The Working Man"
     , "Take Me Back (Leave Me There)"
-    , "Plainsman"
     , "Phone, Keys, Wallet"
-    , 'I Knew It, I Knew You'
-    , "Backwards"
-    , "You'll Get By"
-    , 'Think As You Drunk'
-    , "Dog Days"
     , "Something To Lose"
-    , 'Empty Words'
-    , "Is The Blue Tangled In You?"
-    , 'All My Exes'
+    , 'Think As You Drunk'
     , 'Country And She Knows It'
+    , 'I Knew It, I Knew You'
+    , 'Empty Words'
+    , "Lodi When"
     , "Get To Drinkin'"
     , 'Cowgirl' # Shaboozey
-    , "Snakeskin Boots"
     , 'South Of Sanity'
+    , "Snakeskin Boots"
     , 'Painted You Pretty'
     , 'Say So'
-    , 'Mexico Honey'
     , "Kid Myself"
     , 'Hands Up'
+    , "Robot Killed The Working Man"
     , 'Bet On That'
+    , "Plainsman"
     , 'Medicine'
     , 'String By'
-    , 'Another Drink'
     , "Water At A Wedding"
     , "Anytime Soon"
+    , "Backwards"
+    , "You'll Get By"
+    , "Worth Your Wild"
+    , 'Another Drink'
+    , "Is The Blue Tangled In You?"
+    , "Mess"
     , "Who Told You That"
+    , "What You Want"
     , "Pouring"
     , "Kinda Love It"
-    , "Worth Your Wild"
-    , "What You Want"
-    , "Mess"
-    , "Killin' Me"
-    , "Thoughts Of You"
     , "Horseback"
+    , "Dog Days"
+    , "Killin' Me"
+    , "That's Just Me"
+    , "Workin' Man"
+    , "Thoughts Of You"
     , "Go Again"
 ]
