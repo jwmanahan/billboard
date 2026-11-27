@@ -1,52 +1,52 @@
-rankings = [ # 2026-11-03
+rankings = [ # 2026-11-24
     "Choosin' Texas"
     , 'Boston'
-    , "Been By Now"
-    , "Lies"
     , 'Jaded'
+    , "Last Thing You Need"
+    , "Been By Now"
     , 'Loving Life Again'
     , 'Be Her'
-    , "Last Thing You Need"
+    , "Lies"
     , "I Can't Love You Anymore"
-    , 'Rethink Some Things'
     , "Take Me Back (Leave Me There)"
     , "Phone, Keys, Wallet"
-    , "Something To Lose"
-    , 'Think As You Drunk'
-    , 'Country And She Knows It'
-    , 'I Knew It, I Knew You'
-    , 'Empty Words'
-    , "Lodi When"
+    , 'Rethink Some Things'
     , "Get To Drinkin'"
-    , 'Cowgirl' # Shaboozey
-    , 'South Of Sanity'
-    , "Snakeskin Boots"
+    , 'Empty Words'
+    , 'Think As You Drunk'
+    , "Something To Lose"
     , 'Painted You Pretty'
     , 'Say So'
-    , "Kid Myself"
+    , 'I Knew It, I Knew You'
+    , 'Cowgirl' # Shaboozey
+    , "Here Then We're Gone"
+    , "Snakeskin Boots"
     , 'Hands Up'
-    , "Robot Killed The Working Man"
-    , 'Bet On That'
-    , "Plainsman"
-    , 'Medicine'
-    , 'String By'
-    , "Water At A Wedding"
-    , "Anytime Soon"
-    , "Backwards"
-    , "You'll Get By"
-    , "Worth Your Wild"
-    , 'Another Drink'
-    , "Is The Blue Tangled In You?"
-    , "Mess"
-    , "Who Told You That"
-    , "What You Want"
     , "Pouring"
+    , 'String By'
+    , 'Bet On That'
+    , "Anytime Soon"
+    , "Water At A Wedding"
+    , "Worth Your Wild"
+    , "Kid Myself"
+    , 'Medicine'
+    , "What You Want"
+    , "Dying In This House"
     , "Kinda Love It"
+    , "Be There In A Minute"
+    , "Who Told You That"
     , "Horseback"
-    , "Dog Days"
+    , "Mess"
+    , "Torn"
+    , "Move On"
     , "Killin' Me"
-    , "That's Just Me"
+    , "Lodi When"
+    , "You For Me (Smoky Mountain Demo)"
+    , "Let Him In Anyway"
+    , "If I Don't Leave I'm Gonna Stay"
     , "Workin' Man"
+    , "Overrated"
+    , "That's Just Me"
     , "Thoughts Of You"
-    , "Go Again"
+    , "Remember Me That Way"
 ]
